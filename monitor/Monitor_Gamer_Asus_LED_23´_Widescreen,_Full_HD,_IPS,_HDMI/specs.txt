@@ -1,0 +1,69 @@
+- Marca: Asus
+- Modelo: VC239H
+ 
+Especificações:
+ 
+Tela:
+- Tamanho do painel: Wide Screen 23.0 "(58,4 pol.) 16: 9 
+- Painel traseiro / Tipo: comutação no plano 
+- Resolução: 1920x1080  
+- Full HD 1080p: sim 
+- Superfície do visor Não refletora 
+- Distância do pixel: 0,2652 mm 
+- Brilho (máx): 250 cd / ㎡ 
+- Razão de Contraste (Max): 1,000: 1 
+- ASUS Razão de Contraste inteligente (ASCR): 80000000: um 
+- Ângulo de visão (CR ≧ 10): 178 ° (H) / 178 ° (V) 
+- Tempo de resposta: 5ms (GTGσ) 
+- Cores de tela: 16.7M 
+- Sem tremulação
+ 
+Recurso de vídeo:
+- Modos Predefinidos de Vídeo SPLENDID: 8 Modos 
+- 
+- Seleção de Tom de Pele: 3 Modos 
+- Seleção de Temperatura de Cor: 4 Modos 
+- QuickFit (modos): Sim (Carta / A4 / Grade de Alinhamento / Modos Fotográficos) 
+- GamePlus (modos): Sim (Crosshair / Timer) 
+- Low Blue Luz
+- VividPixel
+ 
+Recursos de áudio:
+- Alto-falantes estéreo: 1.5W x 2 Stereo RMS
+ 
+Hotkey conveniente:
+- Seleção de ajuste de brilho do filtro de luz azul 
+- Seleção QuickFit
+ 
+Portas de I/O:
+- Entrada de sinal: HDMI, D-Sub, DVI-D
+Frequência de sinal:
+- Freqüência do Sinal Analógico: 30 ~ 80 KHz (H) / 56 ~ 76 Hz (V) 
+ 
+Consumo de energia:
+- Modo Power On: &lt;22 W (Baseado no padrão Energy Star 6.0) 
+- Modo de economia de energia: &lt;0,5 W 
+- Modo de desligamento : &lt;0,5 W Tensão: 100 -240V, 50 / 60Hz
+ 
+Design mecânico:
+- Chassis Cores: Preto 
+- Inclinação: + 20 ° ~ -5 ° 
+- VESA Montagem na parede: 100x100mm 
+- Design Slim
+- Design sem moldura
+ 
+Segurança:
+- Bloqueio Kensington
+ 
+Conteúdo da embalagem:
+- Monitor ASUS
+- Cabo DVI
+- Fonte de energia 
+- Guia de início rápido 
+Garantia
+12 meses de garantia
+Peso
+4640 gramas (bruto com embalagem)
+
+Preço normal: R$882.24
+Preço boleto: R$749.90

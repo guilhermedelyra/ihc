@@ -1,0 +1,66 @@
+- Marca: Galax
+- Modelo: 50NPH8DSN8OC
+ 
+Especificações:
+ 
+GPU:
+- Clock Base: 1366MHz
+- Clock Boost: 1468 MHz
+ 
+Memória:
+- Velocidade: 3504 (7008) Mhz
+- Capacidade Padrão: 2048MB
+- Interface de Largura: 128-bit GDDR5
+- Largura da banda: 112 GB / seg
+ 
+Recursos:
+- NVIDIA Ansel
+- NVIDIA G-SYNC
+- NVIDIA GameStream
+- NVIDIA GPU Boost 3.0
+- Microsoft DirectX 12
+- API Vulkan
+- Suporte Open GL 4.5
+- PCIe 3.0
+- Certificação OS 
+- Windows 7-10, Linux, Free85BSDx86
+- Conectores Display 
+- DP1.4, HDMI 2.0b, Dual Link-DVI
+- HDCP 2.2
+- Últimas Interface do Display Suporte DP 1.4
+ 
+Suporte de exibição:
+- Monitor multi 3 Mostra
+- Resolução Digital: 4096x2160@60Hz
+- HDCP
+- HDMI
+ 
+Conectores padrão de vídeo:
+- 1x Dual Link-DVI-D
+- 1x HDMI
+- 1x DP 1.4
+ 
+Alimentação de Energia:
+- Potência: 75W
+- Requisito mínimo de energia do sistema: 300W
+ 
+Requerimentos:
+- Placa-mãe PCI Express compatível com um slot duplo de largura x16
+- Fonte de alimentação do sistema de 300W mínimo ou maior
+- Espaço disponível no disco rígido de 350 MB
+- 2 GB de memória do sistema (4 GB ou superior recomendado)
+- Microsoft Windows 10, Windows 8 e 8.1, Windows 7(32 or 64-bit)
+- CD-ROM / DVD-ROM ou ligação à Internet
+*Windows XP não é mais suportado.
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo Galax 
+- Drive de Instalação
+- Guia Rápido 
+Garantia
+12 meses de garantia
+Peso
+710 gramas (bruto com embalagem)
+
+Preço normal: R$823.41
+Preço boleto: R$699.90

@@ -1,0 +1,73 @@
+- Marca: LG
+- Modelo: 29WK600 
+Especificações:
+- Tamanho da tela: 29 "
+- Tipo de painel: IPS
+- Gama de cores (CIE1931): sRGB 99% (Typ)
+- Profundidade de cor (número de cores): 8bits (6bit + FRC), 16,7m
+- Passo de pixel (mm): 0,2628 x 0,2628
+- Tempo de Resposta (GTG): 5ms (alta)
+- Proporção da tela: 21: 9
+- Resolução: 2560 x 1080
+- Brilho: 300 (Typ), 240 (min) cd / m2
+- Taxa de contraste: 1000: 1 (Typ)
+- Ângulo de visão: 178/178 (CR≥10)
+- Tratamento da superfície: Anti-reflexo 3H
+- Base Detectável
+- Ângulo de inclinaçao: -5 ~ 15 graus
+- Tamanho VESA (mm): 100 x 100 (compatível com VESA)
+ 
+Entrada / Saída:
+- 2x HDMI
+- DisplayPort
+- Saída de fone de ouvido
+ 
+Power:
+- Tipo: Adaptador
+- Entrada: 100 ~ 240V
+- Normal ativado (tipo EPA): 20,5 W
+- Normal Ligado (condição de fábrica): 32W
+- Modo de economia de energia / suspensão (máx.): 0,5 W
+- DC Off (máx): 0,3 W
+ 
+Som:
+- Alto falante: 5W x 2
+- Ajuste de áudio: MAXXAudio
+ 
+Recursos:
+- Modo de Imagem:(Conteúdo não HDR) Personalizado, Efeito HDR, Leitor, Foto, Cinema, Fraqueza de cor, Jogo FPS1 / Jogo FPS2, RTS Game, Custom (Game), (conteúdo HDR)  HDR Vivid, Cinema HDR, Jogo HDR, Padrão HDR
+- Raio: Largo, Original, Cinema 1, Cinema 2
+- PIP: Modo PIP na divisão de tela
+- DDC / CI
+- HDCP: HDCP2.2 / HDCP1.4
+- Bloqueio de teclas
+- Plug &amp; Play
+- Controle de Tempo de Resposta
+- Cor Calibrada
+- Sincronização Adaptativa: AMD FreeSync
+- Modo de jogo
+- Modo DAS
+- Estabilizador Preto
+- Sincronização de ação dinâmica
+- Crosshair
+- Flicker Safe
+- Espera Automática
+- Controle de Seis Eixos
+- Economia de energia inteligente
+- Modo Leitor
+- Controlador Duplo
+- Tela split2.0 (em OSC)
+- Minha exibição predefinida (em OSC)
+- Controle na tela (OSC)
+- One Click Stand Set-up
+- Super resolução +
+- HDR (High Dynamic Range)
+- HDR 10
+Conteúdo da embalagem:- Monitor LG UltraWide 29´´  
+Garantia
+12 meses de garantia
+Peso
+7500 gramas (bruto com embalagem)
+
+Preço normal: R$1414.83
+Preço boleto: R$1202.61

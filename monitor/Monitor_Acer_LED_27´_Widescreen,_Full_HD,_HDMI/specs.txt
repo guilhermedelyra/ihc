@@ -1,0 +1,43 @@
+- Marca: Acer
+- Modelo: VA270H
+ 
+Especificações:
+- Tamanho do painel: 27" (16:9)
+- Área ativa do display: 597 x 336 mm
+- Bits: 6-bit + Hi-FRC
+- Pitch de pixel: 0.311 mm
+- Resolução: 1920x1080 @ 60 Hz
+- Taxa de atualização: 60Hz
+- Tipo de painel: VA
+- Tempo de Resposta (tip.): 6ms (on/off)
+- Contraste Adaptativo Acer: 100.000.000:1
+- Contraste Nativo: 3.000:1
+- Brilho: 300 cd/m²
+- Ângulo de visão (CR ≧ 10): 178º / 178º
+- Exibir cores: 16.7M
+- Bit de cor: 6Bit + Hi-FRC
+- Saturação de cores: 72% NTSC
+- Montagem em parede VESA: 100x100mm
+- Tipo de moldura: 3S E2E
+- Inclinar: -5º ~ 20º
+- Fonte de Energia: Interna 100 
+- 240V
+Sinais de Entrada:
+- 1x VGA
+- 1x HDMI
+- 1x DVI
+ 
+Consumo de Energia:
+- ENERGY STAR
+- Off: 0.24 W
+- Sleep: 0.43 W
+- On: 26.6 W
+Conteúdo da Embalagem:
+- Monitor Acer 
+Garantia
+12 meses de garantia
+Peso
+6015 gramas (bruto com embalagem)
+
+Preço normal: R$976.35
+Preço boleto: R$829.90

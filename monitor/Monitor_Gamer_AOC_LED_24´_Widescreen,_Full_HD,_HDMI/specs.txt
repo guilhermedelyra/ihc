@@ -1,0 +1,70 @@
+- Marca: AOC
+- Modelo: G2460PF
+ 
+Especificações:
+ 
+Display:
+- Tipo de painel: LED
+- Tamanho do painel: 24" Widescreen
+- Tamanho da imagem visível (diagonal): 60,97 cm
+- Pixel pitch: 0,276 mm
+- Contraste estático: 1.000:1
+- Frequência do painel: 144 Hz (Possível apenas com o cabo display port)
+- Tratamento da tela: Anti-reflexivo
+- Ângulo de visão horizontal: 170º
+- Contraste (Dinâmico): 50.000.000:1
+- Ângulo de visão vertical: 160º
+- Brilho: 350 cd/m²
+- Resolução máxima: 1920 x 1080 @ 144 Hz (FULL HD)
+- Tempo de resposta: 1 ms
+- Resolução recomendada: 1920 x 1080 @ 144 Hz (FULL HD)
+- Suporte de cores: Maior que 16 Milhões
+ 
+Conexões:
+- 1x VGA
+- 1x DVI
+- 1x DisplayPort
+- 1x Entrada de áudio
+- 1x HDMI
+- 4x USB
+- 1x Fone de ouvido
+ 
+Áudio:
+- Alto-Falantes Embutido
+ 
+Energia:
+- Consumo (máximo): 1,0W
+- Fonte Interna
+- Voltagem: 100~240V 
+- 50/60 Hz
+ 
+Controles Manuais:
+- Power On/Off
+- Menu
+- Volume
+- Game mode
+- Entrada / Auto / Sair
+ 
+Físico:
+- Padrão de furação VESA Mount (100 x 100mm)
+- Base Ajustável: Altura 120mm, Pivô 90º, Giratória 65/-65º, Ângulo -5/+22º
+ 
+Compatibilidade:
+- Windows, MAC, Linux
+Normas / Segurança / Certificações:
+- RoHS, CCC/CQC, GS / Bauart, CEL1, CB/CE, cTUVus, FCC, Energy Star, ISO9241-307, Win 8, EPEAT silver, Inmetro
+ 
+Conteúdo da Embalagem:
+- Monitor Gamer AOC
+- Cabo de força
+- Cabo VGA
+- Cabo DP
+- Certificado de garantia
+- Base para o monitor 
+Garantia
+12 meses de garantia
+Peso
+8195 gramas (bruto com embalagem)
+
+Preço normal: R$1724.59
+Preço boleto: R$1465.90
