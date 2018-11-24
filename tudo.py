@@ -8,8 +8,8 @@ import os
 
 
 def cria_dir(directory):
-	if not os.path.exists(directory):
-		os.makedirs(directory)
+	if not os.path.exists('.data/'+directory):
+		os.makedirs('.data/'+directory)
 
 def return_soup(link):
 	r = requests.get(link)
@@ -17,12 +17,20 @@ def return_soup(link):
 	soup = BeautifulSoup(html, "lxml")
 	return soup
 
+def file_name(string):
+	string = string.replace(' ', '_')
+	string = ''.join(e for e in string if e.isalnum() or e == '_')
+	return string
+
+cria_dir('')
+
 # procura x categoria na kabum
-procuras = ['mesa']
+procuras = ['placa de video', 'processador']#,'headset', 'monitor', 'mouse', 'teclado']
 for p in procuras:
-	cria_dir(p.replace(' ', '_'))
 
 	soup = return_soup("https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=%s&btnG=" % p)
+	p = file_name(p)
+	cria_dir(p)
 
 	# pega K produtos da categoria procurada
 	div_produtos = soup.find_all("div", {"class": "listagem-img"})
@@ -32,7 +40,7 @@ for p in procuras:
 		for url in ahrefs:
 			produtos.append(url['href']);
 
-	random_products = random.sample(range(len(produtos)), 15)
+	random_products = random.sample(range(len(produtos)), 5)
 	produtos = [produtos[i] for i in random_products]
 	
 	for url_p in produtos:
@@ -40,7 +48,8 @@ for p in procuras:
 		
 		# pega nome do produto e cria pasta
 		nome = soup.title.string.split('KaBuM! - ')[-1]
-		dirname = (p+'/'+nome).replace(' ', '_')
+		nome = file_name(nome)
+		dirname = p+'/'+nome
 		cria_dir(dirname)
 
 		# pega array de slideshow
@@ -53,17 +62,18 @@ for p in procuras:
 
 		# salva as imagens
 		for img in imgs:
-			filename = dirname+'/'+(img.split('/')[-1]).replace(' ', '_')
+			filename = '.data/'+dirname+'/'+file_name(img.split('/')[-1].split('.jpg')[0])+'.jpg'
 			urllib.request.urlretrieve(img, filename)
 
 		# pega infos do produto e salva
-		de = re.escape('Características:')
-		ate = re.escape('<br/>\n<p')
+		de = re.escape('Caracterí')
+		ate = re.escape('(bruto com embalagem)')
 		patt = r'(?<=' + de + r')(.*?)(?=' + ate + r')'
 		rgx = re.compile(patt, re.DOTALL)
-		get_caracteristicas = rgx.findall(str(soup))[0]
-		dirty_caracteristicas = bleach.clean(get_caracteristicas, tags=[], attributes={}, styles=[], strip=True)
-		caracteristicas = dirty_caracteristicas.replace('Especificações:', '\nEspecificações:\n').replace('- ', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace(' -', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace('\n\n\n', '\n').replace('\n \n', '\n').strip() + '\n'
+
+		clean_soup = bleach.clean(str(soup), tags=[], attributes={}, styles=[], strip=True)
+		get_caracteristicas = rgx.findall(clean_soup)[0].split('ticas:')[-1]
+		caracteristicas = get_caracteristicas.replace('Especificações:', '\nEspecificações:\n').replace('- ', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace(' -', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace('\n\n\n', '\n').replace('\n \n', '\n').strip() + '\n'
 
 		# pega preço antigo, atual e promoção boleto
 		preco_normal = bleach.clean(str(soup.find("div", {"class":"preco_normal"})).split('R$')[-1], tags=[], attributes={}, styles=[], strip=True).strip().replace(',', '.')
@@ -76,18 +86,19 @@ for p in procuras:
 		aux = preco_normal.split('.')
 		preco_normal = ''.join(aux[:-1])+'.'+aux[-1]
 		print(preco_normal)
+		print(preco_antigo, ' ', type(preco_antigo))
 		prices = ""
 
-		if (preco_antigo != 'None'):
-			aux = preco_antigo.split('.')
+		if (preco_antigo != 'None' and preco_antigo):
+			aux = preco_antigo.split('por')[0].strip().split('.')
 			preco_antigo = ''.join(aux[:-1])+'.'+aux[-1]
 			prices += "\nPreço antigo: R$%s" % preco_antigo
 
-		prices = "\nPreço normal: R$%s" % preco_normal
+		prices += "\nPreço normal: R$%s" % preco_normal
 		boleto = float(preco_normal) - float(preco_normal) * 0.15
 		prices += "\nPreço boleto: R${:.2f}".format(boleto)
 
 		caracteristicas += prices
 
-		f = open(dirname+'/'+'specs.txt', 'w')
+		f = open('.data/'+dirname+'/'+'specs.txt', 'w')
 		f.write(caracteristicas)

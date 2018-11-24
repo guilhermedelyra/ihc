@@ -1,0 +1,36 @@
+- Marca: AMD
+- Modelo: YD2400C5FBBOX
+ 
+Especificações:
+- CPU Cores: 4
+- Base Clock: 3.6GHz
+- Cache L3 total: 4MB
+- Threads: 8
+- Máx. Boost Clock: 3.9GHz
+- Default TDP / TDP: 65W
+- GPU Cores: 11
+- Total L2 Cache: 2MB
+- cTDP: 46-65W
+- Plataforma: Desktop
+ 
+Gráficos:
+- Frequência: 1250 MHz
+- Modelo: Radeon™ Vega 11 Processor Graphics
+- Core Count: 11 
+ 
+Tecnologias compatíveis:
+- Tecnologia AMD SenseMI
+- Utilitário AMD Ryzen™ Master
+- Enmotus FuzeDrive™ para AMD Ryzen™
+- Software Radeon
+Conteúdo da embalagem:
+- Processador AMD Ryzen
+- Cooler com Wraith Stealth 
+Garantia
+12 meses de garantia
+Peso
+665 gramas
+
+Preço antigo: R$820.95
+Preço normal: R$768.32
+Preço boleto: R$653.07

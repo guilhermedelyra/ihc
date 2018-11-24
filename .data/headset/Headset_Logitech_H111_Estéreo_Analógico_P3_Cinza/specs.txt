@@ -1,0 +1,38 @@
+- Marca: Logitech
+- Modelo: H111
+ 
+Especificações:
+- Impedância de entrada: 32 ohms
+- Sensibilidade (headphone): 100 dB +/
+- 3 dB
+- Sensibilidade (microfone): -58 dBV/µBar, -38 dBV/Pa +/
+- 4 dB
+- Resposta de frequência (Headset): 20 Hz a 20 kHz
+- Resposta de frequência (Microfone): 100 Hz – 16.000 Hz
+- Braço giratório flexível 
+- Arco de cabeça ajustável
+- Comprimento do cabo: 1,8 m (5,90 ft)
+- Altura: 160 mm (6.3 in)
+- Largura: 210 mm (8.3 in)
+- Profundidade: 50 mm (2.0 in)
+ 
+Requisitos do Sistema:
+- Windows Vista®, Windows® 7, Windows 8, Windows 10 ou posterior
+- Mac OS 10.5 ou posterior
+- Chrome OS™
+- Linux Kernel 2.6+
+- iOS (iPhone, iPad e iPod)
+- Android™
+- Conector simples de 3,5 mm
+ 
+Conteúdo do embalagem: 
+- 01 Headset Logitech
+- Documentação do usuário 
+Garantia
+12 meses de garantia
+Peso
+185 gramas
+
+Preço antigo: R$79.88
+Preço normal: R$75.89
+Preço boleto: R$64.51

@@ -1,0 +1,73 @@
+- Marca: ASUS
+- Modelo: VS248H-P
+ 
+Especificações:
+ 
+Exibição:
+- Tamanho do Painel: Wide Screen 24,0 "(61,0 centímetros) 16: 9 
+- Resolução Nativa: 1920x1080 
+- Pixel Pitch: 0,2768 milímetro 
+- Brilho (Max): 250 cd / m²
+- ASUS Relação de Contraste Inteligente (ASCR): 50000000: 1 
+- Ângulo de visão (CR ≧ 10) : 170º (H) / 160º (V) 
+- Tempo de resposta: 2ms (cinza a cinza) 
+- Display Colors: 16.7 Milhões
+- Tempo de Resposta: 2ms (Gray to Gray)
+- Dimensão com suporte: 573.2 x 412.3 x 205.5mm 
+ 
+Recursos de vídeo:
+- Tecnologia Inteligente: Splendid Video
+- Splendid Video Modos preestabelecidos: 6 Modos
+- Tonalidade da skin de selecção: 3 Modos
+- Cor da seleção de Temperatura: 4 Modos de suporte HDCP
+ 
+Tecla de atalho conveniente:
+- Modo Splendid Video predefinido Seleção
+- Auto. Ajuste
+- Brilho Ajuste
+- Ajuste de contraste
+- Seleção de Entrada
+ 
+Portas I/O:
+- Entrada de Sinal: HDMI, D-Sub, DVI-D
+- Tomada de auscultadores: 3,5 milímetros Mini-Jack
+ 
+Freqüência do sinal:
+- Freqüência do Sinal Analógico: 30 ~ 83 KHz (H) / 50 ~ 76 Hz (V) 
+- Frequência de Sinal Digital: 30 ~ 83 KHz (H) / 50 ~ 76 Hz (V)
+ 
+Consumo de energia:
+- Ligado: &lt;32W 
+- Modo de Economia de energia: &lt;0.5W 
+- Power Mode Off: &lt;0.5W
+ 
+Design Físico:
+- Cores Chassis: Preto 
+- Tilt: + 20º ~ -5º 
+- Montagem VESA: 100 x 100 mm
+- Dimension com suporte: 573.2 x 412.3 x 205.5mm 
+ 
+Segurança:
+- Bloqueio Kensington
+ 
+Conformidade e Padrões:
+- EPEAT Gold Certificado, Energy Star 5.0, CEL, UL / cUL, CB, CE, ErP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, J-MOSS, RoHS, WEEE, Windows 7 WHQL
+ 
+Conteúdo da Embalagem:
+- Monitor ASUS
+- Cabo DVI 
+- Cabo VGA 
+- Cabo de alimentação 
+- Guia de início rápido 
+- Cartão de Garantia
+ 
+Observação:
+* Não possui alto falantes interno. 
+Garantia
+12 meses de garantia
+Peso
+5900 gramas
+
+Preço antigo: R$1021.06
+Preço normal: R$811.65
+Preço boleto: R$689.90

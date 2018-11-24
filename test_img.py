@@ -13,9 +13,9 @@ colors = {
 img = Image.open("sample_in.jpg")
 draw = ImageDraw.Draw(img)
 
-antes = ImageFont.truetype("ChakraPetch-Regular.ttf", 10)
-depois = ImageFont.truetype("ChakraPetch-Bold.ttf", 15)
+antes = ImageFont.truetype("fonts/ChakraPetch-Regular.ttf", 10)
+depois = ImageFont.truetype("fonts/ChakraPetch-Bold.ttf", 15)
 draw.text((15, 142),"de: $100", colors['branco'], font=antes)
 draw.text((15, 152),"por: $149", colors['azul'], font=depois)
 
-img.save('sample-out.jpg')
+img.save('sample-out1.png', 'PNG')
