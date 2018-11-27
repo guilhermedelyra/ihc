@@ -5,11 +5,11 @@ Spree.config do |config|
   # Core:
 
   # Default currency for new sites
-  config.currency = "USD"
+  config.currency = "BRL"
 
   # from address for transactional emails
   config.mails_from = "store@example.com"
-
+  config.logo = "logo/jojogos.png"
   # Uncomment to stop tracking inventory levels in the application
   # config.track_inventory_levels = false
 
@@ -47,11 +47,11 @@ Spree.config do |config|
 end
 
 Spree::Frontend::Config.configure do |config|
-  config.locale = 'en'
+  config.locale = 'pt-BR'
 end
 
 Spree::Backend::Config.configure do |config|
-  config.locale = 'en'
+  config.locale = 'pt-BR'
 end
 
 Spree::Api::Config.configure do |config|
