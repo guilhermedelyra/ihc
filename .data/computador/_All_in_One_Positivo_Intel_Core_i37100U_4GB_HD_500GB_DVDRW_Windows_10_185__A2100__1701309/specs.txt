@@ -1,0 +1,105 @@
+- Marca: Positivo
+- Modelo: 1701309
+ 
+Especificações:
+ 
+Processador:
+- 7th Geração Intel Core i3 7100U 
+- 2.40 GHz
+- 3MB Cache
+- Dual Core
+ 
+Chipset:
+- SoC (funcionalidades integradas ao processador)
+ 
+Placa mãe: 
+- Positivo
+ 
+Sistema Operacional:
+- Windows 10 Home
+Tela:
+- LCD de 18.5" com tecnologia LED
+- Tratamento antirreflexo
+- Resolução de 1366 x 768 (HD)
+ 
+Memória RAM:
+- 4 GB DDR4 SDRAM (2133 MHz, Non-ECC)
+- 1x slot SO-DIMM com suporte até 16GB
+ 
+Disco Rígido:
+- 500GB
+- SATA III
+- 2,5"
+ 
+Unidade òtica:
+- DVD RW (Gravador de CD 24x, Gravador de DVD 8x)
+ 
+Leitor de cartões:
+- SD/MMC/MS/MS Pro
+ 
+Webcam:
+- 0.3 Megapixel
+ 
+Gráficos:
+- Intel HD Graphics 620 integrado ao processador
+- Acerelação gráfica integrada de vídeos em alta definição (HD) e suporte a Microsoft DirectX 12 e OpenGL 4.4
+ 
+Áudio:
+- Áudio de alta definição (HD Áudio) integrado de 5.1 canais
+- Microfone e 2x alto-falantes estéreo embutidos
+Wireless (rede sem fio):
+- Intel Dual BAnd Wireless AC 802.11 a/b/g/n/ac + Bluetooth 4.0
+ 
+Rede:
+- 10/100/1000 Mbps, padrão Gigabit Ethernet
+ 
+Portas de Conexão:
+- 2x USB 2.1 Gen1
+- 4x USB 2.0
+- 1x HDMI 1.4 (sáida)
+- 1x RJ45
+- 1x line-in (microfone)
+- 1x line-out (fone de ouvido)
+- 1x DC-in (fonte)
+Fonte de alimentação:
+- Externa
+- 65W
+- 100-240V
+- 50~60Hz automática
+ 
+Teclado:
+- Padrão ABNT2
+- USB
+- Resistência a derramamento de líquidos
+ 
+Mouse:
+- Ótico
+- 2 botões
+- Com scroll
+- USB
+- Resolução de 1000 DPI
+ 
+Segurança:
+- Abertura para trava tipo Kensington
+ 
+Função VESA:
+- 100x100mm
+ 
+Cor:
+- Frontal e pedestal: Preto brilhante
+- Traseira: Preto fosco
+ 
+Dimensões:
+- 39 x 455 x 342 mm
+ 
+Conteúdo da embalagem:
+- All in One Positivo
+- Fonte de alimentação
+- Guia Rápido de instalação 
+Garantia
+12 meses de garantia
+Peso
+4930 gramas
+
+Preço normal: R$3235.18
+Preço boleto: R$2749.90

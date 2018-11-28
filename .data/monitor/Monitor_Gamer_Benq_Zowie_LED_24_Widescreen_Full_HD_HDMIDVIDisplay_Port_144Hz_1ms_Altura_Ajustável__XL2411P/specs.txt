@@ -1,0 +1,55 @@
+- Marca: Benq
+- Modelo: XL2411P
+ 
+Especificações:
+ 
+Display:
+- Tamanho: 24"
+- Proporção de aspecto: 16:9
+- Máxima resolução: 1920 x 1080 a 144Hz (DVI-DL, DP)
+- Área de exibição: 531,3 x 298,8 mm 
+- Tipo de brilho: 350 cd / ㎡
+- Tipo de contraste: 1000: 1
+- Tipo de painel: TN
+- Tempo de resposta: 1ms (GtG)
+ 
+Conectividade:
+- DVI-DL 
+- HDMI x1 
+- DP1.2 
+- Tomada de fone de ouvido
+ 
+Eletricidade:
+- Fonte de alimentação (90 ~ 264 AC)
+- Consumo de energia (modo On): 45W
+ 
+Dimensões:
+- 559 (mais alto) / 429 (menor) x 570 x 219
+ 
+Stand:
+- Giratório (esquerda / direita): 45/45
+- Inclinação (°): -5 ~ 20
+- Ajuste de altura (mm): 130
+- Montagem em parede VESA 100x100 mm
+- Pivot 90 °
+ 
+Informações adicionais:
+- Black eQualizer
+- Cor Vibrance
+- Luz azul baixa
+- Sem cintilação
+- K Locker
+ 
+Conteúdo da embalagem:
+- Monitor Gamer BenQ
+- Cabo de Força
+- Cabo HDMI 1.5m
+- Garantia
+- Manual do Usuário 
+Garantia
+12 meses de garantia
+Peso
+8150 gramas
+
+Preço normal: R$2029.00
+Preço boleto: R$1724.65

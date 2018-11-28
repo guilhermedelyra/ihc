@@ -1,0 +1,47 @@
+- Marca: Positivo
+- Modelo: 1701418
+Especificações:
+- Placa-mãe: Positivo
+- Sistema Operacional: Windows® 10 Pro (64 bits)
+- Leitor de Cartões: SD / MMC / MS / MS Pro
+- WebCam: 0.3 Megapixel
+- Furação Vesa: 100 x 100 mmProcessador:- Intel Pentium N3710 (2 MB Cache, até 2.56 GHz, Quad-Core)Chipset:- SoC (funcionalidades integradas ao processador)Tela:- LCD de 18.5" 
+- Com tecnologia LED
+- Tratamento antirreflexo
+- Resolução de 1366 x 768 (HD)Memória RAM:- 4 GB DDR3 SDRAM (1600 MHz, Non-ECC)
+- 1x slots SO-DIMM¹ (Um sistema operacional de 64 bits é necessário para o equipamento suportar 4 GB ou mais de memória RAM.)Armazenamento:- 32 GB
+- FlashGráficos:
+- Intel HD Graphics 405 integrado ao processador
+- Aceleração gráfica integrada de vídeos em alta definição (HD) e suporte a Microsoft DirectX 11.1 e OpenGL 4.2
+- Memória alocada dinamicamente até 1,7 GB² (O valor máximo pode variar de acordo com a memória RAM disponível no sistema.)Áudio:
+- Áudio de alta definição (HD Áudio) integrado de 5.1 canais
+- Microfone e 2x alto-falantes estéreo embutidosConectividade:- Rede sem fio IEEE 802.11 b/g/nTM 
+- Bluetooth 4.0 LERede:- 10/100/1000 Mbps
+- Padrão Gigabit EthernetPortas de Conexão:
+- 1x USB 3.0
+- 5x USB 2.0
+- 1x HDMI 1.4 (saída)
+- 1x RJ-45
+- 1x line-in (microfone)
+- 1x line-out (fone ouvido)
+- 1x DC-in (fonte)Fonte de Alimentação:- Externa
+- 65 W
+- 100~240V / 50~60Hz automáticaTeclado:- Padrão ABNT2
+- USB
+- Resistência a derramamento de líquidosMouse:- Ótico
+- 2 botões
+- Com scroll
+- USB
+- Resolução de 1000 DPISegurança:- Abertura para trava tipo Kensington
+ 
+Conteúdo da embalagem:
+- All in One Positivo
+- Fonte de alimentação 
+- Guia rápido de instalação 
+Garantia
+12 meses de garantia
+Peso
+4775 gramas
+
+Preço normal: R$2146.94
+Preço boleto: R$1824.90

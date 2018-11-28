@@ -27,6 +27,5 @@ Garantia
 Peso
 260 gramas
 
-Preço antigo: R$117.53
-Preço normal: R$111.65
-Preço boleto: R$94.90
+Preço normal: R$117.53
+Preço boleto: R$99.90

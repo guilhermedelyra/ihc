@@ -1,0 +1,66 @@
+- Marca: Lenovo
+- Modelo: 10NN001FBP
+Especificações:
+ 
+Processador:
+- Intel Core i3
+- 7100 
+- 3.90GHz
+ 
+Memória:
+- 8GB (2x4GB)
+- Tipo: DDR4 2400MHz
+- Memória máxima: 32GB (2x16GB)
+ 
+Armezenamento:
+- 500GB
+Sistema Operacional:
+- Windows 10 PRO
+ 
+Chipset Placa mãe:
+- INTEL B250
+ 
+Drive Óptico:
+- DVD+RW Dual Layer
+ 
+Slots:
+- PCIe X1: 01
+- PCIe X16: 01
+ 
+Placa de vídeo:
+- Compatilhada
+ 
+Conexões:
+- USB 2.0: 2
+- USB 3.0: 6
+- VGA: 01
+- HDMI: 01
+- Display Port: 01
+- Serial: 01
+ 
+Rede:
+- 10/100/1000 Mbps
+ 
+Criptografia:
+- Firmware TPM (fTPM)
+ 
+Fonte:
+- 180W 
+- Automática 
+- 85% PSU
+ 
+Gabinete:
+- Small Form Factor (SFF)
+ 
+Teclado e mouse:
+- Conexão com computador: USB 2.0
+ 
+Conteúdo da embalagem:
+- Computador Lenovo 
+Garantia
+12 meses de garantia
+Peso
+7000 gramas
+
+Preço normal: R$3470.47
+Preço boleto: R$2949.90

@@ -1,0 +1,20 @@
+- Marca: Sandisk
+- Modelo: SDSSDA-240G-G26
+ 
+Especificações:
+- Capacidade: 240GB
+- Leituras: 530MB/s 
+- Gravações: 440MB/s 
+- Interface: SATA Revisão 3.0 (6 Gb/s)
+- Temperatura Operacional: 32 ºF a 158 ºF (0 ºC a 70 ºC)
+- Choque: Resistente a até 1500 G
+- Vibração: 5 gRMS, 10-2000 HZ / 4,9 gRMS, 7-800 HZ
+Conteúdo da embalagem: 
+- 01 SSD Sandisk PLUS  
+Garantia
+12 meses de garantia
+Peso
+60 gramas
+
+Preço normal: R$268.13
+Preço boleto: R$227.91

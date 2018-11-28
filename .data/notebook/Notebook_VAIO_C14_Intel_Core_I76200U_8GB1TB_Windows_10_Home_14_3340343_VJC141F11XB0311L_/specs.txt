@@ -1,0 +1,79 @@
+- Marca: VAIO
+- Modelo: VJC141F11X-B0311L 
+ 
+Especificações:
+ 
+Processador:
+- Intel Core i7-6200U (2.50 GHz, 3 MB Cache, Dual-Core) com Intel Turbo Boost até 3.10 GHz
+ 
+Sistema Operacional:
+- Windows 10 Home
+ 
+Memória:
+- RAM: 8GB
+- Slots de memória: 1x SO-DIMM DDR3L Single Channel (com suporte até 8 GB)
+ 
+Disco Rígido:
+- 1 TB, SATA, 7mm, 5400 RPM
+- 1 GB = 1 bilhão de bytes e 1 TB = 1 trilhão de bytes. A capacidade real após a formatação é menor
+ 
+Leitor de cartão:
+- SD / MMC 
+ 
+WebCam:
+- Câmera Frontal HD 720P
+ 
+Tela:
+- LCD 14’’
+- Widescreen
+- Antirreflexiva com Resolução nativa de 1366 x 768 de alta definição (HD)
+- Retroiluminada por LED
+ 
+Vídeo:
+- Processamento de vídeo integrado Intel® HD Graphics 520
+- Aceleração gráfica integrada de vídeos em alta definição (HD) e suporte Microsoft® DirectX® 12 e OpenGL 4.4
+ 
+Áudio:
+- Áudio de alta definição (HD Áudio), 2 Microfones e 2 Alto-falantes estéreo com alto alcance dinâmico
+ 
+Conectividade:
+- Rede sem fio Intel® Dual Band Wireless-AC 3165 IEEE 802.11 abgn, 802.11 ac / 1x RJ45 Fast Ethernet 10/100/1000 e Bluetooth 4.2 
+ 
+Portas de conexão:
+- 2x USB 3.0
+- 1x USB 2.0
+- 1x HDMI
+- 1x RJ-45
+- 1x Áudio de 3,5 mm (para microfone e fone de ouvido)
+- 1x DC-in (entrada carregador de energia)
+ 
+Teclado:
+- Português-Brasil, 88 teclas
+ 
+Mouse:
+- Tipo Touchpad com controle preciso do cursor
+- Com toque múltiplo
+- 2 botões integrados
+ 
+Carregador:
+- 100~240V Automático, 65W
+ 
+Bateria:
+- Bateria interna de Polímero de Lítio de 4200 mAh
+ 
+Cor:
+- Azul e prata
+Dimensões:
+- 342 x 240 x 19,9 mm
+Conteúdo da embalagem:
+- Notebook
+- Adaptador CA com cabo padrão Inmetro (carregador)
+- Cartão Postal 
+- Guia Rápido de Instalação  
+Garantia
+12 meses de garantia
+Peso
+2375 gramas
+
+Preço normal: R$3788.12
+Preço boleto: R$3219.90

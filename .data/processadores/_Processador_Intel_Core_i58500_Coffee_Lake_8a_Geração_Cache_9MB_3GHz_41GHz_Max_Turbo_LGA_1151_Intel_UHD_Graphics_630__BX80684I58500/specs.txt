@@ -1,0 +1,88 @@
+- Marca: Intel
+- Modelo: BX80684I58500
+Especificações:
+- 8ª geração de processadores Intel Core i5
+- Número do processador: i5-8500
+- Litografia: 14 nm
+ 
+Atuação:
+- Nº de núcleos: 6
+- Nº de linhas: 6
+- Frequência Base do Processador: 3.00 GHz
+- Freqüência máxima do turbocompressor: 4,10 gigahertz
+- Cache: 9 MB SmartCache
+- Velocidade do barramento: 8 GT / s DMI3
+- TDP: 65 W
+ 
+Memória:
+- Tamanho Máximo da Memória (depende do tipo de memória): 64 GB
+- Tipos de memória: DDR4-2666
+- Número Máximo de Canais de Memória: 2
+- Largura de banda máxima da memória: 41,6 GB / s
+ 
+Gráficos de processador:
+- Gráficos de processador: Gráficos Intel UHD 630
+- Frequência básica de gráficos: 350 MHz
+- Frequência dinâmica máxima dos gráficos: 1.10 gigahertz
+- Vídeo Graphics Max Memory: 64 GB
+- Suporte 4K: a 60Hz
+- Resolução Máxima (HDMI 1.4): 4096x2304 @ 24Hz
+- Resolução Máxima (DP): 4096x2304 @ 60Hz
+- Resolução Máxima (eDP 
+- Painel Plano Integrado): 4096x2304 @ 60Hz
+- Suporte DirectX *: 12
+- Suporte OpenGL *: 4.5
+- Vídeo Intel Quick Sync
+- Tecnologia Intel InTru 3D
+- Tecnologia Intel Clear Video HD
+- Tecnologia Intel Clear Video
+- Número de monitores suportados: 3
+ 
+Opções de Expansão: 
+- Escalabilidade 1S Apenas
+- Revisão PCI Express: 3.0
+- Configurações PCI Express: Até 1x16, 2x8, 1x8 + 2x4
+- Nº Máximo de Pistas PCI Express: 16
+Especificações do pacote: 
+- Soquetes suportados: FCLGA1151
+- Configuração Máxima da CPU: 1
+- Especificação da solução térmica: PCG 2015C (65W)
+- Junção: 100 ° C
+ 
+Tecnologias avançadas: 
+- Memória Intel Optane Suportada
+- Tecnologia Intel Turbo Boost: 2.0
+- Tecnologia Intel vPro
+- Tecnologia de virtualização Intel (VT-x) ‡
+- Tecnologia de virtualização Intel para E / S direcionada (VT-d) 
+- Intel VT-x com tabelas de páginas estendidas (EPT) 
+- Intel TSX-NI
+- Intel 64
+- Conjunto de instruções de 64 bits
+- Extensões do conjunto de instruções: Intel SSE4.1, Intel SSE4.2, Intel AVX2
+- Estados Ociosos
+- Tecnologia Enhanced Intel SpeedStep
+- Tecnologias de Monitoramento Térmico
+- Tecnologia Intel Identity Protection
+- Programa de Plataforma de Imagem Estável Intel (SIPP)
+ 
+Segurança e Confiabilidade:
+- Novas instruções do Intel AES
+- Chave Segura
+- Extensões de guarda de software Intel (Intel SGX)
+- Extensões de proteção de memória Intel (Intel MPX)
+- Protetor do Intel
+- Tecnologia Intel Trusted Execution
+- Execute Desativar Bit
+- Protetor de inicialização Intel
+ 
+Conteúdo da embalagem:
+- 01 Processador Intel Core i5-8500 Coffee Lake 8a Geração
+- 01 Cooler 
+Garantia
+12 meses de garantia
+Peso
+270 gramas
+
+Preço normal: R$1366.56
+Preço boleto: R$1161.58

@@ -1,0 +1,55 @@
+- Marca: Galax
+- Modelo: 71GGH4HXJ4FN 
+ 
+Especificações:
+ 
+ 
+GPU:
+- CUDA Cores: 192
+- Frequência Base (MHz): 954
+- Frequência Boost (MHz):  N / A
+ 
+Memória:
+- Velocidade da Memória: 1600 eficaz
+- Capacidade de memória: 1024MB
+- Interface de memória Largura: 64-bit DDR3
+- Largura de banda de memória (GB / s): 12,8
+ 
+Suporte:
+- OpenGL: 4.4
+- Bus: PCI-E 2.0
+- Certificado para o Windows 8
+ 
+Tecnologia suportadas:
+- DirectX 12
+ 
+Display:
+- Vários monitores: 3 Telas simultâneas
+- Resolução Máxima Digital: 4096x2160
+- Resolução máxima VGA: 2048x1536 
+- HDCP
+- HDMI
+- Conectores padrão de vídeo: Dual-link DVI-D x1, HDMI x1, x1 VGA
+- Saída de áudio do HDMI: Interna
+Energia:
+- Máxima Placa de Potência: 19W
+- Requisito mínimo de energia do sistema: 300W
+ 
+Requisitos do sistema:
+- PCI Express compatível com placa-mãe com um slot x 16 ilustrações
+- 300W mínimo ou maior fonte de alimentação do sistema
+- 300 MB de espaço disponível no disco rígido
+- 2 GB de memória do sistema (4 GB ou superior recomendado)
+- Microsoft Windows XP / Vista / 7 / 8,1 / 10, 32/64-bit
+- CD-ROM / DVD-ROM ou ligação à Internet
+Conteúdo da embalagem:
+- 01 Placa de Video 
+- 01 Driver
+- Manual 
+Garantia
+12 meses de garantia
+Peso
+320 gramas
+
+Preço normal: R$211.65
+Preço boleto: R$179.90

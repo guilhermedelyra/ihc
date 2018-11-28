@@ -14,6 +14,5 @@ Garantia
 Peso
 70 gramas
 
-Preço antigo: R$14.00
-Preço normal: R$13.30
-Preço boleto: R$11.30
+Preço normal: R$14.00
+Preço boleto: R$11.90

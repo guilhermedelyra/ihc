@@ -1,0 +1,33 @@
+- Marca: AMD
+- Modelo: YD2200C5FBBOX
+Especificações:
+- CPU Cores: 4
+- Base Clock: 3.5GHz
+- Cache L3 total: 4MB
+- Threads: 4
+- Máx. Boost Clock: 3.7GHz
+- Default TDP / TDP: 65W
+- GPU Cores: 8
+- Total L2 Cache: 2MB
+- cTDP: 46-65W
+- Plataforma: Desktop
+ 
+Gráficos:
+- Frequência: 1100 MHz
+- Modelo: Radeon™ Vega 8 Processor Graphics
+- Core Count: 8 
+Tecnologias compatíveis:
+- Tecnologia AMD SenseMI
+- Utilitário AMD Ryzen™ Master
+- Enmotus FuzeDrive™ para AMD Ryzen™
+- Software Radeon
+Conteúdo da embalagem:
+- Processador AMD Ryzen 
+Garantia
+12 meses de garantia
+Peso
+665 gramas
+
+Preço antigo: R$557.79
+Preço normal: R$526.21
+Preço boleto: R$447.28

@@ -1,0 +1,60 @@
+- Marca: EVGA
+- Modelo: 08G-P4-5671-KR     
+ 
+Especificações:
+ 
+Performance:
+- NVIDIA GTX 1070 Ti
+- Pipelines: 2432 Pixel
+- Clock Base de 1607+ MHz
+- Clock Boost de 1683+  MHz
+- Preenchimento de textura: 244.3GT/s
+ 
+Memória:
+- Capacidade: 8192 MB
+- Interface: 256 bit
+- Tipo: GDDR5
+- Clock: 8008 MHz (efetivo)
+- Largura de banda: 256.3 GB/s 
+ 
+Resfriamento:
+- ACX 3.0
+- LED Logo: Sim (Branco)
+ 
+Interface:
+- PCI-E 3.0
+ 
+Conexões:
+- 1x DVI-D
+- 3x DisplayPort
+- 1x HDMI
+ 
+Resolução e atualização:
+- Monitores suportados: 4 (Max)
+- Taxa de Refresh Máxima: 240Hz
+- Max Digital: 7680x4320
+ 
+Físico:
+- Dimensões: 111.15 x  266.7mm
+- Largura: Dual Slot
+ 
+Suporte ao Sistema Operacional:
+- Windows 10 32/64bit
+- Windows 8 32/64bit
+- Windows 7 32/64bit
+ 
+Requisitos:
+- Fonte de alimentação: 500 Watt. (mínimo)
+- Consumo Total de Energia: 217 Watts
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo VGA EVGA
+- Driver de Instalação
+- Guia Rápido 
+Garantia
+12 meses de garantia
+Peso
+1255 gramas
+
+Preço normal: R$3205.76
+Preço boleto: R$2724.90

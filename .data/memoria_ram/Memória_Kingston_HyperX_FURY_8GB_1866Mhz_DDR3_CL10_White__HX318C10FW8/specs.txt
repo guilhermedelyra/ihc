@@ -1,0 +1,19 @@
+- Marca: HyperX 
+- Modelo: HX318C10FW/8
+ 
+Especificações:
+- Tipo: 240-Pin DDR3 SDRAM
+- Capacidade: 8GB
+- Aceleração: DDR3 1866 (PC3 10600)
+- Cas Latência: 10
+- Tensão: 1.5V
+ 
+Conteúdo da embalagem: 
+- 01 Memória Kingston HX318C10FW/8 
+Garantia
+12 meses de garantia
+Peso
+95 gramas
+
+Preço normal: R$463.71
+Preço boleto: R$394.15

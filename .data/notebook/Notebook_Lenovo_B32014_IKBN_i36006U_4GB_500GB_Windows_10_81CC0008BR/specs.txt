@@ -1,0 +1,41 @@
+- Marca: Lenovo
+- Modelo: 81CC0008BR
+Especificações:
+- Tela: 14" LED HD Antirreflexo
+- Processador: Intel Core i3-6006U
+- Chipset: Intel SoC (System on Chip) platform
+- Placa Gráfica Integrada: Intel HD Graphics Integrada
+- Áudio: Dolby Audio
+- Rede (Ethernet): Gigabit
+- Rede (Wireless): Wireless 1x1 AC
+- Bluetooth 4.1
+- Câmera: 0.3MP
+- Dispositivo Apontador: TouchPad
+- Teclado (layout): Português (BR)
+- Saída de Vídeo: Não (somente através de adaptador USB-Type C para VGA 
+- não incluso) 
+- Saída HDMI
+- Media Card Slot
+- Sistema Operacional: Windows 10 Home 64 bits 
+Memória: 
+- 4GB (soldado na motherboard)
+- Tipo:2133MHz DDR4
+- Memória máx. suportada: 12GB max (4GB soldado na motherboard + 1 slot padrão DDR4-2133MHz)
+Unidade de Disco:
+- Capacidade: 500GB (5400rpm)
+- Tipo: SATA HDD
+Bateria:
+- Tipo: 2 Células 30WH
+- Bateria (duração aprox.): Até 4.0 hrs*
+Portas USB:
+- 2x USB 3.0 
+- 1x USB Type-C
+Conteúdo da embalagem:
+- 01 Notebook Lenovo B320-14 IKBN 
+Garantia
+12 meses de garantia
+Peso
+2325 gramas
+
+Preço normal: R$2164.59
+Preço boleto: R$1839.90

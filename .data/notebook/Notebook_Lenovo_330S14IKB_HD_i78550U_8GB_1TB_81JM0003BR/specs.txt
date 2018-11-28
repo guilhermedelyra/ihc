@@ -1,0 +1,64 @@
+- Marca: Lenovo
+- Modelo: 81JM0003BR
+ 
+Especificações:
+ 
+Tela:
+- Tamanho: 14"
+- Tela Infinita
+- Antirreflexo
+ 
+Sistema Operacional:
+- Windows 10
+ 
+Processador:
+- i7-8550U 8ª geração
+- Cache 8 MB
+ 
+Placa de Vídeo:
+- Integrada 
+- Intel UHD Graphics
+ 
+Conexões:
+- 2x USB 3.0
+- 1x USB tipo C (USB 3.1)
+- 1x HDMI
+- 1x Áudio (porta combo para headset e headphone)
+ 
+Alimentação:
+- Voltagem: Bivolt
+ 
+Placa de Som:
+- Alto-falantes (2x 2W) com certificação Dolby Audio
+ 
+Memória RAM:
+- Capacidade: 8GB
+ 
+Armazenamento:
+- Capacidade: 1TB
+ 
+Leitor de Cartão:
+- Leitor de cartões 4-em-1 (SD, SDHC, SDXC, MMC)
+ 
+Conectividade:
+- Bluetooth 4.1
+ 
+Bateria:
+- 2 Células 
+- 30Wh
+ 
+Teclado:
+- Padrão BR
+- Touchpad
+ 
+Conteúdo da Embalagem:
+- Notebook Lenovo
+- Fonte de energia
+- Manual do Usuário 
+Garantia
+12 meses de garantia
+Peso
+2125 gramas
+
+Preço normal: R$3764.59
+Preço boleto: R$3199.90

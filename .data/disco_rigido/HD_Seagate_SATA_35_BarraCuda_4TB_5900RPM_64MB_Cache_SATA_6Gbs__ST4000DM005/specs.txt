@@ -1,0 +1,47 @@
+- Marca: Seagate
+- Modelo: ST4000DM005
+ 
+Especificações:
+- Interface: SATA 6Gb/s
+- Capacidade: 4TB
+ 
+Recursos e Desempenho:
+- Seagate AcuTrac™ Technology
+- Taxas de transferência SATA suportadas (Gb / s): 6.0/3.0/1.5
+- Taxa média de dados, leitura / gravação: 146
+- Taxa máxima de dados sustentada, leitura OD (MB / s): 180
+- Cache: 64MB
+ 
+Configuração / Organização:
+- Heads/Discos: 6/3
+- Bytes per Setor: 4096
+ 
+Confiabilidade / Integridade de Dados:
+- Ciclos de carga / descarga: 300,000
+- Erros de leitura não recuperáveis ​​por bits lidos, máx.: 1 per 10E14
+- Horário de funcionamento (por ano): 2400
+- Limite da taxa de carga de trabalho (TB / ano): 55
+ 
+Gerenciamento de energia:
+- Poder de inicialização (A): 2.0
+- Modo de operação, típico (W): 5.6
+- Média Ociosa (W): 4.0
+- Modo de Espera / Modo de Espera, Típico (W): 0.50/0.50
+- Tolerância de tensão, incluindo ruído (5V): ±5%
+- Tolerância de tensão, incluindo ruído (12V): ±10%
+ 
+Ambiente:
+- Funcionamento (ambiente, min): 0
+- Operação (caixa da unidade, máx.): 60
+- Não operacional (ambiente): –40 to 70
+- Sem halogênio
+- Conformidade com RoHS
+Conteúdo da embalagem:
+- 01 HD Seagate 
+Garantia
+12 meses de garantia
+Peso
+620 gramas
+
+Preço normal: R$756.35
+Preço boleto: R$642.90

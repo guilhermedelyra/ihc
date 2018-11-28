@@ -1,0 +1,43 @@
+- Marca: WD
+- Modelo: WD20PURX
+ 
+Especificações:
+- Capacidade: 2TB
+- Tipo: SATA
+- Form Factor: 3.5"
+- Série: Roxa
+- RPM: IntelliPower
+- Carga / descarga de ciclos: 300.000 mínimo
+- Dimensão: 147 x 101.6 x 25.4mm
+ 
+Performance:
+- Cachê: 64MB
+- Interface: SATA 6 Gb/s
+- Taxa de transferência: 145 MB/s
+ 
+Dissipação de energia:
+- Leitura / Gravação: 4.40 Watts
+- Inativo: 4.10 Watts
+- Standby: 0,60 Watts
+ 
+Temperatura:
+- Operacional: -0º ~ 65º C
+- Não operacional: -40º ~ 70º C
+ 
+Acústica:
+- Idle Mode: 23 dBA (média)
+- Modo de busca: 24 dBA (média)
+ 
+Compatibilidade:
+- Windows (xp / Vista / 7 / 8)
+- MAC
+ 
+Conteúdo da Embalagem:
+- 01 HD WD 
+Garantia
+12 meses de garantia
+Peso
+602 gramas
+
+Preço normal: R$494.00
+Preço boleto: R$419.90

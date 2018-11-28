@@ -1,0 +1,20 @@
+- Marca: Crucial
+- Modelo: BLS4G4D240FSE
+Especificações:
+ 
+- Capacidade: 4GB
+- Tipo: DDR4- PC4-19200- 16-16-16
+- Velocidade: 2400 MT/s
+- Fator de Forma: UDIMM
+- ECC: No-ECC
+- Voltagem: 1.2V
+- Tipo DIMM: unbuffered
+Conteúdo da embalagem:
+- 01 Memória Crucial 4GB 
+Garantia
+12 meses de garantia
+Peso
+80 gramas
+
+Preço normal: R$341.06
+Preço boleto: R$289.90

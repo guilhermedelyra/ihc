@@ -32,6 +32,5 @@ Garantia
 Peso
 1180 gramas
 
-Preço antigo: R$473.58
-Preço normal: R$315.68
-Preço boleto: R$268.33
+Preço normal: R$473.58
+Preço boleto: R$402.54

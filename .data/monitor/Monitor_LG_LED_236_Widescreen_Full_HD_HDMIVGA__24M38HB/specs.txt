@@ -1,0 +1,66 @@
+- Marca: LG
+- Modelo: 24M38H-B.AWZ
+ 
+Especificações:
+ 
+Tela:
+- Tamanho: 23,6"
+- Tipo de Tela: LED TN (Full HD)
+- Brilho: 200 cd/m²
+- Resolução Máxima: 1920 x 1080
+- Contraste Dinâmico: 1000:1
+- Proporção da Tela: 16:9
+- Suporte de Cores: 16,7 Milhões
+- Pixel Pitch: 0,2715 x 0,2715 mm
+- Tempo de Resposta: 5ms
+- Revestimento de Tela: Anti-Glare treatment (3H)
+- Ângulo de Visão: 170º / 160º
+- Vesa: 100 x 100mm
+ 
+Alimentação:
+- Tipo: Adaptador
+- Voltagem: 100-240Vac, 50 / 60Hz (entrada)
+ 
+Frequência Analógica e Digital:
+- H: 30~83 kHz
+- V: 56~75 Hz
+ 
+Entradas e Saídas:
+- D-Sub
+- HDMI
+- Headphone Out
+ 
+Recursos:
+- Picture Mode
+- Reader Mode
+- Plug &amp; Play
+- Color Weakness
+- Flicker Safe
+- Smart Energy Saving
+- 4 Screen Split
+- On Screen Control
+ 
+Físico:
+- Ajuste de Inclinação: -5º / 20º
+- Dimensões com base: 556.2 x 186.7 x 415.1 mm
+- Dimensões sem base: 556.2 x 56.8 x 344 mm
+ 
+Energia:
+- Fonte: Adaptador Externo
+- Consumo: 27.5W (típico)
+ 
+Conteúdo da Embalagem:
+- Monitor LG
+- Fonte de Alimentação
+- Cabo D-Sub
+- Manual do Usuário
+ 
+Observação:
+* Não possui alto falante interno. 
+Garantia
+12 meses de garantia
+Peso
+4105 gramas
+
+Preço normal: R$823.41
+Preço boleto: R$699.90

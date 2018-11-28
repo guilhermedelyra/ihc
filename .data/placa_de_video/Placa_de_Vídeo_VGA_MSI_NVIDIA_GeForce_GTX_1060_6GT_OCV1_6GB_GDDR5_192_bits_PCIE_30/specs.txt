@@ -1,0 +1,50 @@
+- Marca: MSI 
+- Modelo: GTX 1060 6GT OCV1 
+Especificações:
+Interface: 
+- PCI Express 3.0 x16
+ 
+Chipset:
+- Fabricante: NVIDIA
+- Série GPU: Série NVIDIA GeForce GTX 10
+- GPU: GeForce GTX 1060
+- Core Clock: 1544 MHz
+- Boost Clock: 1759 MHz
+- Núcleos CUDA: 1280
+ 
+Memória: 
+- Clock eficaz de Memória: 8008 MHz
+- Tamanho da memória: 6 GB
+- Interface de memória: 192 bits
+- Tipo de memória: GDDR5
+ 
+API 3D: 
+- DirectX: DirectX 12
+- OpenGL: OpenGL 4.5
+ 
+Portas:
+- 1 x HDMI 2.0
+- Suporte Multi-Monitor: 3
+- 1 x DisplayPort 1,4
+- 1 x DL-DVI-D
+ 
+Geral:
+- Resfriador: Ventiladores Duplos
+- PSU Recomendada: 400W 
+- Consumo de energia: 120W 
+- Conector de força: 6 pinos
+- DVI de link duplo suportado
+- Tecnologia G-SYNC 
+ 
+- Dimensões do cartão: 243 x 115 x 39 mm
+ 
+Conteúdo da embalagem:- Placa de Vídeo VGA MSI NVIDIA GeForce GTX 1060 6GT OCV1
+- Guia do usuário
+- Drive 
+Garantia
+12 meses de garantia
+Peso
+935 gramas
+
+Preço normal: R$1646.94
+Preço boleto: R$1399.90

@@ -1,0 +1,2 @@
+SKU,Name,Description, Cost Price,Price,Available On,[Opt]tshirt-color,[Opt]tshirt-size,[Opt]xx-option,[Opt]yyy-option,Stock,Height,Width,Depth,Weight,Position,Taxonomies,Permalink,image_product,image_variant1
+7201299,agora foi,"haha",23.00,59.00,,,,xxx1,yyy2,2,3,4,9,1,0,Categories > Clothing > another,,https://raw.githubusercontent.com/solidusio/solidus/master/sample/db/samples/images/ror_mug.jpeg,"/sample-black.png"

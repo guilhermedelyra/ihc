@@ -1,0 +1,46 @@
+- Marca: Seagate
+- Modelo: ST3000DM008 
+ 
+Especificações:
+ 
+ 
+Interface: 
+- SATA 6Gb/s
+ 
+Performance:
+- Seagate AcuTrac™ Technology
+- Taxas de transferência SATA suportadas (Gb / s): 6.0/3.0/1.5
+- Taxa média de dados, leitura/gravação: 156
+- Máx. Taxa de dados, leitura/gravação OD: 210
+- Cache: 64 MB
+Configurações:
+- Heads/Discos: 6/3
+- Bytes por setor: 4096
+Confiabilidade/Integridade de Dados:
+- Ciclos de carga / descarga: 300,000
+- Erros de leitura não recuperáveis ​​por bits lidos, máx.: 1 per 10E14
+- Horário de funcionamento (por ano): 2400
+- Limite da taxa de carga de trabalho (TB / ano): 55
+ 
+Energia:
+- Poder de inicialização (A): 2.0
+- Modo típico de operação: 8.0W
+- Média Ociosa: 5.4W
+- Modo de espera/ modo de espera típico: 0.75W/0.75W
+- Tolerância de tensão, incluindo ruído (5V): ±5%
+- Tolerância de tensão, incluindo ruído (12V): ±10%
+Meio ambiente:
+- Operação (ambiente, min): 0
+- Operação (Caixa da unidade, máx.): 60
+- Não operacional (ambiente): –40 to 70
+- Sem halogênio
+- RoHS
+Conteúdo da embalagem:
+- HD Seagate 
+Garantia
+12 meses de garantia
+Peso
+600 gramas
+
+Preço normal: R$697.53
+Preço boleto: R$592.90

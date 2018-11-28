@@ -1,0 +1,52 @@
+- Marca: Movva 
+- Modelo: MVLIJ30601604K 
+Especificações:
+- Fonte: 200W (Bivolt manual)
+- Sistema Operacional: Linux Ubuntu
+- Dimensões: Largura: 19cm x Altura: 42cm x Profundidade: 39,5cm.
+Processador Onboard: 
+- Intel Dual Core J3060 
+- 1.60GHz (Máx. Turbo 2,48GHz) 
+- 2MB de Memória Cache
+- 2 núcleos
+- 2 threads
+- TDP 6W
+Memória: 
+- 4GB 
+- DDR3
+Disco Rígido: 
+- 1x HD 160GB
+Placa mãe: 
+- Centrium
+- C2016-BSWI-D2-J3060 Dual core 1.6GHZ HDMI BRASWELL Mini-ITX 
+- Mini-ITX (Integrada ao processador)
+- 1x Slot de Memória: SODIMM, suporta até 8GB (slot ocupado 
+- memória para notebook)
+- 2x SATA II 3Gb/s (1 slot x livre)
+Gráficos Onboard:
+- 1x VGA
+- 1x HDMI
+- Suporta Directx 11
+- Suporte total Full HD 1080P
+Expansão:
+- 1x PS/2 mouse
+- 1x PS/2 teclado
+- 2x USB 3.0 (traseira) + 2x USB 3.0 (conector interno)
+- 2x USB 2.0 (traseira) + 2x USB 2.0 (frontal)
+- 1x mini PCI express para Wifi Cards/Bluetooth modulo
+- 1x Porta Serial
+- Não suporta instalação de placa de vídeo, devido a ausência de slot PCIe x16.
+Rede: Realtek RTL8111H (10/100/1000 Gigabit):
+- Áudio: Realtek ALC662 / 6 Canais
+Conteúdo da embalagem:
+- 01 Computador Movva
+* Compatível com Windows 7, 8, 8.1 e 10 (32 ou 64 btis) 
+- Não compatível com Windows XP
+* Não acompanha: Mouse, Teclado, Caixa de som, cabo de força, cabo de vídeo e DVD-RW. 
+Garantia
+12 meses de garantia
+Peso
+5420 gramas
+
+Preço normal: R$924.59
+Preço boleto: R$785.90

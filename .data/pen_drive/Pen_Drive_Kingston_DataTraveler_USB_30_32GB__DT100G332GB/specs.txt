@@ -1,0 +1,23 @@
+- Marca: Kingston
+- Modelo: DT100G3
+ 
+ 
+Especificações:
+- Cor: Preto
+- Capacidade: 32Gb
+- Leitura: 40 MB/s
+- Gravação: 10MB/s
+- Dimensões: 60 x 21,2 x 10mm 
+- Temperatura de Operação: 0°C a 60°C
+- Temperatura de Armazenamento: -20°C a 85°C
+- Conformidade: Com as especificações para USB 3.0
+- Compatibilidade Dupla: Conectividade com USB 3.0, compatível com a versão anterior do USB 2.0
+- Personalizável: Programa Co-Logo disponível
+- Compatibilidade: Windows 8 / 7 / Vista / XP / Mac OS X v.10.6.x ou superior / Linux v.2.6.x ou superior 
+Garantia
+12 meses de garantia
+Peso
+20 gramas
+
+Preço normal: R$46.94
+Preço boleto: R$39.90

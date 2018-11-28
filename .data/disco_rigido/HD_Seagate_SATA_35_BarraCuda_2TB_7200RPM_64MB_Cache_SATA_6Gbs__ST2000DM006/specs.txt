@@ -1,0 +1,21 @@
+- Marca: Seagate
+- Modelo: ST2000DM006
+ 
+Especificações:
+- Número do modelo ST2000DM006
+- Interface SATA 6.0Gb/s
+- Cache 64MB
+- Capacidade 2TB
+- Fator de Forma: 3.5"
+- Velocidade do eixo: 7200RPM
+- Dimensão Aproximada: 26.11 x 101.60 x 146.99mm
+ 
+Conteúdo da Embalagem:
+- 01 HD Seagate  
+Garantia
+12 meses de garantia
+Peso
+610 gramas
+
+Preço normal: R$417.53
+Preço boleto: R$354.90

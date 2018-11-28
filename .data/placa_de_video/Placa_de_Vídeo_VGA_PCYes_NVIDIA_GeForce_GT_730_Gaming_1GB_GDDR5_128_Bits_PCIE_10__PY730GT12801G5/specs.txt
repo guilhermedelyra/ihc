@@ -1,0 +1,47 @@
+- Marca: PCYes
+- Modelo: PY730GT12801G5
+ 
+Especificações:
+ 
+GPU:
+- Chipset: GT 730
+- Velocidade do núcleo: 700 MHz
+ 
+Memória:
+- Capacidade: 1GB
+- Tipo: GDDR5
+- Clock: 800 MHz
+- Interface: 128 bits
+Interface:
+- PCI Express 1.1
+ 
+Saídas de vídeo:
+- VGA
+- DVI-I
+- HDMI
+ 
+Recursos:
+- Direct X 11
+ 
+Benchmark da Placa:
+- DOTA 2: 46 
+- 53 FPS
+- GTA V: 45 
+- 53 FPS
+- LEAGUE OF LEGENDS: 65 
+- 95 FPS
+- FORTNITE: 44 
+- 55 FPS
+* Os testes foram feito em um computador I5 7600K, 20GB RAM, MB Z170-E, SSD 320GB.
+ 
+Conteúdo da Embalagem:
+- 1x Placa de Vídeo VGA PCYes
+- 1x Driver de Instalação
+- 1x Guia do Usuário 
+Garantia
+12 meses de garantia
+Peso
+500 gramas
+
+Preço normal: R$352.82
+Preço boleto: R$299.90

@@ -13,6 +13,5 @@ Garantia
 Peso
 250 gramas
 
-Preço antigo: R$57.53
-Preço normal: R$54.65
-Preço boleto: R$46.45
+Preço normal: R$57.53
+Preço boleto: R$48.90

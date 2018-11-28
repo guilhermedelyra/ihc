@@ -1,0 +1,68 @@
+- Marca: HP
+- Modelo: 5CL91LA
+ 
+Especificações:
+ 
+Processador:
+- APU A 9500 7Gen PRO A6-2C
+ 
+Sistema Operacional:
+- LOC FreeDOS 2.0 BRZL
+ 
+Memória RAM:
+- Capacidade: 4GB (1x4GB)
+- Tipo: DDR4
+- Velocidade: 2666 MHz
+ 
+Armazenamento Interno:
+- SSD 128GB
+- SATA BRZL
+ 
+Chipset:
+- AMD B350
+ 
+Placa Gráfica:
+- AMD Radeon Graphics 60570-A
+ 
+Entrada Frontal:
+- 1x Combo headphone/microphone
+- 1x Leitor de Cartão SD
+- 2x USB 3.1
+ 
+Entradas Traseira:
+- 1x HDMI
+- 1x Line in
+- 1x Line out
+- 1x Microphone-in
+- 1x RJ-45
+- 1x Serial
+- 1x VGA
+- 2x USB 2.0
+- 4x USB 3.1 Gen 122
+ 
+Interno:
+- 1x Paralelo
+- 2x PS/2
+ 
+Periféricos:
+- Teclado USB
+- Mouse USB
+ 
+Segurança:
+- Lock slot
+- Trusted Platform Module (TPM) 2.0
+ 
+Conectividade:
+- Wireless NIC: LAN: Integrated 10/100/1000M GbE
+- WLAN: Realtek 802.11a/b/g/n/ac (1x1)
+- Bluetooth 4.2 
+ 
+Conteúdo da Embalagem:
+- Computador HP 
+Garantia
+12 meses de garantia
+Peso
+7020 gramas
+
+Preço normal: R$1848.12
+Preço boleto: R$1570.90

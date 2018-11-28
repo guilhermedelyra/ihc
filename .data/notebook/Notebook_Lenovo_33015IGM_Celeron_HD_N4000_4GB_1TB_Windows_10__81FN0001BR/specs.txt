@@ -1,0 +1,63 @@
+- Marca: Lenovo
+- Modelo: 81FN0001BR
+ 
+Especificações:
+ 
+Memória RAM:
+- Capacidade: 4GB
+ 
+Armazenamento:
+- Capacidade: 1TB
+ 
+Sistema Operacional:
+- Windows 10
+ 
+Tela:
+- Tamanho: 15.6"
+- Antirreflexo com abertura 180º
+ 
+Energia:
+- Voltagem: Bivolt
+ 
+Placa de Vídeo:
+- Integrada 
+- Intel UHD Graphics
+ 
+Periféricos:
+- Teclado numérico touchpad
+- Câmera HD (720p)
+ 
+Conectividade:
+- Wifi AC 1x1
+- Bluetooth 4.1
+- Placa de Rede: 10/100M
+ 
+Processador:
+- Intel Celeron
+- Modelo: N4000
+ 
+Conexões:
+- 1x USB 3.0
+- 1x USB 2.0
+- 1x USB tipo C
+- 1x HDMI
+- 1x RJ45
+- 1x Audio (porta combo para headset e headphone)
+ 
+Leitor de Cartão:
+- Leitor de cartões 4-em-1 (SD, SDHC, SDXC, MMC)
+ 
+Placa de Som:
+- Alto-falantes (2 x 1.5W) com certificação Dolby Audio
+ 
+Conteúdo da Embalagem:
+- Notebook Lenovo
+- Carregador com cabo
+- Manual do Usuário 
+Garantia
+12 meses de garantia
+Peso
+2515 gramas
+
+Preço normal: R$1905.76
+Preço boleto: R$1619.90

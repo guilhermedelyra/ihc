@@ -1,0 +1,37 @@
+- Marca: Coolermaster
+- Modelo: SGB-3000-KKMF1-BR
+ 
+Especificações:
+ 
+Mouse:
+- Interface: USB 2.0
+- DPI: 4 níveis (600, 1200, 1800, 2400)
+- Luz de fundo LED: 7 cores para escolher
+- Modo iluminação: Modo retroiluminado completo e pulsante (a velocidade pode ser ajustada pela combinação de teclas FN)
+- Dimensão: 119,1 x 64,6 x 36,7 mm
+ 
+Teclado:
+- Tipo de interruptor: Membrana
+- Material: Plástico
+- Cor: Preto
+- Cor do LED: 7 cores para escolher
+- Modo Iluminação: Modo retroiluminado completo e pulsante (a velocidade pode ser ajustada pela combinação de teclas FN)
+- Taxa de sondagem: 125 Hz
+- Multimídia: dedicada
+- Descanso de pulso: Indetectável
+- Cabo de conector: USB 1.1
+- Dimensão: 449,7 x 148,4 x 35,6 mm
+- Layout: BR
+ 
+Conteúdo da embalagem:
+- 01 Mouse
+- 01 Teclado
+ 
+Obs: Imagens meramente ilustrativas. Teclado padrão ABNT2 
+Garantia
+12 meses de garantia
+Peso
+1390 gramas
+
+Preço normal: R$223.42
+Preço boleto: R$189.91

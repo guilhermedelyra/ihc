@@ -1,0 +1,28 @@
+- Marca: AMD
+- Modelo: YD1600BBAEBOX
+ 
+Especificações:
+- Séries: Ryzen 5
+- Processo de fabricação: 14nm
+- Socket: Socket AM4
+- Núcleos: 6 core
+- Threads: 12
+- Frequência de Operação: 3.2GHz (Max Turbo 3.6GHz)
+- Cache L3: 16MB
+- Cache L2: 3MB
+- Modo de operação: 64 Bit
+- Potência: 65 W 
+ 
+Conteúdo da Embalagem:
+- 01 Processador AMD 
+- 01 Cooler
+ 
+Observação:
+* As linhas de processadores Ryzen 3, 5 e 7 não possuem vídeo integrado, necessário ter uma placa de vídeo off-board. 
+Garantia
+12 meses de garantia
+Peso
+665 gramas
+
+Preço normal: R$777.79
+Preço boleto: R$661.12

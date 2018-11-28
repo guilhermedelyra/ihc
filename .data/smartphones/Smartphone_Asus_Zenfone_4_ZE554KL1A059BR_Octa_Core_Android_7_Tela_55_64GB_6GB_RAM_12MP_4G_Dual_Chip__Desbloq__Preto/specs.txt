@@ -1,0 +1,85 @@
+- Marca: ASUS
+- Modelo: ZE554KL-1A059BR
+ 
+Especificações:
+ 
+Tela:
+- Tamanho: 5.5"
+- Tipo de tela: LED Backlight painel IPS
+- Resolução: 1920x1080 
+- Full HD
+- Proteção: Gorila Glass 5
+ 
+Processador:
+- QUALCOMM
+- SNAPDRAGON 630
+- Modelo: SDN630
+- Core Clock: 8
+- Frequência: 2.2 GHz
+- Cache: 2 MB
+ 
+Memória:
+- Capacidade: 6 GB
+- Tipo: LPDDR4
+ 
+Armazenamento:
+- Capacidade: 64 GB
+- Tipo: eMMC
+Conectividade:
+- Rede sem fio: 802.11 a / b / g / n / ac
+- Tecnologia de Rede: 4G LTE Cat 6 300 Mbps
+- Bandas de Rede
+- Cartão SIM 1 (Nano)
+- Cartão SIM 2 (Nano)
+- Dual SIM
+- Bluetooth: versão 4.2
+- Conector: USB Tipo C
+- GPS Type GPS
+- aGPS
+- Gloness
+- BDS
+ 
+Câmera:
+- Resolução Frontal: 8MP
+- Resolução Traseira Dupla: 12 + 12MP
+Recursos da Câmera:
+- Flash Traseiro
+- Traseira: 12MP com OIS e flash único e 8MP OV8856 com ângulo largo 120º
+- Frontal: OV8856 8M / FF
+ 
+Leitor de Cartão:
+- Micro SD
+- Capacidade Suportada: 2000 GB
+ 
+Áudio:
+- Rádio FM
+ 
+Sensores:
+- Giroscope
+- Proximidade
+- FingerPrint
+ 
+Bateria:
+- Adaptador de corrente: 10.00 W
+- Voltagem: 100 ~ 240V AC 
+- 50/60 Hz
+- Célula: 1
+- Capacidade: 3300 mAh
+Sistema Operacional:
+- Android N
+ 
+Conteúdo da Embalagem:
+- Smartphone ASUS
+- Carregador
+- Cabo de dados
+- Bumper
+- Manual do usuário
+- Cartão Garantia 
+Garantia
+12 meses de garantia
+Peso
+500 gramas
+
+Preço antigo: R$2276.35
+Preço normal: R$1506.94
+Preço boleto: R$1280.90

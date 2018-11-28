@@ -1,0 +1,22 @@
+- Marca: Kingston 
+- Modelo: KVR16S11S8/4 
+Especificações:
+ 
+- Capacidade: 4GB
+- Velocidade: 1600MHz
+- Tipo: DDR3
+-  4GB 1Rx8 512M x 64-Bit 
+- PC3-12800 
+- CL11 204-Pin SODIMM 
+- CL (IDD): 11 ciclos
+- 11-11-11 a 1.5V
+- Temperatura de Operação: 0ºC a 85ºC
+- Temperatura de Armazenamento: -55º a +100ºCConteúdo da Embalagem:
+- 01 Memória Kingston 4GB 1600MHZ DDR3 KVR16S11S8/4  
+Garantia
+12 meses de garantia
+Peso
+15 gramas
+
+Preço normal: R$235.18
+Preço boleto: R$199.90

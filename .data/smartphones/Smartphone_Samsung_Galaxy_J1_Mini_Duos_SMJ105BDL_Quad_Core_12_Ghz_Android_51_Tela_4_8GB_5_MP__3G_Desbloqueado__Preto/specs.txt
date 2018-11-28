@@ -1,0 +1,105 @@
+- Marca: Samsung
+- Modelo: J1 Mini Duos
+ 
+Especificações:
+ 
+Interface:
+- Formato: Barra
+ 
+Tela:
+- Tecnologia: TFT
+- Tamanho do Display: 4.0"
+- Número de Pixels: 480 x 800 (WVGA)
+- Quantidade de Cores: 16 Milhões
+ 
+Memória:
+- Interna total compartilhada: 8 GB*
+- Memória RAM: 1GB
+- Tipo de Cartão Suportado: Micro SD
+- Capacidade máxima para Cartão: até 64GB
+*A memória do usuário é menor do que o total de memória devido ao armazenamento do sistema operacional e do software utilizado para operar os recursos do dispositivo. Memória do usuário irá variar dependendo do operador e pode mudar após atualizações de software.
+ 
+Software:
+- Sistema Operacional: Android 5.1
+- Plataforma: 32-bits
+- Loja de Aplicativos: Play Store / Galaxy Apps
+ 
+Processador:
+- Núcleos: Quad-Core
+- Velocidade: 1.2Ghz
+ 
+Conectividade:
+- GSM: 850/900/1800/1900
+- 3G: 850/900/1900/2100
+- 3G Downlink: HSPA+ 21.1
+- 3G Uplink: 5.76Mbps
+- Bluetooth: versão 4.0
+- Browser: Google,Samsung | Chrome,S-Browser 2.0
+- GSM
+- GPRS
+- EDGE
+- Internet 3G: R7 | HSPA+ 21.1Mbps
+- Internet 4G: N/A
+- Conexão Wi-Fi: 802.11 b/g/n 2.4GHz
+- Roteador Wi-Fi
+- USB: versão 2.0
+ 
+Emails:
+- Google Mail,Native Client
+- Push E-mail: Microsoft | Direct Push E-Mail for Exchange
+- Tipos de E-mail Suportados: POP3,IMAP4,SMTP,SSL,TLS,EAS
+ 
+Chip:
+- Dual Chip (chips não incluso)
+- Tipo de SIM: Micro-SIM (3FF)
+ 
+Câmera:
+- Principal: 5.0 MP
+- Zoom: Digital 2x
+- Câmera Secundária: VGA
+- Modo de Foto: Automático, Noite, Panorama, Esporte, Embelezar
+- Timer: Desativado, 2 segundos, 5 segundos,10 segundos
+- Efeitos de Foto
+ 
+Vídeo:
+- Gravação de Vídeo
+- Formatos Suportados: MP3,M4A,3GA,AAC,OGG,OGA,WAV,WMA,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA
+- Resolução de reprodução: FHD (1920 x 1080) | @30fps
+- Resolução de gravação: HD (1280 x 720) | @30fps
+- Formato suportado de Streaming: 3GP,MP4,MP3
+- Formatos Suportados: A-GIF,BMP,GIF,JPEG,PNG,WebP,WBMP
+ 
+Música:
+- Reprodução de Música
+- Formatos Suportados: MP3,M4A,3GA,AAC,OGG,OGA,WAV,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA
+ 
+Recursos:
+- Rádio FM
+- Gravação de Rádio FM
+- RDS
+- Polifônicos
+- GPS
+- A-GPS
+- Visualização de Arquivos Office
+- Tipos de Sensores: Acelerômetro
+ 
+Bateria:
+- Capacidade: 1500 mAh
+- Tipo: Ions de Lítio
+- Voltagem: Bivolt
+ 
+Conteúdo da Embalagem:
+- 01 Smartphone Samsung J1 Mini
+- 01 Carregador 
+- 01 Fone de Ouvido
+- Manual Padrão
+ 
+Observação:
+*Smartphone não possui Flash. 
+Garantia
+12 meses de garantia
+Peso
+240 gramas
+
+Preço normal: R$435.18
+Preço boleto: R$369.90

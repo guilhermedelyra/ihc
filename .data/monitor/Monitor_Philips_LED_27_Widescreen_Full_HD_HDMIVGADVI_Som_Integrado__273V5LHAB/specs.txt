@@ -1,0 +1,137 @@
+- Marca: Philips
+- Modelo: 273V5LHAB
+ 
+Especificações:
+ 
+Imagem/visualização:
+- Tipo de painel LCD: LCD TFT
+- Tipo de retroiluminação: Sistema W-LED
+- Tamanho do painel: 27 polegadas / 68,6 cm
+- Área de visualização efectiva: 597,88 (H) x 336,31 (V)
+- Proporção de Imagem: 16:9
+- Resolução: 1920 x 1080 @ 60 Hz
+- Tempo de resposta (típico): 1 ms para cinzento a cinzento
+- Brilho: 300  cd/m²
+- SmartContrast: 10 000 000:1
+- Contraste (típico): 1000:1
+- Densidades de píxeis: 0,311x 0,311 mm
+- Ângulo de visualização: 170° (H) / 160° (V) @ C/R &gt; 10
+- Cores do ecrã: 16,7 milhões
+- Frequência de varrimento: 30 -83 kHz (H) / 56 -75 Hz (V)
+- sRGB
+ 
+Suporte:
+- Inclinação: -5/20º
+ 
+Energia:
+- Aparelho ligado: 19,65 W (Método de teste EnergyStar 6.0)
+- Modo de espera: 0,5 W (típ.)
+- Aparelho desligado: 0,3 W (típ.)
+ 
+LED de energia:
+- Operação 
+- branco
+- Modo de espera 
+- branco (piscando)
+ 
+Fonte de alimentação:
+- Voltagem: 100 
+- 240 VAC, 50 
+- 60 Hz
+ 
+Físico:
+- Produto com suporte: 646 x 471 x 240 mm
+- Produto sem suporte: 646 x 398 x 57 mm
+ 
+Condições de operação:
+- Faixa de temperatura (operação): 0 °C a 40 °C  °C
+- Faixa de temperatura (armazenamento): -20 °C a 60 °C  °C
+- Umidade relativa: 20%-80  %
+- Altitude: Operação: 3.658 m, Não operação: 12.192 m
+- MTBF: 30.000  horas
+ 
+Aprovações de órgãos reguladores:
+- BSMI
+- Marca CE
+- FCC Classe B
+- GOST
+- PSB
+- SASO
+- SEMKO
+- Certificado TCO
+- TUV/ISO9241-307
+- cETLus
+- WEEE
+ 
+Conectividade:
+ 
+Entrada de sinal:
+- VGA (analógica)
+- DVI-D (digital, HDCP)
+- HDMI (digital, HDCP)
+ 
+Entrada de sincronização:
+- Sincronismo separado
+- Sincronismo ativado, verde
+ 
+Áudio (entrada/saída):
+- Entrada de áudio do PC
+- Saída para fone de ouvido
+ 
+Áudio:
+- Altofalantes incorporados: 2W x2
+ 
+Funcionalidades:
+- Automático/para baixo
+- Brilho/voltar
+- Menu/OK
+- Ligar/desligar
+- Volume/para cima
+ 
+Idiomas do OSD:
+- Português do Brasil
+- Checo
+- Holandês
+- Inglês
+- Finlandês
+- Francês
+- Alemão
+- Grego
+- Húngaro
+- Italiano
+- Japonês
+- Coreano
+- Polaco
+- Português
+- Russo
+- Chinês Simplificado
+- Espanhol
+- Sueco
+- Chinês Tradicional
+- Turco
+- Ucraniano
+ 
+Segurança:
+- Bloqueio Kensington
+- Suporte VESA (100 x 100 mm)
+ 
+Compatibilidade Plug &amp; Play:
+- DDC/CI
+- Mac OS X
+- sRGB
+- Windows 7
+- Windows 8
+ 
+Conteúdo da Embalagem:
+- Monitor Philips
+- Cabo VGA
+- Cabo de Áudio
+- Cabo de Alimentação
+- Documentação do utilizador 
+Garantia
+12 meses de garantia
+Peso
+6215 gramas
+
+Preço normal: R$941.06
+Preço boleto: R$799.90

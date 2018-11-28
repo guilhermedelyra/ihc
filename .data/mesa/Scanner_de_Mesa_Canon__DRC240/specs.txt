@@ -1,0 +1,105 @@
+- Marca: Canon
+- Modelo: DR-C240
+ 
+Especificações:
+- Tipo: Digitalizador de secretária com alimentação automática
+- Unidade do sensor de digitalização: Sensor CMOS CIS de 1 linha
+- Resolução ótica: 600 ppp
+- Fonte de iluminação: LED RGB
+- Lado de digitalização: Frente/Verso/Duplex
+- Interface: USB 2.0 de alta velocidade
+- Ambiente de funcionamento: 10 
+- 32,5 °C / Humidade: 20 
+- 80% HR
+- Conformidade ambiental: RoHS e ENERGY STAR
+ 
+Dimensões:
+- Tabuleiros fechados: 291 x 253 x 231 mm
+- Tabuleiros abertos: 291 x 603 x 363 mm
+ 
+Requisitos de energia:
+- CA 100-240 V (50/60 Hz)
+ 
+Consumo de energia:
+- Digitalização: 19 W ou menos
+- Modo de hibernação: 1,4 W ou menos
+- Desligado: 0,1 W ou menos
+ 
+Scanner:
+- Preto e Branco: 45 ppm/90 ipm
+- A cores: 30 ppm/60 ipm
+- Resolução de Saída: 150 x 150 ppp, 200 x 200 ppp, 240 x 240 ppp, 300 x 300 ppp, 400 x 400 ppp, 600 x 600 ppp
+- Modo de saída: Preto e branco/difusão de erros/melhoramento de texto avançado, melhoramento de texto avançado II, escala de cinzentos de 8 bits (256 níveis), cor de 24 bits
+- Ciclo de trabalho diário: Aprox. 4.000 digitalizações
+ 
+Tamanho dos Documentos:
+- Largura: 50,8 
+- 216 mm
+- Comprimento: 54 
+- 356 mm
+- Espessura: 27 
+- 209 g/m² (0,06 
+- 0,25 mm)
+- Modo de documento longo: 3000 mm máx.
+- Digitalização de cartões de visita: Tamanho: 50,8 x 85 mm ou superior / Espessura: inferior a 0,45 mm
+- Digitalização de cartão de plástico: Tamanho: 53,9 x 85,5 mm / Espessura: 0,76 mm (é suportado cartão em relevo até 1,4 mm de espessura)
+- Digitalização de passaportes: Até 4 mm de espessura (através da folha de transporte)
+- Separação de papel: Método de inversão do rolo separador
+- Capacidade do alimentador: 60 folhas (80 g/m²)
+ 
+Funções Especiais:
+- Deteção automática do tamanho de página
+- Eliminação da distorção
+- Correção de cor tridimensional
+- Retirar cor (RGB)
+- Melhoramento de cor (RGB)
+- Deteção automática de cor
+- Recorte de sombra
+- MultiStream
+- Definições gama ajustáveis
+- Ignorar página em branco
+- Modo Folio
+- Configuração da área de digitalização
+- Separação de lotes com folha em branco ou código de patch
+- Redução de efeito Moiré
+- Prevenção de purga/remoção do fundo
+- Ajuste de contraste
+- Suavização do fundo
+- Recorte de sombra
+- Definição de resolução automática
+- Libertação de alimentação dupla
+- Deteção de alimentação dupla (sensor ultrassónico, comprimento)
+ 
+Software Incluído:
+ 
+Windows:
+- Controlador ISIS/TWAIN (Windows VISTA SP2/7 SP1/8/8.1/10/Server 2008 R2 SP1/Server 2012 R2)
+- CapturePerfect
+- CaptureOnTouch
+- eCopy PDF Pro Office
+- Kofax VRS
+- Plug-in: controlos EMC Captiva Cloud Runtime
+ 
+Consumíveis:
+- Kit do rolo de comutação
+- Folha de transporte (passaporte)
+- Folha de transporte (A4)
+ 
+Conteúdo da Embalagem:
+- Scanner Canon
+- Tabuleiro de alimentação
+- Disco de configuração
+- Disco Kofax VRS
+- Disco eCopy PDF Pro
+- Documentação
+- Cabo USB
+- Transformador de CA
+- Cabo de alimentação
+- Folha de transporte 
+Garantia
+12 meses de garantia
+Peso
+4265 gramas
+
+Preço normal: R$2121.06
+Preço boleto: R$1802.90

@@ -1,0 +1,64 @@
+- Marca: Samsung
+- Modelo: LS22E310HYMD
+ 
+Especificações:
+ 
+Display:
+- Tamanho da Tela: 21.5 "
+- Tamanho da Tela: 476,64 x 268,11 mm (apróx.)
+- Proporção da Tela: 16: 9
+- Brilho (típica): 200 cd / m²
+- Brilho (Min): 160 cd / m²
+- Contraste estático: 600: 1 padrão
+- Relação de Contraste Dinâmico: Mega
+- Resolução: 1920 x 1080
+- Pixel Pitch: 0,24825 x 0,24825 mm
+- Tempo de Resposta: 5 ms
+- Ângulo de Visão (H / V): 90° / 65 °
+- Suporte a cores: 16,7 Milhões
+ 
+Recursos:
+- Samsung MagicAngle
+- Samsung MagicBright
+- Samsung MagicUpscale
+- Eco Saving
+- Modo de economia
+- Flicker Livre
+- Modo de Jogo
+- Imagem Size
+- OS Compatibilidade: Windows, Mac
+- Certificação Windows: Windows 8.1
+ 
+Interface:
+- 1x D-Sub
+- 1x HDMI
+ 
+Físico:
+- Cor: Preto
+- Tipo de suporte: Simples
+- Toldo: -2 ° (± 2 °) ~ 20 ° (± 2o)
+- Wall Mount: 75 x 75- Dimensão com suporte (LxAxP): 51.37 x 39.05 x 18.97 cm- Dimensão sem suporte (LxAxP): 51.37 x 30.86 x 9.04 cm
+ 
+Eco:
+- Energia / Meio Ambiente Mark: Energystar6.0
+ 
+Energia:
+- Fonte De Energia: AC 100 ~ 240 V
+- Consumo de energia (Max): 25 W
+- Consumo de energia (Typ): 20 W
+- Consumo de energia (DPMS): 0,3 W (Typ.)
+- Consumo de energia (Stand-by): 0,3 W (Max)
+- Consumo de Energia Star Power: 20.6 W (Typ.)
+- Tipo: Adaptador externo
+ 
+Conteúdo da Embalagem:
+- Monitor Samsung
+- D-sub cabo
+- Guia de instalação rápida 
+Garantia
+12 meses de garantia
+Peso
+3950 gramas
+
+Preço normal: R$734.00
+Preço boleto: R$623.90

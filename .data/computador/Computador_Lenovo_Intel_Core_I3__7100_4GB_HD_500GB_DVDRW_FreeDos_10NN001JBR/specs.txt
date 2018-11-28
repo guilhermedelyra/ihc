@@ -1,0 +1,39 @@
+- Marca: Lenovo
+- Modelo: 10NN001JBR
+ 
+Especificações:
+ 
+Processador:
+- Intel Core i3-7100 
+- 3.9 GHz 
+- 3MB 
+ 
+Memória:
+- 4GB (1x4GB) DDR4 UDIMM 
+- 2400MHz 
+ 
+Armazenamento:
+- 500GB SATA 
+- 7200RPM 
+ 
+Portas:
+- USB 3.0: 6x
+- USB 2.0: 2x
+ 
+Sistema Operacional:
+- FreeDos
+ 
+Dimensões:
+- 29 x 34,3 x 89 cm
+ 
+Conteúdo da embalagem:
+- Computador Lenovo 
+- Mouse
+- Teclado 
+Garantia
+12 meses de garantia
+Peso
+6940 gramas
+
+Preço normal: R$2272.82
+Preço boleto: R$1931.90

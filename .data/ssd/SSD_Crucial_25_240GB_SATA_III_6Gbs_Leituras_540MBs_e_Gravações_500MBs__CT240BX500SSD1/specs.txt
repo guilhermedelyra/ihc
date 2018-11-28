@@ -1,0 +1,35 @@
+- Marca: Crucial
+- Modelo: CT240BX500SSD1
+ 
+Especificações:
+- Fator de forma: SSD interno de 2,5 polegadas
+- Capacidade: 240 GB
+- Series: BX500
+- Interface: SATA 6.0Gb / s
+- Tipo de dispositivo: Drive de estado sólido interno
+- Altura da unidade: 7,0 mm
+- Fator de forma: 2,5 "(7mm)
+ 
+Desempenho:
+- Leitura: 540 MB / s
+- Gravação: 500 MB / s
+ 
+Recursos:
+- Integridade de dados em várias etapas Algoritmo
+- Monitoramento Térmico
+- Aceleração de Gravação SLC
+- Coleta de lixo ativa
+- Suporte TRIM
+- Auto-Monitoramento e Tecnologia de Relatórios (INTELIGENTE)
+- Código de correção de erros (ECC)
+- Expectativa de Vida (MTTF): 1.5 Milhões de Horas
+ 
+Conteúdo da Embalagem:
+- SSD Crucial 2.5´ 240GB 
+Garantia
+12 meses de garantia
+Peso
+60 gramas
+
+Preço normal: R$290.47
+Preço boleto: R$246.90

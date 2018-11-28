@@ -1,0 +1,114 @@
+- Marca: Motorola
+- Modelo: G6 Plus XT1926
+ 
+Especificações:
+ 
+Sistema Operacional:
+- Android Oreo 
+- 8.0
+ 
+Display:
+- Resolução: HD+ 
+- 2160 x 1080
+- Tipo: IPS
+- Tamanho: 5.93" 
+- Max Vision (18:9)
+- Densidade: 407ppi
+- Número de cores: 16Milhões
+- Touch screen
+- Pinch Zoom
+- Capacitivo / Resistivo: Capacitivo
+ 
+CHIP SIM:
+- Modelo SIM Card (Chip): Nano SIM (4FF)
+- Dual Chip (Inteligente)
+ 
+Processador:
+- Qualcomm Snapdragon 630 (SDM630)
+- CPU: 2.2 GHz Octa-Core
+- GPU: Adreno 508
+ 
+Bateria:
+- Capacidade: 3200 mAh
+ 
+Conectividade: 
+- Bluetooth: 5.0
+- Navegador Internet: Google Chrome
+- GPRS
+- EDGE
+- Wi-Fi Direct
+- Wi-Fi
+- Tipo de conector: USB-C
+- NFC
+- Categoria 4G: Categoria 6 (300/50 Mbps)
+ 
+Banda:
+- 2G 
+- GSM 850/900/1800/1900 MHz
+- 3G 
+- WCDMA 850/900/1900/2100 MHz
+- 4G 
+- LTE B1(2100), B3(1800), B5(850), B7(2600), B28(700)
+ 
+Memória:
+- Armazenamento Total: 64 GB*
+- RAM: 4 GB
+- GPS: GPS, AGPS, Beidou, Galileo, GLONASS
+- Tipo de cartão de memória: Micro SD
+- Externa: Até 128 GB
+*O armazenamento total indicado, também conhecida como memória ROM, corresponde à capacidade física total (bruta) do circuito de memória existente no dispositivo.
+ 
+Mensagens:
+- SMS/MMS
+- Digitação rápida e inteligente de texto
+- E-mail POP3, IMAP4/SMTP
+- E-mail Exchange
+ 
+Estilo de Vida:
+- Capacidade da agenda telefone: Limitado pela memória
+- Agenda de Compromissos com calendário
+- Calculadora
+- Relógio, Despertador e Cronômetro
+- Bloco de notas (via Download do Google Play Store)
+- Conversor de moeda e Conversor de unidades (via Download do Google Play Store)
+ 
+Redes Sociais e Serviços Google:
+- Facebook , Instagram e Twitter (via Download do Google Play Store)
+- WhatsApp (via Download do Google Play Store)
+- LinkedIn (via Download do Google Play Store)
+- Youtube
+- Gmail
+- Google Duo
+- Google Street View (via Download do Google Play Store)
+- Google Maps
+- Google Calendar
+- Google Contact Sync
+- Google Navegação por Voz
+- Google Pesquisa por Voz
+- Google Search
+- Google Now
+ 
+Sensores:
+- Acelerômetro
+- Proximidade
+- Giroscópio
+- Magnetômetro
+- Luz Ambiente
+- Impressão Digital
+ 
+Conteúdo da Embalagem:
+- 01 Smartphone Motorola
+- 01 Capa protetora
+- 01 Kit de manuais
+- 01 Cabo de sincronização
+- 01 Fone de ouvido estereo
+- 01 Antena de TV digital móvel
+- 01 Carregador de parede turbopower 15W
+- 01 Ferramenta de remoção do SIM 
+Garantia
+12 meses de garantia
+Peso
+370 gramas
+
+Preço normal: R$1655.44
+Preço boleto: R$1407.12

@@ -1,0 +1,51 @@
+- Marca: Intel
+- Modelo: BX80677I57400
+Especificações:
+- Kaby Lake 
+- Core i5-7400
+- 7ª Geração
+- Status: Roadmap
+- Livre de Conflito
+- Litografia: 14 nm
+- Soquetes suportados: FCLGA1151
+Performance:
+- Cores: 4
+- Tópicos: 4
+- Frequência de Base: 3.00 GHz
+- Frequência Turbo Máx: 3.50Ghz
+- Cache: 6MB
+- Velocidade Bus: 100 MHz DMI
+- TDP: 65W
+Memória:
+- Tamanho máximo de memória (depende do tipo de memória: 64GB
+- Número máx. de canais de memória: 2Gráficos:
+- Processador Gráfico: Gráficos Intel® HD 630
+- Frequência da base de Gráficos: 350,00 MHz
+- Frequência Dinãmica máx. de gráficos: 1,10GHz
+- Memória Máxima de Video gráfico: 64GB
+- Suporta 4K:  a 60Hz
+- Resolução Máxima (HDMI 1.4): 4096x2304 @ 24Hz
+- Resolução máxima (DP): 4096x2304 @ 60Hz
+- Resolução máx. (eDP) 
+- Painel Integrado): 4096x2304 @ 60Hz
+- Suporte para DirecX: 12
+- Suporte OpenGL: 4.4
+- Monitores compatíveis: 3- Modo de operação 64 BitOpções de expansão:
+- Ecalabilidade: 1S Somente
+- Revisão PCI Express: 3,0
+- Configurações PCI Express: Até 1x16, 2x8, 1x8 + 2x4
+- Núm máx de PCI Express Lanes: 16
+Tecnologias Avançadas:
+- Intel® Virtualization Technology (VT-x)
+- Proteção do SO
+- Extensões de conjunto de instruções: SSE4.1 / 4.2, AVX 2.0
+- Tecnologia Intel Turbo Boost: 2.0Conteúdo da embalagem:
+- 01 Processador Intel Core i5-7400 Kaby Lake 7ª Geração
+- 01 Cooler  
+Garantia
+12 meses de garantia
+Peso
+275 gramas
+
+Preço normal: R$999.89
+Preço boleto: R$849.91

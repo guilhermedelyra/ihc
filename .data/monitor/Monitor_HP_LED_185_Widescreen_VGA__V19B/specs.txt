@@ -1,0 +1,27 @@
+- Marca: HP
+- Modelo: 3MV30LA
+ 
+Especificações:
+ 
+Tela:
+- Frequência: 60Hz
+- Tamanho de Tela: 18.5"
+- Tipo de Tela: LED
+- Cor: Preto
+- Resolução: 1366 x 768
+- Tempo de Resposta: 5ms
+- Brilho: 200 CD/m²
+- Contraste: 600:1
+- Conexão VGA: 1x
+- Furação Vesa: VESA 100mm
+ 
+Conteúdo da Embalagem:
+- Monitor HP
+- Manual do Usuário 
+Garantia
+12 meses de garantia
+Peso
+3215 gramas
+
+Preço normal: R$470.47
+Preço boleto: R$399.90

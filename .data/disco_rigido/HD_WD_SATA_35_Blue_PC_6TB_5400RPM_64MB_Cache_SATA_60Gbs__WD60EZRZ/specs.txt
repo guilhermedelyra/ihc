@@ -1,0 +1,24 @@
+- Marca: WD
+- Modelo: WD60EZRZ
+ 
+Especificações:
+- Interface: SATA 6 Gb/s
+- Capacidade: 6TB
+- Form factor: 3.5-inch
+- RoHS compliant
+- Cache: 64MB
+- Rotação: 5400 rpm
+- Buffer para host: 6 Gb/s Informações adicionais:
+- O original: Os drives WD Blue são projetados e fabricados com a tecnologia comprovada presente nos premiados HDs móveis e para desktop originais da WD.
+- A qualidade WD: Construídas segundo os mais altos níveis de qualidade e confiabilidade, essas unidades oferecem recursos e capacidade ideais para suas necessidades diárias de computação.
+- Mais opções: Essas unidades estão disponíveis em uma vasta gama de capacidades e interfaces, para você ter a unidade perfeita para seu sistema, de várias maneiras.
+- Interface SATA ou PATA: Embora o SATA tenha se convertido na interface padrão do setor, a WD continua fabricando HDs para computadores de mesa com a interface PATA para sistemas exclusivos ou legados.
+- Tecnologia de carga de rampa NoTouch™: O cabeçote de gravação nunca toca a mídia do disco, garantindo um desgaste muito menor do cabeçote de gravação e da mídia, bem como uma melhor proteção do drive em trânsito.
+- É fácil atualizar sua unidade: Com o software Acronis® True Image™ WD Edition, disponível para download gratuito no site de Suporte da WD, você copia todos os dados em uma nova unidade, assim você não precisa reinstalar o sistema operacional para ter todas as vantagens de uma nova unidade.  
+Garantia
+12 meses de garantia
+Peso
+725 gramas
+
+Preço normal: R$1294.00
+Preço boleto: R$1099.90

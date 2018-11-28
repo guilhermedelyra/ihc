@@ -1,0 +1,48 @@
+- Marca: WD
+- Modelo: WD20EZRZ
+Especificações:
+- Interface: SATA 6 Gb/s
+- Capacidade: 2TB
+- Advanced Format (AF)
+- Fator de forma: 3.5-inch
+- RoHS compliant
+ 
+Performance:
+- Taxa de transferência de dados (máx): Host de/para unidade (sustentada): 147 MB/s
+- Cache: 64
+- Velocidade de rotação: 5400 RPM Class
+ 
+Dados:
+- Ciclos de carga / descarga: 300,000
+- Erros de leitura não recuperáveis ​​por bits lidos: &lt;1 in 10
+Gestão de Energia:
+- 12VDC ± 10% (A, pico): 1.73
+ 
+Requisitos de potência média:
+- Leitura/Escrita: 4.1 W
+- Inativo: 3.0 W
+- Standby/Sleep: 0.4W
+ 
+Ambiente:
+- Temperatura de operação: 0 até 60
+- Temperatura não operacional: -40 até 70
+ 
+Shock (Gs):
+- Operação (2 ms, escrita): 30
+- Operação (2 ms, leitura): 65
+- Não operacional (2ms): 250
+ 
+Acústica (dBA):
+- Inativo: 23
+- Seek (média): 27
+ 
+Conteúdo da embalagem:
+- 01 HD WD 
+Garantia
+12 meses de garantia
+Peso
+600 gramas
+
+Preço antigo: R$505.76
+Preço normal: R$470.47
+Preço boleto: R$399.90

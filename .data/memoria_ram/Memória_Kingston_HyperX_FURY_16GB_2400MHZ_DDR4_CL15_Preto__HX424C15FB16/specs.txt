@@ -1,0 +1,20 @@
+- Marca: HyperX
+- Modelo: HX424C15FB/16
+ 
+Especificações:
+- Tipo: DDR4
+- Capacidade: 16GB
+- DDR4 não é compatível com antigos chipsets Intel ou AMD
+- Cas Latência: CAS CL15
+- Tensão: 1.2V
+- Velocidade: 2400MHZ
+ 
+Conteúdo da embalagem: 
+- 01 Memória Kingston HyperX 
+Garantia
+12 meses de garantia
+Peso
+55 gramas
+
+Preço normal: R$1176.35
+Preço boleto: R$999.90

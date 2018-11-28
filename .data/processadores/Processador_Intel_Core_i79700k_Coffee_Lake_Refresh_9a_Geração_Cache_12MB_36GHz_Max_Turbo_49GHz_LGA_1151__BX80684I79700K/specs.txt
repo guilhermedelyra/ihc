@@ -1,0 +1,33 @@
+- Marca: Intel 
+- Modelo: BX80684I79700K 
+Especificações:
+- Intel Core i7-9700K
+- Soquete CPU: LGA 1151- Potência de Design Térmico (TDP): 95W
+- Suporte de memória Optane
+- Suporte vPro
+- Tecnologias de Performance: Turbo Boost 2.0, Turbo Boost Max 3.0
+- Tecnologias de segurança: Proteção de dispositivo com proteção de inicialização
+Atuação:
+- Número de núcleos: 8
+- Número de processos: 8
+- Velocidade base do clock: 3,6 GHz
+- Velocidade Máxima de Impulso: 4,9 GHz
+- Cache L3: 12 MB
+Suporte de Memória:
+- Suporte de Memória: DDR4 2666 MHz
+- Arquitetura de Canal: Canal duplo
+Tecnologia:
+- Suporte AES
+- Virtualização: Intel VT-d
+ 
+Gráficos integrados:
+- Chipset gráfico: Gráficos Intel UHD 630
+- Velocidade base do clock: 1200 MHz
+Conteúdo da embalagem:- Processador Intel Core i7-9700k 
+Garantia
+12 meses de garantia
+Peso
+85 gramas
+
+Preço normal: R$2705.76
+Preço boleto: R$2299.90

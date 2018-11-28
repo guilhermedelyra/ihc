@@ -1,0 +1,25 @@
+- Marca: AMD
+- Modelo: YD270XBGAFBOX
+ 
+Especificações:
+- Séries: Ryzen 7
+- Processo de fabricação: 12nm
+- Socket: Socket AM4
+- Núcleos: 8 core
+- Threads: 16
+- Frequência de Operação: 3.7GHz (Max Turbo 4.35GHz)
+- Cache L3: 16MB
+- Cache L2: 4MB
+- Potência: 105 W 
+ 
+Conteúdo da Embalagem:
+- 01 Processador AMD 
+- 01 Cooler 
+Garantia
+12 meses de garantia
+Peso
+810 gramas
+
+Preço antigo: R$1884.11
+Preço normal: R$1726.21
+Preço boleto: R$1467.28

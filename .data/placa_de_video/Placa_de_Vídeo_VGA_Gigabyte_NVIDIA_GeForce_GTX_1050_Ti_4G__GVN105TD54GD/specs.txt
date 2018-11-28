@@ -1,0 +1,47 @@
+- Marca: Gigabyte
+- Modelo: GV-N105TD5-4GD 
+ 
+Especificações:
+ 
+ 
+Interface:
+- PCI-E 3.0 x 16
+ 
+Chipset:
+- GPU: GeForce® GTX 1050 Ti
+- Base Clock: OC Mode: 1316MHz  / Gaming Mode: 1290MHz
+- Boost Clock: OC Mode: 1430MHz / Gaming Mode: 1392MHz
+ 
+Memória:
+- Clock efetivo: 7008 MHz
+- Tamanho: 4GB
+- Interface: 128 bit
+- Tipo: GDDR5
+ 
+API 3D:
+- DirectX 12
+- OpenGL 4.5
+ 
+Portas:
+- 1 x HDMI (Max Resolution: 4096x2160 @60 Hz)
+- 1 x DisplayPort (Max Resolution: 7680x4320 @60 Hz)
+- 1 x Dual-link DVI-D
+ 
+Geral:
+- Resolução Máxima: 7680x4320
+- Requisitos do sistema: Alimentação mínima 300W
+- Fator de Forma: ATX
+- Mult-View: 3
+- Dimensões: 30 x 172 x 113 mm
+ 
+Conteúdo da embalagem:
+- 01 Placa de Video VGA GigaByte 
+- 01 Drive de instação
+- Guia do usuário 
+Garantia
+12 meses de garantia
+Peso
+630 gramas
+
+Preço normal: R$1023.41
+Preço boleto: R$869.90

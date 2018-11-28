@@ -1,0 +1,79 @@
+- Marca: Lenovo 
+- Modelo: 80YH0008BR
+Especificações:
+ 
+Processador:
+- i3-6006U
+- Cache: 3MB
+- Clock: 2.0GHz
+ 
+Memória:
+- RAM: 4GB (4GB soldado DDR4 2133MHz)
+- Máxima expansão: 16GB
+ 
+Armazenamento:
+- 1TB 5400 RPM
+ 
+Chipset:
+- Integrado
+ 
+Placa Gráfica:
+- Integrada Intel® HD Graphics 520
+Sistema Operacional:
+- Windows 10 Home
+ 
+Tela:
+- Tamanho: 15.6" 
+- Full HD Antirreflexo
+- Resolução: 1920 x 1080 (Full HD)
+- Formato: 16:9 widescreen
+ 
+Cor:
+- Prata
+ 
+Wireless:
+- WiFi 1x1 AC
+ 
+Geral:
+- Câmera
+- Bluetooth
+- Touchpad
+- Kensington Lock
+- Microfone
+Áudio:
+- 2 x 1.5W alto-falantes com certificação Dolby Audio
+ 
+Portas:
+- HDMI
+- RJ-45
+Ethernet:
+- 100/1000M
+ 
+Bateria:
+- 2 células 30 WH
+- Adaptador AC: 45W
+ 
+USB:
+- 2 x USB 3.0
+- USB Tipo C: 1 x USB tipo C (USB 3.0)
+ 
+Leitor de cartão:
+- Leitor de cartões 4-em-1 (SD,SDHC, SDXC, MMC)
+ 
+Software:
+- Lenovo App Explorer
+- Lenovo ID
+- Dolby Advanced Audio
+- Lenovo Utility
+- Lenovo OneKey Recovery
+*lista de softwares pode mudar sem aviso prévio
+ 
+Conteúdo da embalagem:
+- Notebook Lenovo 
+Garantia
+12 meses de garantia
+Peso
+2560 gramas
+
+Preço normal: R$2388.12
+Preço boleto: R$2029.90

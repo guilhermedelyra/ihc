@@ -1,0 +1,44 @@
+- Marca: Kingston Hyperx 
+- Modelo: SHFR200/240G
+Especificações:
+- Formato: 2.5"
+- Interface:  SATA Rev. 3.0 (6Gb/s) 
+- compatibilidade com versões anteriores para SATA Rev. 2.0 (3Gb/s)
+- Capacidade²: 240GB
+- Controlador: Marvell 88SS1074
+- NAND: 3DTLC
+- Desempenho de referência¹: até 500/480MB/s
+- Consumo de Energia: 0,2W inativo / 0,6W média / 1,2W (MAX) leitura / 2,5W (MAX) gravação
+- Temperatura de armazenamento: -40°C a 85°C
+- Temperatura de operação: 0°C a 70°C
+- Dimensões: 100.14 mm x 69.85mm x 9.5mm
+- Vibração quando em operação: 2,17G pico (7 – 800 Hz)
+- Vibração quando não está em operação: 20G pico (10 – 2000 Hz)
+- Expectativa de vida útil: 1 milhão de horas MTBF
+- Total bytes gravados (TBW)⁴: 240GB 
+- 120TB
+Características e Benefícios:
+- Iluminação RGB surpreendente com efeitos dinâmicos
+- Pode ser conectada em série para sincronia com diversos outros dispositivos RGB
+- 3D NAND oferece maior confiabilidade e eficiência
+- Estilo agressivo para acentuar seu equipamento 
+ 
+ 
+Conteúdo da embalagem:- SSD Kingston Hyperx Fury RGB 240GB
+Observações:
+Este SSD foi projetado para uso em trabalhos realizados em PCs e notebooks e não é destinado a ambientes de Servidor.
+¹ Baseado em "desempenho imediato", utilizando uma placa-mãe SATA Rev. 3.0. A velocidade pode variar de acordo com o host, hardware, software e utilização. IOMETER 
+- Leitura/Gravação aleatória de 4K baseada em partição de 8GB.
+² Parte da capacidade mencionada em um dispositivo de armazenamento de memória Flash é utilizada para formatação e outras funções e, portanto, não está disponível para o armazenamento de dados. Isso significa que a capacidade real de armazenamento de dados é inferior àquela indicada no produto. Para mais informações, consulte o Guia de memórias Flash da Kingston em kingston.com/flashguide.
+ 
+⁴ O total de bytes gravados (TBW) tem origem na Carga de Trabalho do Cliente JEDEC (JESD219A).
+* Iluminação personalizada com software de controle RGB da placa-mãe.
+ 
+** Para melhor desempenho, use um sistema com uma porta USB 3.1 Ger 2 e ative o modo UASP. [A velocidade pode variar de acordo com o hardware do host, software e utilização]. 
+Garantia
+12 meses de garantia
+Peso
+250 gramas
+
+Preço normal: R$705.76
+Preço boleto: R$599.90

@@ -1,0 +1,27 @@
+- Marca: NTC
+- Modelo: PRICE 4123 GA8G
+Especificações:
+- Gabinete NTC FG-920
+- Fonte: 300W 
+- Chaveada
+- Placa de vídeo: Onboard 
+- Intel UHD Graphics 630
+- Sistema operacional: Linux
+Processador:
+-  Intel Core i3 i3-8100 
+- 1151 / 3.6Ghz / 6 MB Cache
+Memória Ram:- 4GB (1X4GB)
+- DDR4 
+- 2400 MHZ 
+SSD:- 120GB 
+- Sata 3 
+- 2.5"
+Conteúdo da embalagem:- Microcomputador NTC 
+* Não Acompanha Gravador de CD/DVD, Teclado, Mouse e Caixas de Som. 
+Garantia
+12 meses de garantia
+Peso
+5825 gramas
+
+Preço normal: R$2102.24
+Preço boleto: R$1786.90

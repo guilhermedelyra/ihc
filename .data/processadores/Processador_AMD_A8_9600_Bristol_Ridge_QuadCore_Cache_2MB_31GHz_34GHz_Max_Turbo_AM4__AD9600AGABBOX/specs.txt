@@ -1,0 +1,28 @@
+- Marca: AMD
+- Modelo: AD9600AGABBOX
+Especificações:
+- Nº CPU Cores: 4
+- Velocidade Base do Clock: 3.1 GHz
+- Desbloqueado
+- Versão PCI Express: PCIe 3.0 x8
+- Temps Max: 90°C
+- Nº GPU Cores: 6
+- Turbo Max Core Speed: 3.4 GHz
+- CMOS: 28nm
+- TDP Padrão / TDP: 65W
+- Compute Cores: 10 (4 CPU + 6 GPU)
+- Total L2 Cache: 2MB
+- Pacote: AM4
+- CTDP: 45 / 65W- Porta de exibição
+- HDMIMemória:
+- Velocidade máxima da memória: 2400MHz- Tipo de memória: DDR4- Canais de memória: 2Gráficos:- Gráficos Frequência: 900 MHz- Modelo Gráfico: Série Radeon R7
+ 
+Conteúdo da embalagem:
+- 01 Processador AMD A8 9600 Bristol Ridge 
+Garantia
+12 meses de garantia
+Peso
+265 gramas
+
+Preço normal: R$352.82
+Preço boleto: R$299.90

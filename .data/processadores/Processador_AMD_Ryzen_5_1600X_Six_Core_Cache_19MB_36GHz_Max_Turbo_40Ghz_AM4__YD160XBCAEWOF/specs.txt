@@ -1,0 +1,27 @@
+- Marca: AMD 
+- Modelo: YD160XBCAEWOF
+Especificações:
+ 
+- Séries: Ryzen 5
+- Processo de fabricação: 14nm
+- Socket: Socket AM4
+- Núcleos: 6 core
+- Threads: 12
+- Frequência de Operação: 3.6Ghz (Max Turbo 4.0Ghz)
+- Cache L3: 16MB
+- Cache L2: 3MB
+- Modo de Operação: 64 Bits
+- Potência: 95 W
+ 
+Conteúdo da Embalagem: 
+- 01 Processador AMD
+Observação:
+* As linhas de processadores Ryzen 3, 5 e 7 não possuem vídeo integrado, necessário ter uma placa de vídeo off-board.
+* Não acompanha cooler 
+Garantia
+12 meses de garantia
+Peso
+140 gramas
+
+Preço normal: R$941.06
+Preço boleto: R$799.90

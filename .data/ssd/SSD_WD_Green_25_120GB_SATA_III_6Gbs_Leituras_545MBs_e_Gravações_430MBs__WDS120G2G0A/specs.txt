@@ -1,0 +1,36 @@
+- Marca: Western Digital
+- Modelo: WDS120G2G0A
+Especificações:
+- Capacidade: 120GB
+- Interface: SATA III 6Gb s
+- Fator de forma: 2.5” 7mm
+- Leituras: 545MB/s 
+- Gravações: 430MB/s
+ 
+Performance:
+- Leitura sequencial até: 545Mb/s
+ 
+Power:
+- Potência ativa média: 80 mW
+- Máx Leitura de operação: 2,200 mW
+- Máx Escrita de operação: 2,200 mW
+- Slumber: 30 mW
+- DEVSLP: 10 mW
+Confiabilidade:
+- MTTF: Até 1.0M horas
+Ambiente:
+- Temperatura de operação: 0°C até 70°C
+- Temperatura não operacional: -55°C até 85°C
+- Vibrações operacionais: 5.0 gRMS, 10-2000 Hz
+- Vibrações não operacionais: 4.9 gRMS, 7-800 Hz
+- Choque: 1,500 G @ 0.5 msec half sine
+ 
+Conteúdo da embalagem:
+- SSD WD 
+Garantia
+12 meses de garantia
+Peso
+65 gramas
+
+Preço normal: R$188.12
+Preço boleto: R$159.90

@@ -1,0 +1,25 @@
+Marca: Corsair Gaming
+Modelo: CMV4GX4M1A2133C15
+ 
+Especificações:
+- Configuração da memória: Dual Channel
+- Tipo de memória: DDR4
+- Formato da embalagem da memória: DIMM
+- Pino da embalagem da memória: 288
+- Tamanho da memória: 4GB Kit (1 x 4GB)
+- Latência SPD: 15-15-15-36
+- Velocidade SPD: 2133MHz
+- Avaliação de velocidade: PC4-17000 (2133MHz)
+- Latência testada: 15-15-15-36
+- Velocidade testada: 2133MHz
+- Voltagem testada: 1.2V
+ 
+Conteúdo da embalagem:
+- 01 Memória Corsair 4GB 
+Garantia
+12 meses de garantia
+Peso
+20 gramas
+
+Preço normal: R$297.18
+Preço boleto: R$252.60

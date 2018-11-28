@@ -1,0 +1,44 @@
+- Marca: Msi
+- Modelo: GTX 1050 AERO ITX 2GB OC
+ 
+Especificações:
+ 
+GPU:
+- Core Clock 1518 MHz / 1404 MHz
+- GTX 1050 AERO ITX 2G OC
+- NVIDIA® GeForce® GTX 1050
+- Cores: 640
+ 
+Memória:
+- Tamanho: 2GB
+- Tipo: GDDR5 de 128 bits
+- Clock da memória: 7008 MHz
+ 
+Entradas:
+- DisplayPort (Version 1.4) 
+- HDMI (Version 2.0) 
+- DL-DVI-D
+ 
+Suporte:
+- OpenGL: 4.5
+- Microsoft DirectX 12
+- Tecnologia Crossfire™, 2-Way (Bridgeless)
+- PCI Express x16 3.0
+ 
+Energia:
+- Consumo: 75W
+- Recomedado fonte de energia: 300 W
+- Dimensões: 155 x 112 x 37 mm
+- Máx. Displays: 3
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo VGA MSI 
+- Driver para instalação
+- Guia Rápido 
+Garantia
+12 meses de garantia
+Peso
+745 gramas
+
+Preço normal: R$752.82
+Preço boleto: R$639.90

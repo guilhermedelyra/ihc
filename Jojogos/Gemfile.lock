@@ -1,3 +1,13 @@
+GIT
+  remote: git://github.com/ngelx/solidus_import_products.git
+  revision: 643ce2a38c0c0ee26c8919e630ad7dad0adc568a
+  specs:
+    solidus_import_products (2.0.1)
+      deface
+      solidus_auth_devise
+      solidus_core (>= 2.0)
+      solidus_support
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -361,6 +371,7 @@ DEPENDENCIES
   solidus
   solidus_auth_devise
   solidus_i18n
+  solidus_import_products!
   spring
   spring-watcher-listen (~> 2.0.0)
   sprockets-rails

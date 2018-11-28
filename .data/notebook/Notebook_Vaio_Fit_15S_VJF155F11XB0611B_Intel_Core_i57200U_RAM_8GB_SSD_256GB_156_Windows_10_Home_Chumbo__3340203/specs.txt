@@ -1,0 +1,88 @@
+- Marca: VAIO
+- Modelo: 3340203
+ 
+Especificações:
+ 
+Processador:
+- Intel CoreTM i5-7200U
+- Velocidade: 2.50 GHz com Intel Turbo Boost até 3.10 GHz
+- Cache: 3 MB
+- Dual Core
+ 
+Sistema Operacional:
+- Windows 10 Home
+ 
+Memória RAM:
+- Capacidade: 8 GB
+- Slots: 2x SO-DIMM
+- Interface: DDR3L
+- Com suporte até 16 GB
+ 
+Disco Rígido (HD):
+- Tipo: SSD
+- Capacidade: 256GB
+- Interface: SATA
+- Rotação: 5400 RPM
+ 
+Leitor de Cartões:
+- SD / SDHC / SDXC / MMC
+ 
+Webcam:
+- Localização: Frontal
+- Resolução: HD 1280 x 720
+ 
+Tela:
+- Tamanho: 15.6"
+- Tipo: LCD com tecnologia LED
+- Widescreen
+- Resolução: 1366 x 768 (HD) 
+ 
+Vídeo:
+- Processamento de vídeo integrado Intel HD Graphics 620
+- Suporte Microsoft DirectX 12
+- OpenGL 4.4
+ 
+Áudio:
+- Microfone e alto-falantes estéreo embutidos
+ 
+Conectividade:
+- Rede sem fio Intel Dual Band Wireless-AC 3165 IEEE 802.11 abgn, 802.11 ac / 1x LAN 10/100/1000
+- Bluetooth 4.2
+ 
+Portas de Conexão:
+- 2x USB 3.0
+- 2x USB 2.0
+- 1x HDMI
+- 1x Áudio para microfone
+- 1x Áudio para fone de ouvido
+- 1x DC-in (carregador)
+- 1x VGA
+ 
+Periféricos:
+- Teclado: Português-Brasil, 107 teclas
+- Mouse: Touchpad com controle preciso do cursor, com toque múltiplo, 2 botões integrados
+ 
+Energia:
+- Carregador: 19 V / 2.1 A, Bivolt / 40W
+- Bateria: Li-ion / 4 células / 2200 mAh / 32 Wh (removível)
+ 
+Segurança:
+- Trava Kensington Lock
+- Intel PTT
+ 
+Físico:
+- Cor: Chumbo escuro
+- Dimensões: 377 x 22,8 x 259 mm
+ 
+Conteúdo da Embalagem:
+- Notebook VAIO
+- Adaptador CA com cabo padrão Inmetro (carregador)
+- Cartão Postal
+- Guia Rápido de Instalação 
+Garantia
+12 meses de garantia
+Peso
+2665 gramas
+
+Preço normal: R$3660.69
+Preço boleto: R$3111.59

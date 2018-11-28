@@ -1,0 +1,83 @@
+- Marca: Intel
+- Modelo: BX80684G5500
+ 
+Especificações:
+- Segmento: Área de trabalho
+- Número do Processador: G5500
+- Litografia: 14 nm
+ 
+Perfomance:
+- Núcleos: 2
+- Threads: 4
+- Frequência básica: 3,80 GHz
+- Cache: SmartCache de 4 MB
+- Velocidade da BUS: 8 GT / s DMI3
+- TDP: 54 W
+ 
+Memória:
+- Tamanho Máximo suportado (depende do tipo de memória): 64 GB
+- Tipos de memória: DDR4-2400
+- Número Máximo de Canais de Memória: 2
+- Largura de banda máxima da memória: 37,5 GBps
+- Memória ECC Suportada
+ 
+Gráficos de processador:
+- Gráficos Intel UHD 630
+- Frequência básica: 350 MHz
+- Freqüência dinâmica máxima: 1.10 GHz
+- Memória Max Video: 64 GB
+- Suporte 4K: a 60Hz
+- Resolução Máxima (HDMI 1.4): 4096 x 2304 @ 24 Hz
+- Resolução máxima (DP): 4096 x 2304 a 60 Hz
+- Resolução Máxima (eDP 
+- Painel Plano Integrado): 4096 x 2304 a 60 Hz
+- Suporte DirectX: 12
+- Suporte OpenGL: 4,5
+- Vídeo Intel Quick Sync
+- Tecnologia Intel InTru 3D
+- Tecnologia Intel Clear Video HD
+- Tecnologia Intel Clear Video
+- Número de monitores suportados: 3
+- ID de dispositivo: 0x3E91
+ 
+Opções de Expansão:
+- Escalabilidade: Apenas 1S
+- Revisão PCI Express: 3,0
+- Configurações PCI Express: Até 1x16, 2x8, 1x8 + 2x4
+- Número Máximo de Pistas PCI Express: 16
+ 
+Solução Térmica:
+- Soquetes suportados: FCLGA1151
+- Configuração Máxima da CPU: 1
+- Solução térmica: PCG 2015C (65W)
+- TJUNCTION: 100 ° C
+ 
+Recursos:
+- Tecnologia Intel Hyper-Threading
+- Tecnologia de virtualização Intel (VT-x)
+- Tecnologia de virtualização Intel para E / S direcionada (VT-d)
+- Intel VT-x com tabelas de páginas estendidas (EPT)
+- Intel 64
+- Conjunto de instruções: 64 bits
+- Extensões de conjunto de instruções: Intel SSE4.1, Intel SSE4.2
+- Estados ociosos
+- Tecnologia Enhanced Intel SpeedStep
+- Tecnologias de monitoramento térmico
+- Tecnologia de proteção de identidade Intel
+ 
+Segurança e Confiabilidade:
+- Novas instruções do Intel AES
+- Chave Segura
+- Extensões de guarda de software Intel (Intel SGX)
+- Execute Desativar Bit
+- Protetor de inicialização Intel
+ 
+Conteúdo da Embalagem:
+- Processador Intel Pentium G5500 Kaby Lake 
+Garantia
+12 meses de garantia
+Peso
+265 gramas
+
+Preço normal: R$511.00
+Preço boleto: R$434.35

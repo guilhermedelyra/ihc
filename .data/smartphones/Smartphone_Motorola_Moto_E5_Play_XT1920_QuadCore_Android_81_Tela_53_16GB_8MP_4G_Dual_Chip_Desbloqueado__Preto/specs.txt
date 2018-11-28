@@ -1,0 +1,115 @@
+- Marca: Motorola
+- Modelo: Moto E5 Play XT1920
+ 
+Especificações:
+ 
+Sistema Operacional:
+- Android 
+- 8.1.0 
+- versão Go
+ 
+Display:
+- Resolução: FW+ (960 x 480)
+- Tipo: IPS
+- Tamanho: 5.34"
+- Densidade de Pixels: 201 ppi
+- Número de cores: 16 Milhões
+- Touch screen
+- Pinch Zoom
+- Capacitivo / Resistivo: Capacitivo
+ 
+CHIP SIM:
+- Modelo SIM Card (Chip): Nano SIM (4FF)
+- Dual Chip (Inteligente)
+ 
+Processador:
+- Qualcomm Snapdragon 425 (MSM8917)
+- CPU: 1.4 GHz Quad-Core
+- GPU: Adreno 308
+ 
+Conectividade:
+- Categoria 4G DL:Cat 4 (150 Mbps) / UL:Cat 5 (75 Mbps)
+- Bluetooth 4.2
+- Navegador Internet: Google Chrome
+- GPRS
+- EDGE
+- Wi-Fi Direct
+- Wi-Fi
+ 
+Memória:
+- Armazenamento Total: 16 GB*
+- RAM: 1 GB
+- Tipo de cartão de memória: Micro SD
+- Memória externa: Até 256 GB
+* O armazenamento total indicado, também conhecida como memória ROM, corresponde à capacidade física total (bruta) do circuito de memória existente no dispositivo. O armazenamento interno disponível para o usuário, de maneira similar a outros equipamentos como computadores, é inferior à capacidade física total devido a diversos fatores como formatação (organização da estrutura lógica do componente para uso pelo sistema operacional), espaço ocupado pelo sistema operacional e necessário para funcionamento do smartphone, aplicativos, conteúdos, dados instalados, bem como espaço reservado necessário para atualizações do sistema operacional.
+ 
+GPS:
+- GPS
+- AGPS
+- LTEPP
+- SUPL
+- GLONASS
+ 
+Bandas:
+- 2G 
+- GSM 850/900/1800/1900 MHz
+- 3G 
+- WCDMA 850/900/1700/1900/2100 MHz
+- 4G 
+- LTE B1/B2/B3/B4/B5/B7/B28
+ 
+Bateria:
+- Capacidade: 2100 mAh
+ 
+Tipo de conector:
+- Micro USB
+ 
+Sensores:
+- Acelerômetro
+- Proximidade
+- Luz Ambiente
+- Impressão Digital
+ 
+Mensagens:
+- SMS/MMS
+- Digitação rápida e inteligente de texto
+- E-mail POP3, IMAP4/SMTP
+- E-mail Exchange
+ 
+Estilo de Vida:
+- Capacidade da agenda telefone: Limitado pela memória
+- Agenda de Compromissos com calendário
+- Calculadora
+- Relógio, Despertador e Cronômetro
+- Bloco de notas (via Download do Google Play Store)
+- Conversor de moeda e Conversor de unidades (via Download do Google Play Store)
+ 
+Redes Sociais e Serviços Google:
+- Facebook , Instagram e Twitter (via Download do Google Play Store)
+- WhatsApp (via Download do Google Play Store)
+- LinkedIn (via Download do Google Play Store)
+- Youtube
+- Gmail
+- Google Duo
+- Google Maps
+- Google Calendar
+- Google Contact Sync
+- Google Navegação por Voz
+- Google Pesquisa por Voz
+- Google Search
+- Google Now
+ 
+Conteúdo da Embalagem:
+- 01 Smartphone Motorola
+- 01 Kit de manuais
+- 01 Cabo de sincronização
+- 01 Fone de ouvido estereo
+- 01 Carregador de parede
+- 01 Bateria 
+Garantia
+12 meses de garantia
+Peso
+290 gramas
+
+Preço normal: R$752.82
+Preço boleto: R$639.90

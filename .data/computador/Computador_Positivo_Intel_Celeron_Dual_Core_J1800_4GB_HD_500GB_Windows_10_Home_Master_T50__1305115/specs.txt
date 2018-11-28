@@ -1,0 +1,92 @@
+- Marca: Positivo
+- Modelo: 1305115
+ 
+Especificações:
+ 
+Processador:
+- Intel Celeron J1800
+- Dual Core
+- Velocidade: 2.58 GHz
+- Cache: 1MB
+ 
+Chipset:
+- Integrado ao processador (SoC)
+ 
+Sistema Operacional:
+- Windows 10 Home
+ 
+Placa Mãe:
+- Positivo POS-EIBTPDC
+ 
+Memória RAM:
+- Capacidade: 4 GB (suporta até 8 GB)
+- Velocidade: 1333 Mhz
+- Slots: 1x SO-DIMM
+- Tipo: DDR3 SDRAM
+ 
+Disco Rígido:
+- Capacidade: 500 GB
+- Interface: SATA 2
+ 
+Vídeo:
+- Intel HD Graphics integrado ao processador
+- Aceleração gráfica integrada vídeos HD
+- Suporte Microsoft DirectX 11
+- OpenGL 4.0
+- Memória alocada dinamicamente até 1.7GB
+ 
+Áudio:
+- Áudio de alta definição (HD Áudio) integrado de 6 canais
+ 
+Rede:
+- 10/100 Mbps
+- Padrão Fast Ethernet
+ 
+Periféricos:
+- Teclado: ABNT 2, 107 teclas, PS/2
+- Mouse: 2 botões, com scroll, ótico, PS/2
+ 
+Baias para Expansão:
+- Externa: 1x .5.25" (slim)
+- Interna: 1x 3.5" / 1x 2.5"
+ 
+Gabinete:
+- Formato: Mini
+- Material: Plástico
+- Cor: Preto
+- Segurança: Anilha para lacre
+- Dimensões: 300.7 x 245 x 500 mm
+ 
+Fonte de Alimentação:
+- Voltagem: 100 
+- 240V / 50-60Hz, 40W
+ 
+Portas Frontais:
+- 2x USB 2.0
+- 1x Line-out (fone de ouvido)
+- 1x Mic-in (microfone)
+ 
+Portas Traseiras:
+- 1x HDMI (saída)
+- 1x VGA (saída)
+- 4x USB 2.0
+- 2x PS/2 (teclado e mouse)
+- 1x RJ-45 (rede/internet)
+- 1x DC-in (fonte)
+- 3x Áudio (2x line-in 
+- microfone e auxiliar, 1x line-out 
+- fone de ouvido)
+ 
+Conteúdo da Embalagem:
+- Computador Positivo
+- Cabos
+- Teclado
+- Mouse
+- Guia Rápido de instalação 
+Garantia
+12 meses de garantia
+Peso
+3825 gramas
+
+Preço normal: R$1502.24
+Preço boleto: R$1276.90

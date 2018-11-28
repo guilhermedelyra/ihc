@@ -1,0 +1,55 @@
+- Marca: Zotac
+- Modelo: ZT-P10500A-10L
+ 
+Especificações:
+ 
+GPU:
+- GeForce® GTX 1050
+- Núcleos CUDA: 640
+ 
+Memória:
+- Capacidade: 2GB
+- Tipo: GDDR5
+- Barramento: 128-bit
+- Clock: 7 GHz
+ 
+Engine Clock:
+- Base: 1354 MHz 
+- Boost: 1455 MHz
+ 
+Interface:
+- PCI Express 3.0
+- Slot Size: dual slot
+- Dimensão: 144.78mm x 111.15mm
+ 
+Saídas de vídeo:
+- 1x DisplayPort 1.4 
+- 1x HDMI 2.0b 
+- 1x DL-DVI
+- Suporte HDCP
+ 
+Multi capacidade de exibição:
+- Triple display
+ 
+Alimentação de Energia:
+- Fornecimento Recomendado: 300W
+- Consumo de energia: 75W
+ 
+Compatibilidade:
+- Windows 10/8/7
+ 
+Recursos:
+- DirectX 12 API nível de recurso 12_1
+- OpenGL 4.5
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo VGA Zotac 
+- Driver para instalação
+- Guia Rápido 
+Garantia
+12 meses de garantia
+Peso
+645 gramas
+
+Preço normal: R$777.67
+Preço boleto: R$661.02

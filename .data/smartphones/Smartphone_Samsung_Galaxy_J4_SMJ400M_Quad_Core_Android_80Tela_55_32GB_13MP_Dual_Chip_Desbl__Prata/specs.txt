@@ -1,0 +1,111 @@
+- Marca: Samsung
+- Modelo: Galaxy J4 SM
+ 
+Especificações:
+ 
+Sistema Operacional:
+- Sistema Operacional + Versão: Android 8.0 
+- Plataforma: 32 bits 
+- Loja de Aplicativos: Play Store / Galaxy Apps 
+ 
+Display:
+- Tecnologia: Super AMOLED 
+- Tamanho do Display: 5.5" 
+- Número de Pixels: 1280 x 720 (HD) 
+- Quantidade de Cores: 16 M 
+- Vidro Reforçado
+ 
+Memória:
+- Memória Interna total compartilhada: 32GB* 
+- Suporte a Cartão de Memória 
+- Tipo Cartão de Memória Suportado: Micro SD 
+- Capacidade do Cartão de Memória: até 256GB 
+- Memória RAM: 2GB 
+ 
+Câmera traseira:
+- Resolução: 13MP F1.9 
+- Zoom: Zoom Digital até 4x 
+- Foco Automático (AF) 
+- Modo de Foto: Automático, Pro, Panorama, Foto Sequencial, HDR (Vívido), Noturno, Esportes, Som e Foto 
+- Timer: Desativado, 2 segundos, 5 segundos, 10 segundos 
+- Efeitos de Foto: Outono, Creme, Profundo, Floresta, Clássico, Acolhedor, Memória, Bordo 
+- Flash: Flash LED
+ 
+Câmera frontal:
+- Resolução: 5MP F2.2 
+- Flash Frontal: Sim, Flash a LED
+Vídeo:
+- Formatos Suportados para reprodução: MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM 
+- Resolução de reprodução: FHD (1920 x 1080) @ 30fps 
+- Resolução de gravação: FHD (1920 x 1080) @ 30fps 
+- Formato suportado de Streaming: 3GP,MP4
+ 
+Imagem:
+- Formatos Suportados: BMP,GIF,JPEG,PNG 
+ 
+Música:
+- Reprodução de Música 
+- Formatos Suportados: MP3,M4A,3GA,AAC,OGG,OGA,WAV,WMA,AMR,AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA 
+- Rádio FM 
+- Gravação de Rádio FM 
+- RDS
+ 
+Bateria:
+- Capacidade da Bateria (mAh): 3000 mAh 
+- Tipo de Bateria: Ions de Lítio 
+- Voltagem: Bi-Volt 
+ 
+Toques:
+- Polifônicos 
+- MP3
+ 
+GPS:
+- GPS
+- A-GPS
+ 
+Processador:
+- Número de Núcleos: Quad-Core 
+- Velocidade do Processador: 1.4GHz 
+ 
+Bandas:
+- 2G GSM (GPRS/EDGE): 850, 900, 1800, 1900 MHz 
+- 3G Bandas: B1(2100), B2(1900), B4(AWS), B5(850), B8(900) 
+- 3G Downlink / Uplink: HSPA+ 42.2 / 5.76 Mbps  
+- 4G Bandas: B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B17(700),B28(700),B66(AWS-3) 
+- 4G categoria: Cat. 4 
+ 
+Conectividade:
+- Bluetooth: versão 4.2 
+- Browser: Google Chrome, Samsung 
+- Conexão Wi-Fi: 802.11 b/g/n 2.4GHz 
+- Roteador Wi-Fi 
+- 2 Chips 
+- Tipo de SIM: Micro SIM (3FF) 
+- USB versão: 2 
+- USB Conector: Micro USB
+ 
+E-mail e escritório:
+- E-mail: Google Mail, SAMSUNG E-mail 
+- Push E-mail: Microsoft, Direct Push E-Mail for Exchange 
+- Tipos de E-mail Suportados: POP3,IMAP4,SMTP,SSL,TLS,EAS 
+- Visualização de Arquivos Office 
+- Edição de Arquivos Office: Disponível para download 
+ 
+Sensores:
+- Tipos de Sensores: Acelerômetro, Proximidade 
+Conteúdo da embalagem:
+- Smartphone Samsung
+- Bateria
+- Carregador
+- Cabo de dados
+- Fone de ouvido
+ 
+  
+Garantia
+12 meses de garantia
+Peso
+300 gramas
+
+Preço antigo: R$824.33
+Preço normal: R$683.22
+Preço boleto: R$580.74

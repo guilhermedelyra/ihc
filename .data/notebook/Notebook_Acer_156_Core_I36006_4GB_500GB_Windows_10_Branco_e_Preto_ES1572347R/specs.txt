@@ -1,0 +1,90 @@
+- Marca: Acer 
+- Modelo: ES1-572-347R 
+Especificações:
+- Bluetooth 4.0
+- Não possui Unidade Ótica
+- Touchpad com função multitoque
+- Dimensões do Produto: 381.8 x 258 x 24.6 mm
+ 
+Processador:
+- Intel Core i3-6006U
+- 2.00 GHz
+- 3 MB Cache
+ 
+Tela:
+- 15.6" HD LED LCD c/ Antirreflexo 
+- Resolução 1366 x 768
+ 
+Chipset:
+- Integrado ao processador
+ 
+Memória:
+- 4 GB (1 x 4 GB) tipo DDR4
+- Frequência 2.133 MHz
+- Expansível até 16 GB (2 slots no total)
+ 
+Placa gráfica:
+- Placa de vídeo integrada
+ 
+Áudio:
+- Áudio de alta definição
+- Com dois alto-falantes estéreo
+ 
+Disco Rigido:
+- 500 GB HD 
+- 5400 RPM
+ 
+Leitor de Cartões:
+- Leitor de Cartão SD
+ 
+Teclado:
+- Português padrão ABNT 2
+- Teclado numérico integrado
+ 
+Rede:
+- Wireless padrão 
+- 802.11 b/g/n
+- Entrada padrão RJ-45 tipo Gigabit 10/100/1000
+ 
+Interface:
+- 2 conexão USB 2.0
+- 1 conexões USB 3.0
+- 1 saída HDMI com suporte HDCP
+- 1 porta de rede no padrão RJ-45
+- 1 porta no padrão combo para microfone / fone de ouvido
+- 1 entrada para fonte carregadora de bateria
+ 
+Webcam:
+- Webcam HD
+- Acer Crystal Eye com resolução de 640 x 480
+ 
+Bateria:
+- Bateria de 4 células (3220 mAh)
+- Até 6,5 horas de uso (1) 
+(1) A vida útil da bateria varia dependendo das especificações do produto, as configurações do computador e aplicações ou recursos utilizados. Capacidade máxima
+de todas as baterias diminuem com o tempo de uso.
+ 
+Software:
+- Windows 10 
+- 64 bits
+- Acer Care Center
+- Acer Hover Access
+- Acer Portal
+- abDocs
+- abFiles
+- abPhoto
+- Accessory Store
+- WildTangent
+ 
+Conteúdo da embalagem:
+- Notebook Acer
+- Fonte carregadora de bateria bivolt no padrão AC 
+- Cabo de energia
+- Kit de manuais e termo de garantia 
+Garantia
+12 meses de garantia
+Peso
+2860 gramas
+
+Preço normal: R$2352.82
+Preço boleto: R$1999.90

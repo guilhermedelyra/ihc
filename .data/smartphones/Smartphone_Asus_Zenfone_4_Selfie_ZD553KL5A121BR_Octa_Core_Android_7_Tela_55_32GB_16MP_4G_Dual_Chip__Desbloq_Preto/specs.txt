@@ -1,0 +1,82 @@
+- Marca: ASUS
+- Modelo: ZD553KL-5A121BR
+ 
+Especificações:
+ 
+Tela:
+- Tamanho: 5.5"
+- Tipo: LED Backlight painel IPS
+- Resolução: 1280x720 (HD)
+- Proteção: Gorilla Glass 4
+ 
+Processador:
+- QUALCOMM
+- Família: SNAPDRAGON
+- Codename 430
+- MSM8937
+- Núcleos: Octa Core
+- Freqüência: 1.4 Ghz
+- Cache: 2 MB
+ 
+Memória:
+- Capacidade: 3GB
+- Tipo: LPDDR3
+ 
+Leitor de cartão:
+- Tipo: Micro SD
+- Capacidade máxima: 2000 GB
+ 
+Armazenamento:
+- Capacidade: 32GB
+- Tipo: eMMC
+ 
+Conectividade:
+- Rede sem fio 802.11 B / G / N
+- Tecnologia de rede: 4G LTE Cat4 150 Mbps
+- Bandas de Rede
+- SIM Card 1 Tipo SIM (Nano)
+- Cartão SIM 2 Tipo SIM (Nano)
+- Tipo: Dual SIM
+- Bluetooth: versão 4
+ 
+Câmera Frontal:
+- Resolução: Dual 
+- 20 + 8Mp
+- Flash
+ 
+Câmera Traseira:
+- Resolução: 16MP
+- Flash
+ 
+Sensores:
+- Sensor de Giroscópio
+- Sensor de Proximidade
+- Sensor FingerPrint
+ 
+Recursos:
+- FM Radio
+- GPS, aGPS, Gloness, BDS
+ 
+Bateria:
+- Adaptador de alimentação: 5,00 W
+- Voltagem: 100 ~ 240V AC 
+- 50/60 Hz
+- Célula: 1
+- Capacidade: 3000 mAh
+Sistema Operacional:
+- Android N
+ 
+Conteúdo da Embalagem:
+- Smartphone ASUS
+- Carregador
+- Fone de ouvido
+- Cabo de dados
+- Manual do usuario
+- Cartao garantia 
+Garantia
+12 meses de garantia
+Peso
+365 gramas
+
+Preço normal: R$976.35
+Preço boleto: R$829.90

@@ -1,0 +1,59 @@
+- Marca: AOC 
+- Modelo: 9P1E 
+Especificações:
+- Tipo de painel: LED
+- Tamanho do painel: 18,5" Widescreen
+- Tamanho da imagem visível (diagonal): 47 cm
+- Pixel pitch: 0,3 mm
+- Contraste estático: 1.000:1
+- Frequência do painel: 60 Hz
+- Tratamento da tela: Anti-reflexivo
+- Ângulo de visão horizontal: 170º
+- Contraste (Dinâmico): 50.000.000:1
+- Ângulo de visão vertical: 160º
+- Brilho: 250 cd/m2
+- Resolução máxima: 1366 x 768 @60Hz (HD)
+- Tempo de resposta: 2 ms
+- Resolução recomendada: 1366 x 768 @60Hz (HD)
+- Suporte de cores: Maior que 16 Milhões- Fonte: Interna 
+- 100~240V 
+- 50/60 Hz
+- Compatibilidade: Windows, MAC, Linux
+- Cor predominante do produto: Preta
+ 
+ 
+Conexões:
+- VGA: 1
+- Display Port: 1
+- HDMI: 1
+ 
+Controles manuais:
+- Power On/Off
+- Menu/Enter
+- Image Ratio/Volume
+- Fonte/Auto/Exit
+- Clear vision
+ 
+Normas / segurança / certificações: 
+- cTUVus, CE, FCC, EPA6.0, ISO9241-307, Win 8
+- TUV, TCO, Energy Star, EPEAT GOLD, INMETRO, RoHS
+Base ajustável:
+- Altura 130 mm
+- Giro 175° Ângulo -7°/+24°
+- Pivot­ 2.5° ~ 0° 
+- 90° ± 92.5°
+ 
+ 
+Conteúdo da embalagem:- Cabo de força
+- Cabo VGA
+- Cabo DP
+- Certificado de garantia
+- Case 
+- Monitor 
+Garantia
+12 meses de garantia
+Peso
+5195 gramas
+
+Preço normal: R$599.88
+Preço boleto: R$509.90

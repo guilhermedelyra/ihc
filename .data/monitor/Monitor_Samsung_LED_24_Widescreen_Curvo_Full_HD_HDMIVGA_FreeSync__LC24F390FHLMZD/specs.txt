@@ -1,0 +1,56 @@
+- Marca: Samsung
+- Modelo: LC24F390FHLMZD 
+ 
+Especificações:
+ 
+Tela:
+- Ângulo de visão: 178°
+- Proporção de tela: 16:9
+- Resolução: 1920 x 1080
+- Curvatura da tela: 1800R
+- Tamanho: 24"
+- Brilho (Min): 200 cd / m2
+- Resolução: 1920x1080 (Full HD)
+- Cor: 16.7M
+ 
+Energia:
+- Power: Adaptador Externo
+- Voltagem: 100~240V 50/60Hz
+- Stand By Power: 0.3W
+- Consumo de energia (máx.): 25W
+- Consumo (desligado): &lt;0,3W
+- Consumo típico: 24W
+- Consumo anual: 35 kWh/ano
+ 
+Geral:
+- Game Mode
+- Flicker Free
+- AMD Free Sync
+- Tempo de Resposta: 4 ms
+ 
+Dimensões:
+- Dimensão conj. c/ suporte : 547,8 x 418,2 x 206,5 mm
+- Dimensão conj. s/ suporte: 547,8 x 326,3 x 87,6 mm
+ 
+Interface:
+- 1x VGA
+- 1x HDMI
+- 1x Fones de ouvido
+ 
+Operação:
+- Temperatura: 10-40ºC
+- Umidade: 10-80% (sem condensação)
+Conteúdo da embalagem:
+- Monitor Samsung
+- Cabo de alimentação
+- CD de instalação
+- Guia de configuração rápida
+- Cabo HDMI
+  
+Garantia
+12 meses de garantia
+Peso
+4570 gramas
+
+Preço normal: R$909.29
+Preço boleto: R$772.90

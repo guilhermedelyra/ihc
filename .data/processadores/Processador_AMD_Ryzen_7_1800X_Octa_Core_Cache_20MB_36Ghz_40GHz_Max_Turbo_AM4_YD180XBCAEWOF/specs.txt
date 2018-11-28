@@ -1,0 +1,45 @@
+- Marca: AMD
+- Modelo: YD180XBCAEWOF
+ 
+Especificações:
+- Número de núcleos da CPU: 8
+- Número de threads: 16
+- Velocidade básica de clock: 3.6GHz
+- Max Turbo Core Speed: 4GHz
+- Cachê L1 total: 768KB
+- Cachê L2 total: 4MB
+- Cachê L3 total: 16MB
+- Desbloqueado
+- Socket: AM4
+- Versão do PCI Express: PCIe 3.0
+- Padrão TDP / TDP: 95W
+- Temperatura Máxima: 95ºC
+ 
+Memória:
+- Velocidade máxima: 2667MHz
+- Tipo: DDR4
+- Canais: 2
+ 
+Recursos:
+- Utilitário AMD Ryzen Master
+- Tecnologia AMD SenseMI
+- AES
+- AVX
+- FMA3
+- AMD Virtualização
+- XFR (Faixa de frequência ampliada)
+- Arquitetura do núcleo “Zen”
+ 
+Conteúdo da Embalagem:
+- 01 Processador AMD
+ 
+Observação:
+* As linhas de processadores Ryzen 3, 5 e 7 não possuem vídeo integrado, necessário ter uma placa de vídeo off-board.
+* Não acompanha Cooler. 
+Garantia
+12 meses de garantia
+Peso
+140 gramas
+
+Preço normal: R$1157.79
+Preço boleto: R$984.12

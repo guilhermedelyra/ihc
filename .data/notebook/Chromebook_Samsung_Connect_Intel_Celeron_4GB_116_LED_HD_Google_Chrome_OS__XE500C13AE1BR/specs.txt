@@ -1,0 +1,83 @@
+- Marca: Samsung
+- Modelo: XE500C13-AE1BR
+ 
+Especificações:
+ 
+Processador:
+- Intel Celeron N3060
+- Velocidade: 1.60 até 2.48 GHz
+- Cache: 2 MB L2
+ 
+Chipset:
+- Integrado (Intel)
+ 
+Placa Mãe:
+- Samsung
+ 
+Sistema Operacional:
+- Google Chrome OS
+ 
+Memória:
+- Capacidade: 4 GB
+- Tipo: LPDDR3
+- Velocidade: 1600 MHz
+ 
+Tela:
+- Tamanho: 11.6"
+- LED HD 16:9 antirreflexiva
+- Resolução: HD 1366 x 768
+ 
+Placa Gráfica:
+- Processador Gráfico Intel HD Graphics 400
+- Memória: Integrada
+ 
+Recursos Multimídia:
+- Áudio
+- Alto-Falantes: 3W Estéreo (1.5W x 2)
+- Microfone Integrado
+- Webcam Integrada (720p HD)
+ 
+Comunicação:
+- Placa de Rede Wireless: 802.11 ac 2x2
+- Bluetooth: 4.0
+ 
+Portas de Comunicação:
+- 1x USB 3.0
+- 1x USB 2.0
+- HDMI
+- Saída Fone-de-Ouvido: Combo com Entrada para Microfone
+- Entrada p/ Microfone: Combo com Saída para Fone-de-Ouvido
+- Leitor de Cartões Multimídia: Micro SD
+ 
+Digitação:
+- Teclado: Português-BR
+- Touchpad: Clickpad, com suporte à função multi-toques
+ 
+Segurança:
+- TPM: Versão 1.2
+ 
+Recuperação de Sistema/ Backup de Dados:
+- Software: Softwares Inclusos
+ 
+Alimentação de Energia:
+- Fonte Adaptador: 26 Watts
+- Tensão da Fonte Adaptadora: Bivolt (100-240V)
+- Padrão da Bateria: 2 Células (33Wh)
+ 
+Físico:
+- Cor: Preto
+- Tipo: Chromebook
+- Dimensões: 28.9 x 20.4 x 1.79 cm
+ 
+Conteúdo da Embalagem:
+- Chromebook Samsung Connect
+- Fonte adaptadora
+- Guia do usuário
+- Certificado de garantia 
+Garantia
+12 meses de garantia
+Peso
+1620 gramas
+
+Preço normal: R$1602.90
+Preço boleto: R$1362.47

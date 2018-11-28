@@ -1,0 +1,59 @@
+- Marca: Wacom
+- Modelo: CTL4100WLE0
+ 
+Especificações:
+- Área ativa 152,0 x 95,0 mm (6,0 x 3,7 pol)
+- Cor Pistache
+- Cabo: 1.5 m
+- ExpressKeys: 4 configurações específicas de aplicativos personalizáveis
+- Resolução: 2540 lpi
+- Suporte sem fio 
+- Bluetooth Classic
+- Botão de emparelhamento ON / OFF / Bluetooth
+- Botão de reset
+- Slot de cabo de Segurança
+- Impulsionadores de Produtividade: Menu radial, alternância de exibição e teclado na tela disponível em todos os modelos
+- Velocidade de leitura (caneta) 133 pps
+- Tecnologia Método patenteado de ressonância eletromagnética
+ 
+Caneta:
+- Wacom 4K
+- Níveis de Pressão 4096
+ 
+Bateria:
+- Iões de lítio integrada e não substituível
+- Tempo de operação contínua
+- Tempo de carregamento 15 horas no mínimo, até 3.5 horas
+ 
+Software incluído:
+- Corel Painter Essentials 6 
+- Corel AfterShot 3 
+- CLIP STUDIO PAINT PRO
+ 
+Requisitos do Sistema:
+- Windows 7 ou posterior (excluindo o Windows 10 S; último service pack / build) 
+- OS X 10.11 ou posterior (atualização mais recente)
+- Porta USB padrão tipo A
+- Bluetooth Classic para conexão sem fio
+- Acesso à Internet para baixar o driver do tablet para o trabalho e selecione o software para download * 
+* O ID da Wacom e o registro do produto são necessários.
+ 
+Conteúdo da Embalagem:
+- Wacom Intuos caneta digitalizadora pequena, com Bluetooth 
+- Caneta Wens sensível à pressão, 4K 
+- Cabo USB isenta de PVC com cabo arrumado e conector em forma de L 
+- 3 pontas padrão extra (localizadas dentro da caneta) 
+- Ferramenta de remoção de ponta na ponta da caneta 
+- Guia de início rápido 
+- Folha de regulamentação 
+- Guia do usuário on-line e Informações importantes sobre o produto encontradas no Wacom Desktop Center
+ 
+Observações:
+* Os números de especificação, como área ativa, tamanho do tablet, são aproximados. Requisitos do sistema sujeitos a alterações. 
+Garantia
+12 meses de garantia
+Peso
+510 gramas
+
+Preço normal: R$819.88
+Preço boleto: R$696.90

@@ -1,0 +1,101 @@
+- Marca: ASUS
+- Modelo: ZB553KL-5A136BR
+Especificações:
+ 
+Tela:
+- Tamanho: 5.5"
+- Tipo: LED Backlight painel IPS
+- Resolução: 1280x720 (HD)
+- Proteção: Gorilla Glass 4
+ 
+Processador:
+- QUALCOMM
+- Família: SNAPDRAGON
+- Codename 425
+- MSM8917
+- Núcleos: Quad Core
+- Freqüência: 1.4 Ghz
+- Cache: 2 MB
+ 
+Memória:
+- Capacidade: 2GB
+- Tipo: LPDDR3
+ 
+Leitor de cartão:
+- Tipo: Micro SD
+- Capacidade máxima: 256 GB
+ 
+Armazenamento:
+- Capacidade: 16GB
+- Tipo: eMMC
+ 
+Conectividade:
+- Rede sem fio 802.11 B / G / N
+- Tecnologia de rede: 4G LTE Cat4 150 Mbps
+- SIM Card 1 Tipo SIM (Nano)
+- Cartão SIM 2 Tipo SIM (Nano)
+- Tipo: Dual SIM
+- Bluetooth: versão 4
+ 
+Câmera Frontal:
+- 13 megapixels
+- Abertura F2.0
+- Flash LED Softlight
+- Tecnologia ASUS SelfieMaster
+ 
+Modos de câmera PixelMaster:
+- Modo automático com luz baixa e recursos HDR
+- Embelezamento
+- Modo Retrato
+- Selfie Panorama
+- Animação GIF
+- 9 filtros diversos
+ 
+Câmera Traseira:
+- 13 megapixels
+- Autofoco por detecção de fase
+- Flash LED
+ 
+Modos de câmera PixelMaster:
+- Modo automático com luz baixa e recursos HDR
+- Embelezamento
+- Modo Retrato
+- Pro (32 segundos longa exposição)
+- Super Resolução (64 megapixels)
+- Animação GIF
+- Panorama
+- Time Lapse (com economia de energia)
+- 9 diversos filtros
+Sensores:
+- Sensor de Giroscópio
+- Sensor de Proximidade
+- Sensor FingerPrint
+ 
+Recursos:
+- FM Radio
+- GPS, aGPS, Gloness, BDS
+ 
+Bateria:
+- Adaptador de alimentação: 5,00 W
+- Voltagem: 100 ~ 240V AC 
+- 50/60 Hz
+- Célula: 1
+- Capacidade: 3000 mAh
+ 
+Sistema Operacional:
+- Android N
+ 
+Conteúdo da Embalagem:
+- Smartphone ASUS
+- Carregador
+- Fone de ouvido
+- Cabo de dados
+- Manual do usuario
+- Cartao garantia 
+Garantia
+12 meses de garantia
+Peso
+360 gramas
+
+Preço normal: R$791.65
+Preço boleto: R$672.90

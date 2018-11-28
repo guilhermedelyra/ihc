@@ -1,0 +1,32 @@
+- Marca: Corsair
+- Modelo: CMK8GX4M1A2666C16R
+ 
+Especificações:
+- Dissipador de calor: Vengeance LPX
+- Configuração: Dual / Quad Channel
+- Séries: Vengeance
+- Tipo: DDR4
+- Formato da embalagem: DIMM
+- Pino da embalagem: 288
+- Perfil de desempenho: XMP 2.0
+- Tamanho: Kit de 8GB (1 x 8GB)
+- Latência SPD: 15-15-15-36
+- Velocidade SPD: 2133MHz
+- Voltagem: SPD 1.2V
+- Avaliação de velocidade: PC4-21300 (2666MHz)
+- Latência testada: 16-18-18-35
+- Velocidade testada: 2666MHz
+- Voltagem testada: 1.35V
+ 
+Compatibilidade:
+- Plataformas Intel X99 e 100 Series
+ 
+Conteúdo da embalagem:
+- Memória Corsair  
+Garantia
+12 meses de garantia
+Peso
+60 gramas
+
+Preço normal: R$611.65
+Preço boleto: R$519.90

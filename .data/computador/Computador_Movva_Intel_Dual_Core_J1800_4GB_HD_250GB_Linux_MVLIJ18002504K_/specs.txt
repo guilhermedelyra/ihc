@@ -1,0 +1,60 @@
+- Marca: Movva
+- Modelo: MVLIJ18002504K 
+ 
+Especificações:
+ 
+Processador:
+- Intel Dual Core J1800
+- Velocidade: 2.41 Ghz
+- Cache: 1 MB
+ 
+Memória:
+- Capacidade: 4 GB
+- Tipo: DDR3 SO-DIMM
+ 
+Armazenamento:
+- Capacidade: 250GB
+- SATA III 6Gb/s
+ 
+Painel Traseiro:
+- 1x LAN (Realtek RTL8111G 10/100/1000 Mbps)
+- 1x Porta PS/2 mouse
+- 1x Porta PS/2 teclado
+- 1x Porta VGA
+- 1x Porta HDMI
+- 1x Portas Audio 
+- 3 conectores de audio Realtek® ALC662 (5.1-canais)
+- 4x Portas USB 2.0
+ 
+Painel Frontal:
+- 2x Portas USB 2.0
+- 2x Portas de audio 3,5 P2 (Audio/Microfone)
+ 
+Painel Interno:
+- 1x Conector CPU_FAN
+- 1x Conector SYS_FAN
+- 1x Conector para Painel Frontal
+- 1x Conector para Painel Frontal de Áudio
+- 1x Conector USB 2.0 (para adicional de 2 portas)
+- 1x Conector USB 3.0 (para adicional de 1 porta)
+- 1x Conector de Energia ATX
+- 1x Conector para expansão de porta serial via cabo
+- 1x Conector para expansão de porta paralela via cabo
+ 
+Gabinete:
+- Preto e Prata com 4 baias
+ 
+Sistema Operacional de fabrica:
+- Linux
+Observação:
+* Não Acompanha Unidade óptica.
+ 
+Conteúdo da Embalagem:
+- Computador Movva Lite Intel Celeron 
+Garantia
+12 meses de garantia
+Peso
+4920 gramas
+
+Preço normal: R$836.35
+Preço boleto: R$710.90

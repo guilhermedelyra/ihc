@@ -1,0 +1,55 @@
+- Marca: Lenovo
+- Modelo: 81CC0007BR
+Especificações:
+- Não possui unidade ótica
+- Alto falante: Certificação Dolby Audio
+- Bluetooth 4.1
+- Câmera
+- Conectividade: Gigabit ethernet
+- Wireless: 1x1 AC
+ 
+Processador: 
+- Intel Core i3-6006U 
+- 2.0GHz
+- 3MB Cache
+ 
+Sistema Operacional:
+- Windows 10 Pro
+ 
+Tela:
+- 14" 
+- HD 
+- 1366x768
+- Antirreflexo
+ 
+Memória:
+- 4GB (soldado) 
+- 2133MHz 
+- DDR4
+ 
+Armazenamento:
+- 500GB 
+- 5400 RPM
+ 
+Gráficos:
+- Intel HD Graphics (integrado ao processador)
+ 
+Bateria:
+- 2 células 
+- 30Wh
+ 
+Portas:
+- Leitor de cartões 4 em 1 (SD, SDHC, SDXC, MMC)
+- 2x USB 3.0
+- 1x USB Tipo C
+- 1x HDMI
+Conteúdo da embalagem:- Notebook Lenovo B320
+- Carregador
+- Guia do usuário 
+Garantia
+12 meses de garantia
+Peso
+2345 gramas
+
+Preço normal: R$2411.65
+Preço boleto: R$2049.90

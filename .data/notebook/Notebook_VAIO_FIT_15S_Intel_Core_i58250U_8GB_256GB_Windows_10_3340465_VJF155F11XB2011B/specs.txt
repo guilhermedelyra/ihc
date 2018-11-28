@@ -1,0 +1,86 @@
+- Marca: VAIO
+- Modelo: VJF155F11X-B2011B
+Especificações:
+- Não possui Unidade Ótica
+- Leitor de Cartões SD / SDHC / SDXC / MMC
+- Webcam Câmera Frontal HD (1280x720P)
+- Áudio Microfone e alto-falantes estéreo embutidos
+- Teclado: Português-Brasil, 107 teclas
+- Mouse: Tipo Touchpad com controle preciso do cursor, com toque múltiplo, 2 botões integrados
+- Cor Chumbo escuro
+- Dimensões 377 x 22,8 x 259 mm (L x A x P)
+ 
+Processador:
+- Intel Core TM i5-8250U (1.60 GHz, 6 MB Cache, Quad Core)
+- Com Intel Turbo Boost até 3.40 GHz
+ 
+Sistema Operacional:
+- Windows 10 Home
+ 
+Memória:
+- RAM 8 GB (com suporte até 32 GB)
+- Slots de Memória: 2x SO-DIMM 
+- Dual Channel 
+- DDR4 
+ 
+Disco Rígido (HD):
+- 256GB
+- SATA
+- 7mm
+- 5400 RPM
+ 
+Tela:
+- LCD 15.6’’
+- Widescreen
+- Antirreflexiva 
+- Resolução: 1366 x 768 
+- Alta Definição (HD)
+- Com tecnologia LED
+ 
+Vídeo Processamento de vídeo integrado:
+- Intel UHD Graphics 620
+- Suporte Microsoft DirectX 12 
+- OpenGL 4.4
+ 
+ 
+Conectividade Rede sem fio:
+- Intel Dual Band Wireless-AC 3168 IEEE 802.11 abgn
+- 802.11 ac 
+- 1x RJ45 10/100/1000 
+- Bluetooth 4.2
+ 
+Portas de Conexão:
+- 1x USB 3.1(Gen2)
+- 1x USB 3.0(Gen1)
+- 2x USB 2.0
+- 1x HDMI
+- 1x Áudio para microfone
+- 1x Áudio para fone de ouvido
+- 1x DC-in (carregador)
+- 1x VGA
+ 
+Carregador:
+- 19 V 
+- 2.1 A 
+- 100V~240V 
+- Automático 40W
+ 
+Bateria:
+- Li-ion 
+- 4 células 
+- 2200mAh 
+- 32 Wh 
+- Removível
+ 
+Conteúdo da embalagem:
+- Notebook
+- Adaptador CA com cabo padrão Inmetro (carregador)
+- Cartão Postal 
+- Guia Rápido de Instalação 
+Garantia
+12 meses de garantia
+Peso
+2675 gramas
+
+Preço normal: R$4035.18
+Preço boleto: R$3429.90

@@ -1,0 +1,126 @@
+- Marca: Motorola
+- Modelo: Moto G6 Play XT
+ 
+Especificações:
+Tela:
+- Resolução: HD+ 
+- 1440 x 720
+- Característica do display: IPS
+- Tamanho do display: 5.7" 
+- Max Vision (18:9)
+- Densidade de Pixels: 283 ppi
+- Número de cores: 16M
+- Touch screen 
+- Pinch Zoom 
+- Capacitivo / Resistivo: Capacitivo
+ 
+Sistema Operacional:
+- Android Oreo 
+- 8.0
+ 
+Processador:
+- Processador: Qualcomm Snapdragon 430 (MSM8937)
+- CPU: 1.4 GHz Octa-Core
+- GPU: Adreno 505
+ 
+Memória:
+- Armazenamento Total*: 32 GB
+- Memória RAM: 3 GB
+- Tipo de cartão de memória: Micro SD
+- Memória externa: Sim 
+- Até 128 GB
+ 
+Câmera:
+- Câmera traseira: 13MP
+- Flash: Sim 
+- Single LED
+- Câmera frontal: 8MP
+- Flash Frontal 
+- Foco: Phase Detection Autofocus 
+- PDAF
+- Zoom digital: 8x
+- Formato de captura de foto: .jpeg
+ 
+Câmera Frontal:
+- Lente 80°
+- Abertura f/2.2
+ 
+Câmera Traseira:
+- Abertura f/2.0"
+ 
+Chip:
+- Modelo SIM Card (Chip): Nano SIM (4FF)
+- Dual Chip (Inteligente)
+Banda:
+- 2G 
+- GSM 850/900/1800/1900 MHz
+- 3G 
+- WCDMA 850/900/1900/2100 MHz
+- 4G 
+- LTE B1(2100), B2(1900), B3(1800), B4(1700), B5(850), B7(2600), B28(700)
+- Categoria 4 (150/50 Mbps)
+ 
+Bateria:
+- Bateria: 4000 mAh
+- Duração da bateria: TBD
+- Tipo de conector: Micro USB
+ 
+Conectividade:
+- Bluetooth: Sim 
+- 4.2
+- Navegador Internet: Google Chrome
+- GPRS 
+- EDGE 
+- Wi-Fi Direct 
+- Wi-Fi 
+ 
+Sensores:
+- Acelerômetro
+- Proximidade
+- Giroscópio
+- Luz Ambiente
+- Impressão Digital
+ 
+Estilo de vida:
+- Capacidade da agenda telefone: Limitado pela memória
+- Agenda de Compromissos com calendário 
+- Calculadora 
+- Relógio, Despertador e Cronômetro 
+- Bloco de notas: Sim (via Download do Google Play Store)
+- Conversor de moeda e Conversor de unidades: Sim (via Download do Google Play Store)
+ 
+Mensagens:
+- SMS/MMS
+- Digitação rápida e inteligente de texto
+- E-mail POP3, IMAP4/SMTP
+- E-mail Exchange
+ 
+Geral:
+- Rádio FM 
+- MP3 Player 
+- Formatos de reprodução de mídia: aac, aac+, enhanced aac+, aac eld, amr-nb, amr-wb, flac, midi, mp3, opus, pcm/wave, vorbis
+- Formato de Gravação de vídeo: .mp4
+- Resolução de Gravação de vídeo: 1080p
+- Loja de Aplicativos: Sim 
+- Google Play
+- Jogos pré-carregados ou via download: Sim (via Download do Google Play Store)
+- Campainhas pré-carregadas ou via download 
+- Papeis de parede pré-carregados ou via download 
+- Gerenciador de arquivos: Sim (via Download do Google Play Store)
+ 
+Conteúdo da embalagem:
+- Aparelho
+- Capa protetora
+- Kit de manuais
+- Cabo de sincronização
+- Fone de ouvido estéreo
+- Carregador de parede TurboPower 15W
+- Ferramenta de remoção de SIM 
+Garantia
+12 meses de garantia
+Peso
+355 gramas
+
+Preço antigo: R$1159.88
+Preço normal: R$944.33
+Preço boleto: R$802.68

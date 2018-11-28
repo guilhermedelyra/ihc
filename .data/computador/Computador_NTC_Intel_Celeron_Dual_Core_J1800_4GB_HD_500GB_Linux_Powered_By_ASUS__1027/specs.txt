@@ -1,0 +1,24 @@
+- Marca: NTC 
+- Modelo: 1027 
+Especificações:
+-  Sistema Operacional Elementary OS (Linux)Gabinete:
+- Mini ITX K-Mex NK-440
+- Fonte 180w (Chaveada) Processador:
+- Intel Celeron J1800 ( 2.41 a 2.58Ghz / 1MB) Placa Mãe:
+- Asus J1800I-C/BRMemória:
+- 4GB (1x4GB)
+- DDR3 
+- 1600 Mhz  
+- SO-DIMM HD:
+- 500 GB  
+- Sata
+- 7200rpm Conteúdo da embalagem:
+- 01 Computador NTC
+- Manual* Não acompanha Gravador, Mouse, Teclado, Caixa de Som e Placa de vídeo. 
+Garantia
+12 meses de garantia
+Peso
+4020 gramas
+
+Preço normal: R$1188.12
+Preço boleto: R$1009.90

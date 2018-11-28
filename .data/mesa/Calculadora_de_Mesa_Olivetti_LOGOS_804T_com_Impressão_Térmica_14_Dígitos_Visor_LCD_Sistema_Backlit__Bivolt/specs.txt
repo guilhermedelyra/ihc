@@ -1,0 +1,29 @@
+- Marca: Olivetti 
+- Modelo: LOGOS 804T 
+Especificações:
+ 
+- Display: LCD de 2 cores de 14 dígitos
+-  Impressora térmica rápida (10 linhas / seg.)- Casas decimais: A, 0, 2, 3, 4, FL 
+- Fonte de Aimentação: Da rede elétrica
+- Dimensões: 205 x 320 x 87 mmFunções:
+- 4 operações básicas 
+- Total Geral 
+- Percentual 
+- Variação (% delta) 
+- Chamadas e vácuo 
+- Cálculo do Imposto 
+- Raiz quadrada 
+- Custo, Venda, Margin 
+- Conversão de moedaInformações adicionais:
+- Rápida velocidade de impressão: 10 linhas/segundo
+- Cálculo de porcentual e variação, taxas de impostos e conversão de moeda
+- Funções avançadas: margem de custo, correção de dados inseridos (função CALL)
+- Alimentação elétrica bivoltConteúdo da Embalagem:
+- 01 Calculadora de Mesa  
+Garantia
+3 meses de garantia
+Peso
+1360 gramas
+
+Preço normal: R$579.89
+Preço boleto: R$492.91

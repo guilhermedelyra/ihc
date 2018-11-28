@@ -1,0 +1,50 @@
+- Marca: ZOWIE
+- Modelo: RL2455
+Especificações:
+ 
+Display:
+- Tamanho: 24"
+- Relação de aspecto: 16: 9
+- Máxima resolução: 1920 x 1080 a 60 Hz
+- Área de vizualização: 531,36 x 298,89mm
+- Pixel: 0,276mm
+- Tipo de brilho: 250cd / ㎡
+- Tipo de contraste: 1000: 1
+- Tipo DCR: 12M: 1
+- Tipo de painel: TN
+- Tempo de resposta: 1ms (GTG)
+- Dimensões (HxLxD mm): 435 x 579 x 189
+ 
+Conectividade:
+- 1x D-sub 
+- 1x DVI 
+- 2x HDMI 
+- 1x Fone de ouvido 
+- 1x Line in
+ 
+Áudio:
+- Auto falante: 2Wx2
+ 
+Eletricidade:
+- Fonte de alimentação (90 ~ 264 AC)
+- Consumo de energia: 33W
+ 
+Suporte:
+- Parede VESA de montagem 100x100 mm
+- Tilt (°): -5 ~ 15
+ 
+Físico:
+- Black eQualizer
+- Auto falante
+- Flicker-free
+- K Locker‎
+ 
+Conteúdo da embalagem:
+- 01 Monitor Benq ZOWIE 
+Garantia
+12 meses de garantia
+Peso
+6600 gramas
+
+Preço normal: R$1105.76
+Preço boleto: R$939.90

@@ -1,0 +1,41 @@
+- Marca: Dell
+- Modelo: E1916  
+ 
+Especificações:
+ 
+Display:
+- Tipo de dispositivo: Monitor LCD com retroiluminação LED 
+- 19"
+- Tipo de Painel: TN
+- Relação de Aspecto: 16:9
+- Resolução Nativa: 1366 x 768 a 60 Hz
+- Distância entre Pixels: 0.3 mm
+- Brilho: 200 cd/m²
+- Relação de Contraste: 600:1
+- Tempo de resposta: 5 ms (preto-a-branco)
+- Suporte de Cor: 16,7 milhões de cores
+- Ajustes da Posição do Visor: Inclinação
+- Revestimento de Tela: Anti-ofuscamento, 3H Hard Coating
+ 
+Conectores de Entrada:
+- VGA
+- DisplayPort
+ 
+Padrões de conformidade:
+- Plug and Play
+- DDC/CI
+- RoHS
+- CECP
+- TCO Displays
+ 
+Conteúdo da embalagem:
+- 1x Monitor Dell
+- 1x Cabo DisplayPort
+- 1x Tampa de parafuso VESA 
+Garantia
+12 meses de garantia
+Peso
+3565 gramas
+
+Preço normal: R$489.90
+Preço boleto: R$416.41

@@ -1,0 +1,66 @@
+- Marca: Zotac
+- Modelo: ZT-P10600B-10M
+ 
+Especificações:
+ 
+Interface:
+- PCI Express 3.0 (Compatível com 1.1) 
+ 
+Chipset:
+- Fabricante: NVIDIA 
+- GPU: GeForce GTX 1060
+- Clock: 1556 MHz (base) 1771 MHz (boost)
+- Cores: 1280
+ 
+Memória:
+- Clock da Memória: 8.000MHz (8.0Gbps)
+- Tamanho da Memória: 6GB
+- Interface de memória: 192-bit
+- Tipo de memória: GDDR5
+ 
+API 3D:
+- DirectX 12 API feature level 12_1
+- OpenGL 4.5
+ 
+Portas:
+- 3 x DisplayPort 1.4 
+- 1 x HDMI 2.0b 
+- 1 x DL-DVI
+- Suporte atá 04 monitores
+ 
+Resolução:
+- HDMI 2.0b -1080p HD Video 
+- resolução 4K  (3840x2160 @60Hz)
+- Dual Link DVI-D 
+-  Resolução -2560x1600
+- Suporta três monitores com G-Sync
+- DisplayPort 1.4 -Resolução 4K  (4096x2160-incluindo 3840x2160 @60Hz)
+ 
+Alimentação:
+- Recomendado fonte 500W 80 PLUS
+- 120 Watts Consumo máximo
+- 1x 6-pin Power Connect
+ 
+Tecnologias Zotac:
+- Dual 90mm IceStorm
+- FREEZE Tech
+ 
+Tecnologias Nvidia:
+- Simultaneous Multi-Projection
+- VR Ready 
+- NVIDIA Ansel
+- NVIDIA® GPU BOOST 3.0
+- NVIDIA G-SyncTM 
+- NVIDIA® GameStreamTM
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo VGA Zotac 
+- Dupla de 4 pinos para 6 pinos adaptador 
+- Manual do Usuário 
+Garantia
+12 meses de garantia
+Peso
+1015 gramas
+
+Preço normal: R$1764.59
+Preço boleto: R$1499.90

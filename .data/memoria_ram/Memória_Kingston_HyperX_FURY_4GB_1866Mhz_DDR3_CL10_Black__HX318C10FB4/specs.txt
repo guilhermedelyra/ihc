@@ -1,0 +1,25 @@
+- Marca: HyperX
+- Modelo: HX318C10FB/4
+ 
+Especificações:
+- Tipo: DDR3 SDRAM Non-ECC
+- Pinagem: 240-Pin
+- Capacidades de até 4GB (1x 4GB)
+- Frequência (velocidade): 1866MHz
+- Latência: 10-10-10-30
+- Tensão 1.5 V
+ 
+Informações Adicionais:
+- Dissipador de calor assimétrico para uma dissipação de calor estilosa
+Compatibilidade com chipsets:
+- Intel: H67, P67, Z68, Z77, Z87 e H61
+- AMD: A75, A87, A88, A89, A78 e E35
+Conteúdo da Embalagem:
+- Memória Kingston HyperX FURY 
+Garantia
+12 meses de garantia
+Peso
+52 gramas
+
+Preço normal: R$246.94
+Preço boleto: R$209.90

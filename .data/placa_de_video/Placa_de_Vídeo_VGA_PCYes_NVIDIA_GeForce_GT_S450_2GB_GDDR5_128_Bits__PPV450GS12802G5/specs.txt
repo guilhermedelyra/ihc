@@ -1,0 +1,27 @@
+- Marca: PCYes
+- Modelo: PPV450GS12802G5
+Especificações:
+Interface: 
+- PCI Express 2.0GPU:
+- Chipset: GTS 450 
+- Velocidade do núcleo: 783 MHz Memória: 
+- Tamanho: 2048 MB 
+- Tipo de memória: GDDR5 
+- Clock de memória: 850 MHz 
+- Interface de memória: 128 bit
+Saídas de vídeo: 
+- VGA 
+- DVI-I 
+- HDMI 
+ 
+Conteúdo da embalagem:
+- 01 Placa de Vídeo VGA NVIDIA PCYES GT S450
+- 01 Driver 
+- 01 Guia do usuário 
+Garantia
+12 meses de garantia
+Peso
+665 gramas
+
+Preço normal: R$406.94
+Preço boleto: R$345.90

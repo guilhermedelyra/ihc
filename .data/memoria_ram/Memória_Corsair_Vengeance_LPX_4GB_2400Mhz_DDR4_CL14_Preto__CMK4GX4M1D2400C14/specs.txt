@@ -1,0 +1,22 @@
+- Marca: Corsair 
+- Modelo: CMK4GX4M1D2400C14
+ 
+Especificações:
+- Capacidade: 4GB
+- Tipo: 288-Pin DDR4 SDRAM
+- Velocidade: DDR4 2400 (PC4 19200)
+- Latencia CAS: 14
+- Cronometragem: 14-16-16-31
+- Voltagem: 1,2 V
+- Cor: Preto
+- Espalhador de calor: Alumínio anodizado
+ 
+Conteúdo da embalagem:
+- Memória Corsair Vengeance  
+Garantia
+12 meses de garantia
+Peso
+60 gramas
+
+Preço normal: R$329.29
+Preço boleto: R$279.90

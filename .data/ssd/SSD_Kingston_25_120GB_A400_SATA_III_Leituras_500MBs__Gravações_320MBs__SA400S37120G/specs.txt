@@ -1,0 +1,28 @@
+- Marca: Kingston
+- Modelo: SA400S37/120G
+ 
+Especificações:
+- Formato: 2,5 pol 
+- Interface: SATA Rev. 3.0 (6Gb/s) — compatível com a versão anterior SATA Rev. 2.0 (3Gb/s)
+- Capacidades: 120GB
+- NAND: TLC 
+- Performance de referência 
+- até 500MB/s para leitura e 320MB/s para gravação 
+- Temperatura de armazenamento: -40 °C a 85 °C 
+- Temperatura de operação: 0 °C a 70 °C
+- Vibração quando em operação: 2,17G pico (7 – 800 Hz)
+- Vibração quando não está em operação: 20G pico (10 – 2000 Hz)
+- Expectativa de vida útil: 1 milhão de horas MTB
+Benefícios: 
+- 10x mais rápido do que um disco rígido: Com incríveis velocidades de leitura/gravação, o SSD A400 não somente irá aumentar o desempenho, como também poderá ser usado para dar vida nova em computadores mais antigos. 
+- Robusto: O A400 é resistente a impactos e vibrações, para confiabilidade reforçada em notebooks e outros dispositivos móveis. 
+- Ideal para desktops e notebooks: A400 tem um formato de 7 mm para se ajustar a uma grande variedade de computadores. É ideal para notebooks mais finos e computadores, ultrabooks e ultratop com espaço limitado.
+Conteúdo da embalagem:
+- SSD Kingston 
+Garantia
+12 meses de garantia
+Peso
+70 gramas
+
+Preço normal: R$208.12
+Preço boleto: R$176.90

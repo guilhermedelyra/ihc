@@ -1,0 +1,62 @@
+- Marca: LG
+- Modelo: 22V280-L.BJ31P1
+ 
+Especificações:
+ 
+Performance:
+- Processador: Intel Celeron (Quad Core) N4100
+- Memória RAM: 4GB DDR4 2400MHz (expansível até 8GB)
+- Sistema Operacional: Windows 10 Home (64bit)
+- Interface Gráfica: Intel® UHD Graphics 600
+ 
+Recursos:
+- Webcam: HD (720p)
+ 
+Tela:
+- Tamanho de Tela: 21,5"
+- Tipo de Tela: FHD IPS
+- Resolução: Full HD (1920 x 1080)
+ 
+Áudio:
+- Alto-Falantes: 4,0W x2 (estéreo)
+ 
+Portas (entrada/saída):
+- HDMI
+- USB 3.0: x2
+- USB 2.0: x2
+- Slot para Cartões: 4-em-1
+- Saída para Fone
+- Saída para Microfone
+- RJ45 Ethernet
+- DC-In
+ 
+Conectividade:
+- Wireless: Smart® Dual Band NFA435A (AGN/AC 1x1, Dual Band, BT Combo)
+- LAN: 10/100/1000Mb
+- Bluetooth: Bluetooth 4.1
+ 
+Energia:
+- Adaptador AC: Bivolt110/220V
+ 
+Dimensões:
+- 509x 189 x 407,8mm
+ 
+Software:
+- LG Control Center: Sim
+- LG On Screen Display 3
+- LG DnA Center
+- Microsoft Office 2016 Trial (30 dias)
+- McAfee Live Safe Trial (90 dias)
+- LG Reader Mode
+ 
+Conteúdo da embalagem:
+- All in One LG
+- Teclado padrão ABNT2
+- Mouse 
+Garantia
+12 meses de garantia
+Peso
+5850 gramas
+
+Preço normal: R$2663.41
+Preço boleto: R$2263.90

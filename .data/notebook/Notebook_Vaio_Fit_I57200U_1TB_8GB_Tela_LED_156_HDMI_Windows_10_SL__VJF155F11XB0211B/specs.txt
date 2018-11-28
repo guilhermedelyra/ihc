@@ -1,0 +1,81 @@
+- Marca: VAIO
+- Modelo: VJF155F11X-B0211B
+ 
+Especificações:
+ 
+Processador:
+- Intel Core i5-7200U
+- Velocidade: 2.5 GHz com Intel Turbo Boost até 3.10 GHz
+- Cache: 3 MB
+- Dual Core
+ 
+Sistema Operacional:
+- Windows 10 Home
+ 
+Memória RAM:
+- Capacidade: 8 GB (com suporte até 16 GB)
+- Slots: 2x SO-DIMM
+- Tipo: DDR3L
+Disco Rígido (HD):
+- Capacidade: 1 TB
+- Tipo: SATA, 7mm
+- Velocidade: 5400 RPM
+ 
+Tela:
+- Tipo: LCD
+- Tamanho: 15.6’’
+- Widescreen
+- Antireflexiva
+- Resolução 1366 x 768 de Alta Definição (HD), com tecnologia LED
+ 
+Periféricos:
+- Leitor de Cartões: SD / SDHC / SDXC / MMC
+- Webcam: HD (1280x720p)
+- Áudio: Microfone e alto-falantes estéreo embutidos
+- Teclado: Português-Brasil, 107 teclas
+- Mouse: Tipo Touchpad, 2 botões
+ 
+Vídeo:
+- Processamento de vídeo integrado
+- Intel HD Graphics 620
+- Suporte Microsoft DirectX 12
+- OpenGL 4.4
+Conectividade:
+- Rede sem fio Intel Dual Band Wireless-AC 3165 IEEE 802.11 abgn / 802.11 ac
+- 1x LAN 10/100/1000
+- Bluetooth 4.2
+ 
+Físico:
+- Cor: Chumbo escuro
+- Dimensões: 377 x 22,8 x 259 mm
+ 
+Portas de Conexão:
+- 2x USB 3.0
+- 2x USB 2.0
+- 1x HDMI
+- 1x Áudio para microfone
+- 1x Áudio para fone de ouvido
+- 1x DC-in (carregador)
+- 1x VGA
+ 
+Alimentação:
+- Carregador: 19 V / 2.1 A, 40W
+- Bateria: Li-ion / 4 células / 32 Wh (removível)
+- Voltagem: Bivolt
+ 
+Segurança:
+- Trava Kensington Lock
+- Intel PTT
+ 
+Conteúdo da Embalagem:
+- Notebook Sony VAIO
+- Adaptador CA com cabo padrão Inmetro (carregador)
+- Cartão Postal
+- Guia Rápido de Instalação 
+Garantia
+12 meses de garantia
+Peso
+2750 gramas
+
+Preço normal: R$3341.06
+Preço boleto: R$2839.90

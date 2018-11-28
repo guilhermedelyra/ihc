@@ -1,0 +1,34 @@
+- Marca: WD
+- Modelo: WDS120G2G0B
+ 
+Especificações:
+- Capacidade: 120GB
+- Interface: SATA 6Gb/s
+- Fator de forma: M.2 2280
+- Performance: Leitura sequencial até: 545MB/s
+ 
+Power:
+- Potência ativa média: 80 mW
+- Máx Leitura de operação: 2,200mW
+- Máx Escrita de operação: 2,200mW
+- Slumber: 30mW
+- DEVSLP: 10mW
+ 
+Confiabilidade:
+- MTTF: Até 1.0M horas
+ 
+Ambiente:
+- Temperatura operacional: 0°C até 70°C
+- Temperatura não-operacional: -55°C até 85°C
+- Vibrações operacionais: 5.0 gRMS, 10-2000 Hz
+- Vibrações não-operacionais: 4.9 gRMS, 7-800Hz
+- Shock: 1,500 G @ 0.5 msec half sine
+Conteúdo da embalagem:
+- SSD WD 
+Garantia
+12 meses de garantia
+Peso
+40 gramas
+
+Preço normal: R$183.41
+Preço boleto: R$155.90

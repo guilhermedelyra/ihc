@@ -1,0 +1,22 @@
+- Marca: Kingston
+- Modelo: KVR24S17S8/8
+ 
+Especificações:
+- Capacidade: 8GB
+- Frequência: 2.400MHz
+- Latência: 17-17-17
+- Padrão: DDR4
+- Segmento: Notebook
+- Tensão: 1.2V
+- Pinagem: 260-pin DIMM
+- Interface: 1G x 64-Bit PC4-2400
+ 
+Conteúdo da Embalagem:
+- Memória Kingston 8GB 2400Mhz 
+Garantia
+12 meses de garantia
+Peso
+15 gramas
+
+Preço normal: R$552.82
+Preço boleto: R$469.90

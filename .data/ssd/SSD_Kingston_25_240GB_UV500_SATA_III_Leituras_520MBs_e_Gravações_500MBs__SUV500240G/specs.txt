@@ -1,0 +1,41 @@
+- Marca: Kingston
+- Modelo: SUV500/240G
+Especificações:
+- Formato: 2.5´ 
+- Interface SATA Rev. 3.0 (6Gb/s) 
+- compatibilidade com versões anteriores para SATA Rev. 2.0 (3Gb/s) 
+- Capacidade² 240GB
+- Controlador Marvell 88SS1074 
+- NAND 3D TLC 
+- Leitura/gravação sequencial¹ 240GB (até 520/500MB/s)
+- Máximo 4K Leitura/Gravação¹ até 79.000/25.000 IOPS
+- Temperatura de Operação 0°C~70°C 
+- Temperatura de armazenamento -40°C~85°C
+- Expectativa de vida 1 milhão de horas MTBF
+- Dimensões: 100,1 x 69,85 x 7 mm (2,5 pol)- Total de bytes gravados (TBW): 240GB 
+- 100TB *4
+Consumo de Energia:
+- 0,195W inativo 
+- 0,5W média 
+- 1,17W (MAX) leitura 
+- 2,32W (MAX) gravação
+Informações adicionais:
+- Mais confiável e durável do que um disco rígido, o UV500 é construído com uma memória semicondutora Flash NAND. 
+- Não há partes móveis, menor probabilidade de falhas do que um disco rígido mecânico. 
+- Também é mais frio e mais silencioso e sua resistência a choques e vibrações torna-o ideal para notebooks e outros dispositivos móveis de computação. 
+- O UV500 está disponível em diversas capacidades, portanto você pode comprar um para usar como unidade de inicialização ou aproveitar sua grande capacidade para armazenar vídeos, fotos ou host seus aplicativos mais usados. 
+ 
+Conteúdo da embalagem:
+- 01 SSD Kingston UV500 2.5´ 240GB
+Observações:Este SSD foi projetado para uso em trabalhos realizados em PCs e notebooks e não é destinado a ambientes de servidor.
+1 Baseado em "desempenho imediato", utilizando uma placa-mãe SATA Rev. 3.0 / PCIe. A velocidade pode variar de acordo com o hardware do host, do software e da utilização. IOMETER 
+- Leitura/ Gravação aleatória de 4K baseada em partição de 8GB.
+2 Parte da capacidade mencionada de um dispositivo de armazenamento de memória Flash é utilizada para a formatação e para outras funções, portanto não está disponível para o armazenamento de dados. Isso significa que a capacidade real de armazenamento de dados é inferior àquela indicada nos produtos. Para mais informações, acesse o Guia de Memória Flash da Kingston em kingston.com/flashguide
+4 O total de bytes gravados (TBW) tem origem na Carga de Trabalho do Cliente JEDEC (JESD219A) 
+Garantia
+12 meses de garantia
+Peso
+70 gramas
+
+Preço normal: R$457.53
+Preço boleto: R$388.90
