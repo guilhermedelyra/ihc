@@ -1,0 +1,3 @@
+</strong><br>- Marca: Toshiba<br>- Modelo: DT01ACA100<br><strong><br>Especificações:<br></strong><br>-  Capacidade: 1000 GBytes<br>- Fator de forma: 3,5 polegadas<br>- Tipo de Interface: Serial ATA<br>- Interfaces suportadas este padrão: ATA-8, Serial ATA 3,0<br>- Bytes / setor (Host): 512<br>- Bytes / setor (disco): 4096 kByte<br>- Tempo médio de busca: 0,6 ms<br>- Tempo de gravação média: 0,8 ms<br>- Velocidade de rotação: 7.200 rpm<br>- Cache: 32 MByte<br><strong>Consumo de energia: </strong><br>- Leitura / Escrita: 6,4 W <br>- Idle: 3,7 W <br>- Em espera: 1,0 W <br><br><br><strong>Garantia</strong><br>12 meses de garantia<br><br><strong>Peso</strong><br>280 gramas<br>
+Preço normal: R$285.76
+Preço boleto: R$242.90

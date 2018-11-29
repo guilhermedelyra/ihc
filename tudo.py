@@ -4,30 +4,24 @@ import random
 import re
 import bleach
 import os
-from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
+import requests
 
 def create_dir(directory):
-	if not os.path.exists('.data/'+directory):
-		os.makedirs('.data/'+directory)
+	if not os.path.exists('Jojogos/lib/etc/product_data/product-images/'+directory):
+		os.makedirs('Jojogos/lib/etc/product_data/product-images/'+directory)
 
 def return_soup(link):
-	options = webdriver.ChromeOptions()
-	options.add_argument('headless')
-	browser = webdriver.Chrome(executable_path=os.path.abspath("chromedriver.exe"), chrome_options=options)
+	r = requests.get(link)
+	html = r.text
+	soup = BeautifulSoup(html, "lxml")
 
-	# browser = webdriver.PhantomJS(executable_path=os.path.abspath("phantomjs.exe"))
-	browser.get(link)
-
-	html = browser.page_source
-	soup = BeautifulSoup(html, 'lxml')
 	if (not soup.title):
 		soup = return_soup(link)
 
 	return soup
+
+def strip_html(src, allowed=['strong', 'br']):
+	return bleach.clean(src, tags=allowed, strip=True, strip_comments=True)
 
 def file_name(string):
 	string = string.replace(' ', '_')
@@ -43,7 +37,7 @@ def get_products(soup):
 			products.append(url['href']);
 
 	# get 15 random products in all products
-	random_products = random.sample(range(len(products)), 15)
+	random_products = random.sample(range(len(products)), 2)
 	products = [products[i] for i in random_products]
 
 	return products
@@ -66,7 +60,7 @@ def get_images(soup, dirname):
 
 	# save images
 	for img in imgs:
-		filename = '.data/'+dirname+'/'+file_name(img.split('/')[-1].split('.jpg')[0])+'.jpg'
+		filename = 'Jojogos/lib/etc/product_data/product-images/'+dirname+'/'+file_name(img.split('/')[-1].split('.jpg')[0])+'.jpg'
 		urllib.request.urlretrieve(img, filename)
 
 	return
@@ -90,9 +84,9 @@ def get_specs(soup, dirname):
 	patt = r'(?<=' + _from + r')(.*?)(?=' + _until + r')'
 	rgx = re.compile(patt, re.DOTALL)
 
-	clean_soup = bleach.clean(str(soup), tags=[], attributes={}, styles=[], strip=True)
+	# clean_soup = bleach.clean(str(soup), tags=[], attributes={}, styles=[], strip=True)
 
-	get_specs = rgx.findall(clean_soup)[0].split('ticas:')[-1]
+	get_specs = rgx.findall(strip_html(str(soup)))[0].split('ticas:')[-1].replace('<br/>\n<br/>', '<br/>')
 	specs = get_specs.replace('Especificações:', '\nEspecificações:\n').replace('- ', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace(' -', '\n- ').replace('\n\n', '\n').replace('  ', ' ').replace('\n\n\n', '\n').replace('\n \n', '\n').strip() + '\n'
 
 	# pega preço antigo, atual e promoção boleto
@@ -108,9 +102,9 @@ def get_specs(soup, dirname):
 	discount_price = float(normal_price) - float(normal_price) * 0.15
 	prices += "\nPreço boleto: R${:.2f}".format(discount_price)
 
-	specs += prices
+	specs = specs.replace('\n', '<br>').replace('<br><br>', '<br>') + prices
 
-	f = open('.data/'+dirname+'/'+'specs.txt', 'w')
+	f = open('Jojogos/lib/etc/product_data/product-images/'+dirname+'/'+'specs.txt', 'w')
 	f.write(specs)
 
 	return
@@ -118,7 +112,8 @@ def get_specs(soup, dirname):
 create_dir('')
 
 # search x category in KaBuM
-searches = ['smartphones']
+# 'Cadeiras', 'Computadores', 'Disco Rigido', 'Games', 'Headsets', 'Memoria Ram', 'Mesa', 'Monitores', 'Mouses', 
+searches = ['Mousepad', 'Notebook', 'Pen Drive', 'Placa de Video', 'Processador', 'Smartphone', 'SSD', 'Teclado']
 
 for p in searches:
 	soup = return_soup("https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=%s&btnG=" % p)
