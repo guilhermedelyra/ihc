@@ -4728,7 +4728,7 @@ body {
   font-weight: 400;
   color: #404042;
   line-height: 18px;
-  background-color: #FFFFFF;
+  background-image: linear-gradient(#000000, #4b88a2);
   -webkit-font-smoothing: antialiased;
 }
 

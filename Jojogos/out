@@ -1,0 +1,2 @@
+./app/views/spree/products/show.html.erb:          <h1 class="product-title" itemprop="name"><%= @product.name %></h1>
+./public/assets/spree/frontend/all-2c4a687896a7196d5c0029f0cfda6e3d33b0274ad186783e53be3f98ce6b3869.css:#product-description .product-title {

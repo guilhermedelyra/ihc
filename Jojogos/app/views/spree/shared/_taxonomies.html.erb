@@ -1,0 +1,27 @@
+<% max_level = Spree::Config[:max_level_in_taxons_menu] || 1 %>
+<nav id="taxonomies" class="sidebar-item" data-hook>
+  <% @taxonomies.each do |taxonomy| %>
+    <% cache [I18n.locale, taxonomy, @taxon, max_level] do %>
+      <h5 class='taxonomy-root' style="color:#0b0b0b"><%= t('spree.shop_by_taxonomy', taxonomy: taxonomy.name.downcase == 'categories' ? 'Categorias' : taxonomy.name) %></h5>
+      <ul>
+      	<li><a style="color:#4b88a2" href="/t/categories/cadeiras/">Cadeiras</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/computadores/">Computadores</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/disco-rigido/">Disco Rigido</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/games/">Games</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/headsets/">Headsets</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/memoria-ram/">Memoria Ram</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/mesa/">Mesa</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/monitores/">Monitores</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/mousepad/">Mousepad</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/mouses/">Mouses</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/notebook/">Notebook</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/pen-drive/">Pen Drive</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/placa-de-video/">Placa De Video</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/processador/">Processador</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/smartphone/">Smartphone</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/ssd/">SSD</a></li>
+      	<li><a style="color:#4b88a2" href="/t/categories/teclado/">Teclado</a></li>
+      </ul>
+    <% end %>
+  <% end %>
+</nav>

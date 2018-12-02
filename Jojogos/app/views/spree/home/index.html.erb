@@ -1,0 +1,12 @@
+<% content_for :sidebar do %>
+  <div style="background-image: linear-gradient(#c7c8cc, #fff, #c7c8cc); border-radius: 6px;display: flex; justify-content: space-around"; data-hook="homepage_sidebar_navigation">
+    <%= render partial: 'spree/shared/taxonomies' %>
+  </div>
+<% end %>
+
+<div style="background-image: linear-gradient(#fbfbfb, #d3d4d9, #fbfbfb);"; data-hook="homepage_products">
+  <% cache(cache_key_for_products) do %>
+    <%= render partial: 'spree/shared/products', locals: { products: @products } %>
+  <% end %>
+</div>
+

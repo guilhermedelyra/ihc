@@ -1,0 +1,36 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6" lang="<%= I18n.locale %>"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7" lang="<%= I18n.locale %>"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8" lang="<%= I18n.locale %>"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9" lang="<%= I18n.locale %>"> <![endif]-->
+<!--[if gt IE 9]><!--><html lang="<%= I18n.locale %>"><!--<![endif]-->
+  <head data-hook="inside_head">
+    <%= render partial: 'spree/shared/head' %>
+  </head>
+  <body class="<%= body_class %> background-image-all" id="<%= @body_id || 'default' %>" data-hook="body" >
+
+    <div class="container">
+
+      <%= render partial: 'spree/shared/header' %>
+
+      <div id="wrapper" class="row" data-hook>
+
+        <%= taxon_breadcrumbs(@taxon) %>
+
+        <%= render partial: 'spree/shared/sidebar' if content_for? :sidebar %>
+
+        <div style="background-image: linear-gradient(#4b88a2, #0b0b0b, #bb0a21); border-radius: 20px;display: flex; justify-content: space-around"; id="content" class="columns <%= !content_for?(:sidebar) ? "sixteen" : "twelve omega" %>" data-hook>
+          <%= flash_messages %>
+          <%= yield %>
+        </div>
+
+        <%= yield :templates %>
+
+      </div>
+
+      <%= render partial: 'spree/shared/footer' %>
+
+    </div>
+
+  </body>
+</html>
