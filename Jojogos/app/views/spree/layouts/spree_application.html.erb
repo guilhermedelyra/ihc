@@ -7,7 +7,7 @@
   <head data-hook="inside_head">
     <%= render partial: 'spree/shared/head' %>
   </head>
-  <body class="<%= body_class %> background-image-all" id="<%= @body_id || 'default' %>" data-hook="body" >
+  <body class="<%= body_class %> bg_img<%=rand(1..11).to_s%>" id="<%= @body_id || 'default' %>" data-hook="body" >
 
     <div class="container">
 

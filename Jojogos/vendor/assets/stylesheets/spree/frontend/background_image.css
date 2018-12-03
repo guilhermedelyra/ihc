@@ -1,4 +1,51 @@
-.background-image-all:before {
+.bg_img1:before {
+  background-image: url('http://www.thenaturefan.com/wp-content/uploads/2015/04/Technology-vs-nature.jpg');
+}
+
+.bg_img2:before {
+  background-image: url('http://dmdart.com/blog/pic/bioluminescenttrees.jpg')
+}
+
+.bg_img3:before {
+  background-image: url('https://i.pinimg.com/736x/27/8c/c3/278cc37910eb73a6853210efdde17e8b.jpg')
+}
+
+.bg_img4:before {
+  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NGTYhyRhgilq4uu1a/3d-abstract-animation-background-pattern-of-digital-software-source-code-grid-and-inner-block-circuit-of-computer-network-system-in-green-text-in-4k-ultra-hd_hxyjlawz__F0001.png')
+}
+
+.bg_img5:before {
+  background-image: url('https://mediad.publicbroadcasting.net/p/wyprmain/files/201404/Natureandtech.jpg')
+}
+
+.bg_img6:before {
+  background-image: url('https://c1.staticflickr.com/3/2641/4104815784_73f0163310_b.jpg')
+}
+
+.bg_img7:before {
+  background-image: url('http://elak.info/wp-content/uploads/2018/07/nature-technology-wallpaper-hd-inspirational-awesome-47-technology-wallpapers-of-nature-technology-wallpaper-hd.jpg')
+}
+.bg_img8:before {
+  background-image: url('https://wallup.net/wp-content/uploads/2016/04/06/348935-nature-landscape-antenna-clouds-satellite-technology-HDR-winter-snow-trees-sun_rays.jpg')
+}
+
+.bg_img9:before {
+  background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2014/03/04/285708/5927a2ad25c4253cd2d6aadf760543ab.jpg')
+}
+
+.bg_img10:before {
+  background-image: url('http://www.wallfizz.com/art-design/nature-et-hi-tech/4766-la-vie-des-fleurs-WallFizz.jpg')
+}
+
+.bg_img11:before {
+  background-image: url('https://sosuke8.files.wordpress.com/2007/11/desaster.gif')
+}
+
+.bg_img12:before {
+  background-image: url('https://grist.files.wordpress.com/2015/10/suzanneillomerged.jpg')
+}
+
+.bg_img1:before, .bg_img2:before, .bg_img3:before, .bg_img4:before, .bg_img5:before, .bg_img6:before, .bg_img7:before, .bg_img8:before, .bg_img9:before, .bg_img10:before, .bg_img11:before, .bg_img12 {
   content: "";
   position: fixed;
   left: 0;
@@ -6,7 +53,6 @@
   z-index: -1;
   
   display: block;
-  background-image: url('http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_527bf56961712_1.JPG');
   width: 100%;
   height: 100%;
   
@@ -17,8 +63,8 @@
   filter: blur(5px);
 }
 
-.background-image-all {
-  position: fixed;
+.bg_img1, .bg_img2, .bg_img3, .bg_img4, .bg_img5, .bg_img6, .bg_img7, .bg_img8, .bg_img9, .bg_img10, .bg_img11, .bg_img12 {
+  position: absolute;
   left: 0;
   right: 0;
   z-index: 0;
