@@ -1,0 +1,780 @@
+Binary file ./.git/index matches
+Binary file ./Jojogos/.git/index matches
+./Jojogos/a.sh:cp ~/solidus/frontend/app/controllers/spree/home_controller.rb app/controllers/spree
+./Jojogos/app/views/spree/shared/_main_nav_bar.html.erb:    <li id="home-link" data-hook><%= link_to t('spree.home'), spree.root_path %></li>
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1023.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (610.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (526.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (218.5ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (162.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (160.7ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1069.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (583.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1165.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (707.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (597.7ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (272.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (252.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (216.6ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (570.8ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (204.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (599.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (944.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (807.8ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (478.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (441.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (465.5ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1280.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (889.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (794.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1111.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (409.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (847.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (495.7ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1046.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (416.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (452.6ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (170.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (785.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (917.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (376.6ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (3257.6ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (725.8ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (2267.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1674.8ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (396.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (924.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (366.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (418.4ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (389.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (797.7ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (368.7ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (786.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (387.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (820.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (372.6ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (928.2ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1007.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (970.9ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (925.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (927.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1728.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1096.3ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1515.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1054.1ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1510.0ms)
+./Jojogos/log/development.log:  Rendering /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered /var/lib/gems/2.5.0/gems/solidus_frontend-2.7.0/app/views/spree/home/index.html.erb within spree/layouts/spree_application (1548.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2203.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (691.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (727.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (649.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (622.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (740.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (654.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (606.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (697.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (652.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (671.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (609.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (611.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (676.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (626.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (601.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (594.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (598.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (614.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (692.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (685.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (955.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (619.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (694.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (617.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (675.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (642.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (639.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (680.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (775.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (668.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (822.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (679.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (640.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (728.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (694.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (644.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (938.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (617.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (607.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (675.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (617.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (679.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (626.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (627.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (675.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (634.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (755.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (715.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (683.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (757.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (765.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (914.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (791.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (723.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (801.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (842.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (836.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (675.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (717.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (736.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (842.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (809.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (765.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (756.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (812.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (741.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (728.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (712.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (787.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (833.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (738.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (807.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (818.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (824.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (933.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1337.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (15.8ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _e2b14147a79a947158d64d1d4993395e'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_e2b14147a79a947158d64d1d4993395e'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (13.1ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _fcd4d1d0f5189ac59b90fcf6e9ba6c31'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_fcd4d1d0f5189ac59b90fcf6e9ba6c31'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (30.7ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _23afd2eb21745b3f7034ebcb1c24adfc'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_23afd2eb21745b3f7034ebcb1c24adfc'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (55.9ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _b26e72ac9b790ad3b4776a9be07b1ede'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_b26e72ac9b790ad3b4776a9be07b1ede'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (26.7ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _e646af0788d2d2f21fef514a8b9862a7'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_e646af0788d2d2f21fef514a8b9862a7'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (35.6ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _3633d13417a2b72481a5f26991ea310c'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_3633d13417a2b72481a5f26991ea310c'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (63.0ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _095b81405a4ee446969558cea5c950bc'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_095b81405a4ee446969558cea5c950bc'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (828.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (914.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (868.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (872.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (933.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (12.6ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _a5fb41cc3f8c6b56151f1564ec3a9412'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_a5fb41cc3f8c6b56151f1564ec3a9412'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (931.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (13.6ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _833172cdfabc1a0171f97e4558da815d'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_833172cdfabc1a0171f97e4558da815d'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (23.3ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _929ce6ce678936adf595d3622caab569'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_929ce6ce678936adf595d3622caab569'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (884.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (722.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (781.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (703.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (883.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (832.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (757.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (839.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (766.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (751.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (785.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (894.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (707.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (780.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (801.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (791.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (796.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (838.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (848.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (893.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (773.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (813.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (888.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1099.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (863.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (897.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (827.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (903.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (908.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (923.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (879.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (853.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (796.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (777.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (782.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (944.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (888.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (886.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (790.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (801.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (793.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (840.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (867.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (58.7ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:9:in `block in _9dc556b2b3b1d3ea0690c26926c3a84a'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:8:in `_9dc556b2b3b1d3ea0690c26926c3a84a'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (892.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (14.8ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _9c6be209e591783df1f07c4801990ea2'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_9c6be209e591783df1f07c4801990ea2'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (11.3ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _1cd14e8fb20cc7133607c8702f4ff030'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_1cd14e8fb20cc7133607c8702f4ff030'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (28.0ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _62fc930faed865b07453b608a6747851'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_62fc930faed865b07453b608a6747851'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (118.4ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _e3566701cfe7098f40cce7be5ff7a8d3'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_e3566701cfe7098f40cce7be5ff7a8d3'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (18.7ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _d783f0f845a251e12383727fd764f33a'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_d783f0f845a251e12383727fd764f33a'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (16.0ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _a03bf09229370e59aa83943ae6f952ae'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_a03bf09229370e59aa83943ae6f952ae'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (730.9ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _4203e8bdfd54328f89db426e55f9caf3'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_4203e8bdfd54328f89db426e55f9caf3'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (15.8ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _3d295a8c71d9e2ffef9db8f0aa27bf0f'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_3d295a8c71d9e2ffef9db8f0aa27bf0f'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (48.9ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _cdb64b22006665a0c35b74a66b8800e2'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_cdb64b22006665a0c35b74a66b8800e2'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (21.3ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _4e2dee7f32a2e7057c1ad9427f2f9710'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_4e2dee7f32a2e7057c1ad9427f2f9710'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2094.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (796.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (782.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (706.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (729.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (804.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (664.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (688.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (841.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1422.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (755.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1262.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (13.2ms)
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:3:in `block in _232da75320a73861de7254f58c353ef8'
+./Jojogos/log/development.log:app/views/spree/home/index.html.erb:1:in `_232da75320a73861de7254f58c353ef8'
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (775.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (794.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (674.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (754.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (795.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (692.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (663.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (784.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (694.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (785.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (718.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (748.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (835.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (747.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (795.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (736.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (939.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (775.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (741.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (726.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (742.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (689.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1951.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (674.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (586.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (721.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (700.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (658.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (626.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (611.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (600.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (607.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1888.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (643.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (675.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (618.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (664.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (628.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2984.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (751.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (758.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (815.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (776.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (843.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (778.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (925.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (997.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (925.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (797.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (713.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1243.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (913.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1042.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (805.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1147.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (802.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (954.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1458.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (931.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (956.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (835.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (790.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1188.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (895.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (902.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (913.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (905.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1011.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (965.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (964.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1136.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (874.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (952.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1142.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1042.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1088.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1978.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1481.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1467.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1600.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2050.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1441.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1983.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1709.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (18163.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2639.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2349.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (8731.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1521.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1869.6ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1739.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1774.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1468.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1856.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1361.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1264.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1548.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1460.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1632.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1777.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1774.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1546.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1602.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1869.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1195.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1561.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1422.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1589.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1757.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1891.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2321.5ms)
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2328.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (3037.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2453.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1654.7ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2337.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2011.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2167.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2101.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2295.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1915.5ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1431.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1384.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2147.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1667.4ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1299.1ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1431.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1528.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1516.3ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1216.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1397.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1743.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1217.2ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1429.8ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2840.0ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (3790.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1520.3ms)
+./Jojogos/log/development.log:...end=( style: "font-size: 500%", link_to t('spree.home'), spr...
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1691.7ms)
+./Jojogos/log/development.log:...end=( :style:"font-size: 500%", link_to t('spree.home'), spr...
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (2199.9ms)
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:...nd=( :style=>"font-size: 500%", link_to t('spree.home'), spr...
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (4489.3ms)
+./Jojogos/log/development.log:...nd=( :style=>"font-size: 500%", link_to t('spree.home'), spr...
+./Jojogos/log/development.log:  Rendering spree/home/index.html.erb within spree/layouts/spree_application
+./Jojogos/log/development.log:  Rendered spree/home/index.html.erb within spree/layouts/spree_application (1807.6ms)

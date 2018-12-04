@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/boomerdigital/solidus_elastic_product
+  revision: 58781842a8ac6dffae1689afa7ed9ed3504e882b
+  specs:
+    solidus_elastic_product (0.0.1)
+      elasticsearch-model
+      solidus_core
+
+GIT
   remote: git://github.com/ngelx/solidus_import_products.git
   revision: 643ce2a38c0c0ee26c8919e630ad7dad0adc568a
   specs:
@@ -6,6 +14,15 @@ GIT
       deface
       solidus_auth_devise
       solidus_core (>= 2.0)
+      solidus_support
+
+GIT
+  remote: https://github.com/solidusio-contrib/solidus_static_content.git
+  revision: 0b2663c2ff73d4cd9a0a3fb27b837e6a1fc5a4d9
+  specs:
+    solidus_static_content (1.0.0)
+      deface (~> 1.0)
+      solidus (>= 1.1, < 3)
       solidus_support
 
 GEM
@@ -105,8 +122,22 @@ GEM
       devise (>= 2.1.0)
     discard (1.0.0)
       activerecord (>= 4.2, < 6)
+    elasticsearch (6.1.0)
+      elasticsearch-api (= 6.1.0)
+      elasticsearch-transport (= 6.1.0)
+    elasticsearch-api (6.1.0)
+      multi_json
+    elasticsearch-model (6.0.0)
+      activesupport (> 3)
+      elasticsearch (> 1)
+      hashie
+    elasticsearch-transport (6.1.0)
+      faraday
+      multi_json
     erubi (1.7.1)
     execjs (2.7.0)
+    faraday (0.15.4)
+      multipart-post (>= 1.2, < 3)
     ffi (1.9.25)
     font-awesome-rails (4.7.0.4)
       railties (>= 3.2, < 6.0)
@@ -118,6 +149,7 @@ GEM
       execjs (~> 2.0)
       sprockets (>= 2.0.0)
       tilt (>= 1.2)
+    hashie (3.6.0)
     i18n (1.1.1)
       concurrent-ruby (~> 1.0)
     jbuilder (2.8.0)
@@ -164,6 +196,7 @@ GEM
     money (6.13.1)
       i18n (>= 0.6.4, <= 2)
     multi_json (1.13.1)
+    multipart-post (2.0.0)
     nio4r (2.3.1)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
@@ -370,8 +403,10 @@ DEPENDENCIES
   selenium-webdriver
   solidus
   solidus_auth_devise
+  solidus_elastic_product!
   solidus_i18n
   solidus_import_products!
+  solidus_static_content!
   spring
   spring-watcher-listen (~> 2.0.0)
   sprockets-rails

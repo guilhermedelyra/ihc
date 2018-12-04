@@ -7,9 +7,9 @@
   <head data-hook="inside_head">
     <%= render partial: 'spree/shared/head' %>
   </head>
-  <body class="<%= body_class %> bg_img<%=rand(1..11).to_s%>" id="<%= @body_id || 'default' %>" data-hook="body" >
+  <body class="<%= body_class %> bg_img<%=rand(1..12).to_s%>" id="<%= @body_id || 'default' %>" data-hook="body" >
 
-    <div class="container">
+    <div class="container" style="background: #fbfbfb; border-radius: 5px;">
 
       <%= render partial: 'spree/shared/header' %>
 
@@ -19,7 +19,7 @@
 
         <%= render partial: 'spree/shared/sidebar' if content_for? :sidebar %>
 
-        <div style="background-image: linear-gradient(#4b88a2, #0b0b0b, #bb0a21); border-radius: 20px;display: flex; justify-content: space-around"; id="content" class="columns <%= !content_for?(:sidebar) ? "sixteen" : "twelve omega" %>" data-hook>
+        <div id="content" class="columns <%= !content_for?(:sidebar) ? "sixteen" : "twelve omega" %>" data-hook>
           <%= flash_messages %>
           <%= yield %>
         </div>

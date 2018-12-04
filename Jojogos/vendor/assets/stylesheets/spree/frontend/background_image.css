@@ -1,51 +1,60 @@
 .bg_img1:before {
-  background-image: url('http://www.thenaturefan.com/wp-content/uploads/2015/04/Technology-vs-nature.jpg');
+  background-image: url('https://cdn.hipwallpaper.com/i/65/55/OCoh1G.jpg');
 }
 
 .bg_img2:before {
-  background-image: url('http://dmdart.com/blog/pic/bioluminescenttrees.jpg')
+  background-image: url('https://cdn.hipwallpaper.com/i/46/47/Aqge8R.jpg')
 }
 
 .bg_img3:before {
-  background-image: url('https://i.pinimg.com/736x/27/8c/c3/278cc37910eb73a6853210efdde17e8b.jpg')
+  background-image: url('https://cdn.hipwallpaper.com/i/26/84/av5FrQ.jpg')
 }
 
 .bg_img4:before {
-  background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NGTYhyRhgilq4uu1a/3d-abstract-animation-background-pattern-of-digital-software-source-code-grid-and-inner-block-circuit-of-computer-network-system-in-green-text-in-4k-ultra-hd_hxyjlawz__F0001.png')
+  background-image: url('https://cdn.hipwallpaper.com/i/32/76/JPjOlM.jpg')
 }
 
 .bg_img5:before {
-  background-image: url('https://mediad.publicbroadcasting.net/p/wyprmain/files/201404/Natureandtech.jpg')
+  background-image: url('http://www.poisonmushroom.org/content/uploads/2016/03/simcitysnesdesktop.jpg')
 }
 
 .bg_img6:before {
-  background-image: url('https://c1.staticflickr.com/3/2641/4104815784_73f0163310_b.jpg')
+  background-image: url('http://sherly.mobile9.com/download/media/559/blue-city-_uwe0sstf.jpg')
 }
 
 .bg_img7:before {
   background-image: url('http://elak.info/wp-content/uploads/2018/07/nature-technology-wallpaper-hd-inspirational-awesome-47-technology-wallpapers-of-nature-technology-wallpaper-hd.jpg')
 }
+
 .bg_img8:before {
-  background-image: url('https://wallup.net/wp-content/uploads/2016/04/06/348935-nature-landscape-antenna-clouds-satellite-technology-HDR-winter-snow-trees-sun_rays.jpg')
+  background-image: url('http://wallpaperget.com/images/night-city-wallpaper-18.jpg')
 }
 
 .bg_img9:before {
-  background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2014/03/04/285708/5927a2ad25c4253cd2d6aadf760543ab.jpg')
+  background-image: url('https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-295290.png')
 }
 
 .bg_img10:before {
-  background-image: url('http://www.wallfizz.com/art-design/nature-et-hi-tech/4766-la-vie-des-fleurs-WallFizz.jpg')
+  background-image: url('https://pre00.deviantart.net/ae5e/th/pre/i/2013/142/e/8/night_sky_wallpaper_by_dji435-d66882b.png')
 }
 
 .bg_img11:before {
-  background-image: url('https://sosuke8.files.wordpress.com/2007/11/desaster.gif')
+  background-image: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/447530/3d3608476c517c91fd6c41ccaf9e2e1199f424c8.jpg')
 }
 
 .bg_img12:before {
-  background-image: url('https://grist.files.wordpress.com/2015/10/suzanneillomerged.jpg')
+  background-image: url('https://cdn.hipwallpaper.com/i/6/21/EmFuTR.png')
 }
 
-.bg_img1:before, .bg_img2:before, .bg_img3:before, .bg_img4:before, .bg_img5:before, .bg_img6:before, .bg_img7:before, .bg_img8:before, .bg_img9:before, .bg_img10:before, .bg_img11:before, .bg_img12 {
+ul {
+    margin: 0 0 0 30px;
+    line-height: 1.5
+}
+.b1 {
+    list-style-image: url("https://i.imgur.com/30kejqZ.png");
+}
+
+.bg_img1:before, .bg_img2:before, .bg_img3:before, .bg_img4:before, .bg_img5:before, .bg_img6:before, .bg_img7:before, .bg_img8:before, .bg_img9:before, .bg_img10:before, .bg_img11:before, .bg_img12:before {
   content: "";
   position: fixed;
   left: 0;

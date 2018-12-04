@@ -2,25 +2,76 @@
 <nav id="taxonomies" class="sidebar-item" data-hook>
   <% @taxonomies.each do |taxonomy| %>
     <% cache [I18n.locale, taxonomy, @taxon, max_level] do %>
-      <h5 class='taxonomy-root' style="color:#0b0b0b"><%= t('spree.shop_by_taxonomy', taxonomy: taxonomy.name.downcase == 'categories' ? 'Categorias' : taxonomy.name) %></h5>
+      <h1 class='taxonomy-root' style="text-align: center; text-justify: inter-word; color:#0b0b0b; font-size: 180%; font-weight: bold; border-width: 2px; border-bottom: 2px #0b0b0b solid;">CATEGORIAS</h5>
       <ul>
-      	<li><a style="color:#4b88a2" href="/t/categories/cadeiras/">Cadeiras</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/computadores/">Computadores</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/disco-rigido/">Disco Rigido</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/games/">Games</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/headsets/">Headsets</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/memoria-ram/">Memoria Ram</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/mesa/">Mesa</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/monitores/">Monitores</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/mousepad/">Mousepad</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/mouses/">Mouses</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/notebook/">Notebook</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/pen-drive/">Pen Drive</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/placa-de-video/">Placa De Video</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/processador/">Processador</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/smartphone/">Smartphone</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/ssd/">SSD</a></li>
-      	<li><a style="color:#4b88a2" href="/t/categories/teclado/">Teclado</a></li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/cadeiras/">CADEIRAS
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/computadores/">COMPUTADORES
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/disco-rigido/">DISCO RIGIDO
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/games/">GAMES
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/headsets/">HEADSETS
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/memoria-ram/">MEMORIA RAM
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/mesa/">MESA
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/monitores/">MONITORES
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/mousepad/">MOUSEPAD
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/mouses/">MOUSES
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/notebook/">NOTEBOOK
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/pen-drive/">PEN DRIVE
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/placa-de-video/">PLACA DE VIDEO
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/processador/">PROCESSADOR
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/smartphone/">SMARTPHONE
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/ssd/">SSD
+          </a>
+        </li>
+      	<li class="b1">
+          <a style="color:#bb0a21; text-align: justify; text-justify: inter-word; font-size: medium; font-weight: bold; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000;" href="/t/categories/teclado/">TECLADO
+          </a>
+        </li>
       </ul>
     <% end %>
   <% end %>

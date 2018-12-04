@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20181127211324) do
+ActiveRecord::Schema.define(version: 20181204022263) do
 
   create_table "friendly_id_slugs", force: :cascade do |t|
     t.string "slug", null: false
@@ -23,6 +23,18 @@ ActiveRecord::Schema.define(version: 20181127211324) do
     t.index ["slug", "sluggable_type"], name: "index_friendly_id_slugs_on_slug_and_sluggable_type"
     t.index ["sluggable_id"], name: "index_friendly_id_slugs_on_sluggable_id"
     t.index ["sluggable_type"], name: "index_friendly_id_slugs_on_sluggable_type"
+  end
+
+  create_table "solidus_elastic_product_states", force: :cascade do |t|
+    t.integer "product_id", null: false
+    t.text "json", limit: 16777215
+    t.boolean "uploaded", default: false, null: false
+    t.datetime "locked_for_serialization_at"
+    t.datetime "locked_for_upload_at"
+    t.index ["locked_for_serialization_at"], name: "index_states_on_locked_for_serialization_at"
+    t.index ["locked_for_upload_at"], name: "index_solidus_elastic_product_states_on_locked_for_upload_at"
+    t.index ["product_id"], name: "index_solidus_elastic_product_states_on_product_id"
+    t.index ["uploaded"], name: "index_solidus_elastic_product_states_on_uploaded"
   end
 
   create_table "spree_addresses", force: :cascade do |t|
@@ -309,6 +321,35 @@ ActiveRecord::Schema.define(version: 20181127211324) do
     t.datetime "updated_at", precision: 6
     t.index ["order_id", "promotion_id"], name: "index_spree_orders_promotions_on_order_id_and_promotion_id"
     t.index ["promotion_code_id"], name: "index_spree_orders_promotions_on_promotion_code_id"
+  end
+
+  create_table "spree_pages", force: :cascade do |t|
+    t.string "title"
+    t.text "body"
+    t.string "slug"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.boolean "show_in_header", default: false, null: false
+    t.boolean "show_in_footer", default: false, null: false
+    t.string "foreign_link"
+    t.integer "position", default: 1, null: false
+    t.boolean "visible", default: true
+    t.string "meta_keywords"
+    t.string "meta_description"
+    t.string "layout"
+    t.boolean "show_in_sidebar", default: false, null: false
+    t.string "meta_title"
+    t.boolean "render_layout_as_partial", default: false
+    t.index ["slug"], name: "index_spree_pages_on_slug"
+  end
+
+  create_table "spree_pages_stores", id: false, force: :cascade do |t|
+    t.integer "store_id"
+    t.integer "page_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.index ["page_id"], name: "index_spree_pages_stores_on_page_id"
+    t.index ["store_id"], name: "index_spree_pages_stores_on_store_id"
   end
 
   create_table "spree_payment_capture_events", force: :cascade do |t|
