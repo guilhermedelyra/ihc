@@ -1,0 +1,72 @@
+- Marca: EVGA
+- Modelo: 03G-P4-6153-KR
+ 
+Especificações:
+ 
+Performance:
+- NVIDIA GTX 1050 3GB
+- Pipelines: 768 pixels
+- Clock base: 1455 MHz
+- Clock Impulso: 1569 MHz
+- Taxa de preenchimento de textura de 66,8 GT/s
+ 
+Memória:
+- Capacidade: 3072 MB
+- Tipo: GDDR5
+- Interface: 96 bits
+- Clock: 7008 MHz (efetivo)
+- Largura de banda: 84 GB/s
+ 
+Resfriamento:
+- Ventoinha ACX 2.0
+ 
+Interface:
+- PCI-E 3.0
+ 
+Conexões:
+- DVI-D
+- DisplayPort
+- HDMI
+ 
+Resolução e atualização:
+- Max Monitors suportados: 3x
+- Taxa de atualização máxima de 240Hz
+- Max Digital: 7680 x 4320
+ 
+Dimensões
+- Altura: 111,15 mm
+- Comprimento: 144,78 mm
+- Largura: Slot Duplo
+ 
+Suporte ao sistema operacional:
+- Windows 10 32/64 bits
+- Windows 8 32 / 64bit
+- Windows 7 32 / 64bit
+ 
+Requisitos:
+- Mínimo de uma fonte de alimentação de 300 Watts.
+- Potência Total: 75 Watts
+ 
+Recursos:
+- NVIDIA GameStream
+- NVIDIA G-SYNC Ready
+- OpenGL 4.5
+- Projeção Multi Simultânea
+- NVIDIA Ansel
+- NVIDIA GPU Boost 3.0
+- DirectX 12
+- Vulkan API
+- EVGA Precision XOC
+ 
+Conteúdo da Embalagem:
+- Placa de Vídeo EVGA
+- Driver de Instalação
+- Guia do Usuário 
+Garantia
+12 meses de garantia
+Peso
+730 gramas
+
+Preço antigo: R$1211.65
+Preço normal: R$888.12
+Preço boleto: R$754.90

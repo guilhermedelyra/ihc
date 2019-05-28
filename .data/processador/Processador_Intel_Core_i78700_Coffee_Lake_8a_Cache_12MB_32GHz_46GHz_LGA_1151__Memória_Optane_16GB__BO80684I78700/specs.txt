@@ -1,0 +1,139 @@
+- Marca: Intel
+- Modelo: MEMPEK1W016GAXT 
+- BO80684I78700
+Especificações:
+Processador:
+Essenciais:
+- Coleção de produtos: 8ª geração Intel Core i7 Processors
+- Código Nome: Produtos anteriormente Coffee Lake
+- Segmento Vertical: Área de Trabalho
+- Número do processador: i7-8700
+- Status: Launched
+- Data de lançamento: Q4'17
+- Litografia: 14 nm
+ 
+Desempenho:
+- Número de núcleos: 6
+- Nº de threads: 12
+- Frequência baseada em processador: 3,20 GHz
+- Frequência turbo max: 4,60 GHz
+- Cache: 12 MB
+- Velocidade do barramento: 8 GT/s DMI3
+- TDP: 65 W
+ 
+Memória:
+- Tamanho máximo de memória (de acordo com o tipo de memória): 64 GB
+- Tipos de memória: DDR4-2666
+- Nº máximo de canais de memória: 2
+Gráficas:
+- Gráficos do processador: Intel UHD Graphics 630
+- Frequência da base gráfica: 350 MHz
+- Máxima frequência dinâmica da placa gráfica: 1,20 GHz
+- Quantidade máxima de memória gráfica de vídeo: 64 GB
+- Unidades de Execução: 24
+- Suporte para 4K: 60Hz
+- Resolução máxima (HDMI 1.4): 4096x2304@24Hz
+- Resolução máxima (DP): 4096x2304@60Hz
+- Resolução máxima (eDP 
+- tela plana integrada): 4096x2304@60Hz
+- Suporte para DirectX: 12
+- Suporte para OpenGL: 4.5
+- Intel Quick Sync Video
+- Tecnologia Intel InTru 3D
+- Tecnologia de alta definição Intel Clear Video HD
+- Intel Clear Video Technology
+- Nº de telas suportadas: 3
+- ID do dispositivo: 0x3E92
+ 
+Opções de expansão:
+- Escalabilidade: 1S Only
+- Revisão de PCI Express: 3.0
+- Configurações PCI Express: 1x16 ou 2x8 ou 1x8+2x4
+- Nº máximo de linhas PCI Express: 16
+ 
+Pacote:
+- Soquetes suportados: FCLGA1151
+- Configuração máxima da CPU: 1
+- Especificação de solução térmica: PCG 2015C (65W)
+ 
+Tecnologias avançadas:
+- Memória Intel Optane suportada
+- Tecnologia Intel Turbo Boost: 2.0
+- Tecnologia Intel vPro
+- Tecnologia Intel® Hyper-Threading
+- Tecnologia de Virtualização Intel (VT-x)
+- Tecnologia de Virtualização Intel® para E / S Diretas (VT-d)
+- Intel VT-x com tabelas de páginas estendidas (EPT)
+- Intel TSX-NI
+- Intel 64
+- Conjunto de instruções de 64 bits
+- Extensões do conjunto de instruções: SSE4.1 / 4.2, AVX2
+- Estados inativos
+- Tecnologia Enhanced Intel SpeedStep
+- Tecnologias de monitoramento térmico
+- Tecnologia Intel Identity Protection Technology
+- Programa Intel Stable Image Platform Program (SIPP)
+ 
+Segurança e confiabilidade:
+- Novas instruções Intel AES
+- Chave Segura
+- Intel Software Guard Extensions (IntelSGX)
+- Intel Memory Protection Extensions (Intel MPX)
+- Intel OS Guard
+- Intel Trusted Execution Technology
+- Bit de desativação de execução
+- Intel Boot Guard
+Memória:
+ 
+Especificações:
+- Memória: Intel Optane (16GB, M.2 80mm PCIe 3.0, 20nm, 3D Xpoint)
+- Capacidade:16 GB
+- Fator de forma:M.2 22 x 80mm
+- Interface :PCIe NVMe 3.0 x2
+- Compatibilidade: 7ª Geração de processadores Intel
+- Requisito: Windows 10 64 Bits
+ 
+Desempenho:
+- Leitura sequencial (até):900 MB/s
+- Gravação sequencial (até):145 MB/s
+- Leitura aleatória (alcance de 8 GB) (até):190000 IOPS
+- Leitura aleatória (Alcance de 100%):190000 IOPS
+- Gravação aleatória (alcance de 8 GB) (até):35000 IOPS
+- Gravação aleatória (Alcance de 100%):35000 IOPS
+- Latência 
+- Leitura:7 µs
+- Latência 
+- gravação:18 µs
+- Energia 
+- ativa:3.5 Watts
+- Energia 
+- ociosa:1 Watt
+ 
+Confiabilidade:
+- Vibração 
+- operacional:2.17 Grms (5-800 Hz) MAX
+- Vibração 
+- não-operacional:3.13 Grms (5-800 Hz) MAX
+- Choque (operacional e não operacional):1500 G / 0.5 ms
+- Faixa de temperatura operacional:0°C to 70°C
+- Classificação de resistência (gravações no período de vida):182.5 TB
+- Tempo médio entre falhas (MTBF):1.6 Milhões
+- Taxa de erro de bits incorrigíveis (UBER):&lt; 1 sector per 10^15 bits read
+ 
+Tecnologias Avançadas:
+- Monitoração e registro em log da temperatura
+- Proteção de dados de End-to-End
+- Intel Rapid Start Technology
+ 
+Conteúdo da Embalagem:
+- Processador Intel i7-8700 Coffee Lake 8a Geração
+- Cooler
+- Memória Intel Optane 16GB PCI-Express 3.0 
+Garantia
+12 meses de garantia
+Peso
+300 gramas
+
+Preço antigo: R$2235.18
+Preço normal: R$2123.42
+Preço boleto: R$1804.91

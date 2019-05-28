@@ -1,0 +1,37 @@
+- Marca: HyperX
+- Modelo: HX-KB2RD1-US/R2
+ 
+Especificações:
+- Acionamento: CHERRY MX
+- Tipo: Mecânico
+- Backlight: Cor única, vermelho
+- Efeitos de luz: 6 modos de LED e 4 níveis de brilho
+- Tipo de conexão: USB 2.0 (2 conectores USB)
+- Porta USB 2.0
+- Polling rate (taxa de captação): 1.000Hz
+- Anti-ghosting: 100% anti-ghosting
+- Key Rollover: Modo N-key
+- Controle de mídia
+- Modo de jogo
+- Compatibilidade com os sistemas operacionais: Windows® 10, 8.1, 8, 7
+- CHERRY MX Red: Linear, 45cN
+ 
+Cabo:
+- Tipo: Preso, trançado
+- Comprimento: 1,8 m
+ 
+Dimensões:
+- Largura: 444,00mm
+- Profundidade: 226,80mm
+- Altura: 36,30mm
+ 
+Conteúdo da embalagem:
+- Teclado Gamer Mecânico HyperX 
+Garantia
+12 meses de garantia
+Peso
+2095 gramas
+
+Preço antigo: R$631.47
+Preço normal: R$431.47
+Preço boleto: R$366.75

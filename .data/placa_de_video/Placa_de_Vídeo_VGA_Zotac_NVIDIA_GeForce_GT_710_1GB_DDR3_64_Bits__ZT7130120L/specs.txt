@@ -1,0 +1,41 @@
+- Marca: Zotac
+- Modelo: ZT-71301-20L ESP
+ 
+Especificações:
+ 
+ 
+Interface:
+- PCI Express 2.0 x 8
+ 
+Chipset:
+- Fabricante: NVIDIA
+- GPU: GeForce GT 710
+- Clock do Core: 954 MHz
+ 
+Memória:
+- Clock eficaz da memória: 1600MHz
+- Tamanho da memória: 1GB
+- Interface da memória: 64-Bit
+- Tipo de Memória: DDR3
+ 
+API 3D:
+- DirectX 12
+- OpenGL 4.5
+ 
+Portas:
+- 1 x HDMI
+- 1 x DVI
+- 1 x D-SUB
+ 
+Conteúdo da Embalagem:
+- 01 Placa de Vídeo VGA Zotac
+- 01 Driver
+- 01 Manual de instalação 
+Garantia
+12 meses de garantia
+Peso
+415 gramas
+
+Preço antigo: R$258.70
+Preço normal: R$245.76
+Preço boleto: R$208.90

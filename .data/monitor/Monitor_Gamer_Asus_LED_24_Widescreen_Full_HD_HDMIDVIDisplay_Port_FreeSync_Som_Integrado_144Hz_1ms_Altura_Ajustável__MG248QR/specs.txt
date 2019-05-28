@@ -1,0 +1,87 @@
+- Marca: Asus
+- Modelo: MG248QR
+ 
+Especificações:
+ 
+Tela:
+- Tamanho da Tela: 24 Polegadas Widescreen 16:9
+- Saturação de cor : 72%(NTSC) 
+- Tipo de painel: TN
+- Resolução : 1920x1080
+- Brilho máximo : 350 cd/㎡
+- Pixel Pitch : 0.2768milímetro
+- Contraste : 100000000:1 
+- Ângulo de Visualização (CR≧10) : 170°(H)/160°(V)
+- Tempo de resposta : 1ms (Gray to Gray)
+- Número de cores : 16.7milhões
+- Flicker free
+ 
+Recursos de vídeo:
+- Tecnologia Trace Free
+- Seleção do tom de pele : 3 modos
+- Seleção de temperatura de cor : 4 modos
+- Modo Game Plus : (Crosshair/Timer/FPS Counter/Display Alignment)
+- suporte HDCP
+- Low Blue Light 
+- VividPixel 
+- GameVisual :6 modos(Cenário / Corrida / Cinema / RTS / RPG / FPS / sRGB Modes)
+- FreeSync
+- Display Widget
+ 
+Recursos de áudio:
+- Alto-falantes estéreo : 2 estéreos RMS de 2W
+ 
+Teclas de atalho:
+- Selecção de Entrada
+- GamePlus
+- Joystick de Navegação OSD de 5 vias
+- GameVisual
+ 
+Portas / Conexões:
+- HDMI 1.4
+- DisplayPort 1.2
+- Dual-link DVI-D
+- Earphone jack: 3.5mm Mini-Jack
+ 
+Frequência de sinal:
+- Frequência analógica : 30~160 KHz(H) / 50~144 Hz(V)
+- Frequência Digital : 160~160 KHz(H) / 40~144 Hz(V)
+ 
+Consumo de energia:
+- Consumo de energia &lt; 65W*
+- Modo de economia de energia &lt;0.5W
+- Modo desligado &lt;0.5W
+- Voltagem: 100 
+- 240V
+ 
+Design Mecânico:
+- Cor : Preto
+- Inclinação : +33°~-5°
+- Giratória 
+- Pivot 
+- Ajuste da Altura 
+- Montagem na Parede VESA : 100x100mm
+- Super Narrow Bezel Design 
+ 
+Segurança:
+- Trava Kensington
+ 
+Dimensões:
+- Dimensão com suporte (WxHxD): 561x (359 ~ 489) x211mm
+- Dimensão sem suporte (WxHxD): 561x329.1x50.45mm
+ 
+Conteúdo da embalagem:
+- Monitor Gamer ASUS 
+- Cabo de alimentação
+- Adaptador de corrente
+- Guia de iniciação rápida
+- Certificado de garantia
+- Suporte CD 
+Garantia
+12 meses de garantia
+Peso
+7465 gramas
+
+Preço antigo: R$1882.23
+Preço normal: R$1788.12
+Preço boleto: R$1519.90

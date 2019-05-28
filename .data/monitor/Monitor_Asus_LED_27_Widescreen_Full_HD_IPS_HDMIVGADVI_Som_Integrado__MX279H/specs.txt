@@ -1,0 +1,86 @@
+- Marca: ASUS
+- Modelo: MX279H
+ 
+Especificações:
+ 
+Tela:
+- Tamanho da Tela: 27.0"(68.6cm) Widescreen 16:9
+- Retroiluminação LED
+- Tipo de painel: AH-IPS
+- Resolução : 1920x1080
+- Full HD 1080p
+- Pixel Pitch : 0.311mm
+- Brilho máximo : 250 cd/m²
+- Contraste : 80000000:1
+- Ângulo de Visualização (CR≧10): 178º / 178º
+- Tempo de resposta : 5ms (Gray to Gray)
+- Número de cores: 16.7milhões
+ 
+Recursos de vídeo:
+- Tecnologia Trace Free
+- Esplêndida tecnologia de vídeo inteligente
+- Esplêndidos modo de vídeo predefinido: 6 modos (sRGB/Cenário/Cinema/Padrão/Noturno/Jogos)
+- Seleção do tom de pele: 3 modos
+- Seleção de temperatura de cor : 4 modos
+- Modo QuickFit(modes): (Letter/A4/grade de alinhamento/modo foto)
+- Suporte HDCP
+ 
+Recursos de Áudio:
+- Alto-falantes estéreo: 2 estéreos de 3W com Bang &amp; Olufsen ICEpower
+ 
+Teclas de atalho:
+- Seleção do Modo de Vídeo predefinido SPLENDID
+- Ajuste Automático
+- Ajuste do Brilho
+- Ajuste do Volume
+- Selecção de Entrada
+- QuickFit
+ 
+Portas / Conexões:
+- DVI (via cabo HDMI-DVI)
+- 2x HDMI
+- 1x VGA
+- Entrada para fone de ouvido
+- Entrada Mini-Jack 3.5mm
+ 
+Frequência de Sinal:
+- Analógica: 30~80 KHz (H) / 56~76 Hz (V)
+- Digital: 30~80 KHz (H) / 56~76 Hz (V)
+ 
+Consumo de Energia:
+- Ativo (normalmente): &lt;29W*
+- Standby: &lt;0.5W
+- Desativado: &lt;0.5W
+- Voltagem: 100-240V 
+- 50-60Hz
+*Baseado na energia estrela padrão 6.0
+ 
+Design Mecânico:
+- Cor: Prata+Preto
+- Inclinação: +20º~-5º
+- Design Slim
+- Dimensões com suporte: 622.6 x 441.3 x 225.2mm
+ 
+Segurança:
+- Trava Kensington
+ 
+Certificados:
+- Energy Star, BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, J-MOSS, PSE, RoHS, UL/cUL, VCCI, WEEE, WHQL (Windows 8, Windows 7)
+ 
+Conteúdo da Embalagem:
+- Monitor ASUS
+- Cabo VGA
+- Cabo Áudio
+- Cabo de Alimentação 
+- Adaptador de Corrente
+- Guia de Iniciação Rápida
+- Cabo HDMI-DVI 
+- Certificado de garantia 
+Garantia
+12 meses de garantia
+Peso
+7660 gramas
+
+Preço antigo: R$2021.06
+Preço normal: R$1446.94
+Preço boleto: R$1229.90

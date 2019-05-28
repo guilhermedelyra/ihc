@@ -1,0 +1,49 @@
+- Marca: MSI
+- Modelo: GEFORCE GTX 1050 TI 4G OC
+ 
+Especificações:
+ 
+Unidade de processamento gráfico:
+- NVIDIA GeForce GTX 1050 Ti
+ 
+Processador:
+- Core Clock: 1455 MHz / 1341 MHz
+- Núcleos: 768 
+ 
+Memória:
+- Tamanho: 4GB
+- Tipo: GDDR5 de 128-bit
+- Clock da memória: 7008 MHz
+ 
+Conectores:
+- 1x DisplayPort (Version 1.4)
+- 1x HDMI (versão 2.0)
+- 1x DL-DVI-D
+- Máximo Displays: 3
+- Resolução máxima digital: 7680 x 4320
+ 
+Suporte:
+- OpenGL: 4.5
+- Suporte HDCP: 2.2
+- Microsoft DirectX 12
+- PCI Express x16 3.0
+ 
+Alimentação:
+- Consumo máximo: 75W
+- Recomedado fonte de energia: 300 Watts 
+ 
+Físico:
+- Dimensão: 177 x 118 x 34 mm
+ 
+Conteúdo da Embalagem:
+- 01 Placa de Vídeo VGA MSI
+- 01 Driver de Instalação
+- Guia do Usuário 
+Garantia
+12 meses de garantia
+Peso
+680 gramas
+
+Preço antigo: R$1082.24
+Preço normal: R$988.12
+Preço boleto: R$839.90
